@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "morefood:apple_sapling",
+      "menu_category": {
+        "category": "nature",
+        "group": "itemGroup.name.sapling"
+      }
+    },
+    "components": {
+        "minecraft:custom_components": ["morefood:pottable_apple_sapling"],
+      "minecraft:icon": "morefood:apple_sapling",
+      "minecraft:block_placer": { "block": "morefood:apple_sapling_block" }
+    }
+  }
+}

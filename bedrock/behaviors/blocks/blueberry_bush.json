@@ -1,0 +1,167 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "morefood:blueberry_bush",
+      "states": { "morefood:stage": [0, 1, 2, 3, 4, 5, 6, 7] }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "tag:fertilizable": {},
+      "minecraft:custom_components": ["morefood:blueberry_bush"],
+      "minecraft:loot": "loot_tables/morefood/blocks/blueberry.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 0 },
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 0 },
+      "minecraft:collision_box": false,
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:grass_block",
+              "minecraft:dirt",
+              "minecraft:podzol",
+              { "tags": "q.any_tag('dirt','grass') && !q.any_tag('non_full')" }
+            ],
+            "allowed_faces": ["up"]
+          }
+        ]
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('morefood:stage') == 0",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-3.2, 0, -3.2],
+            "size": [6.4, 8, 6.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage0",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 1",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-3.2, 0, -3.2],
+            "size": [6.4, 8, 6.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage1",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 2",
+        "components": {
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage2",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 3",
+        "components": {
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage3",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 4",
+        "components": {
+          "minecraft:loot": "loot_tables/morefood/blocks/mature_blueberry1.json",
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage4",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 5",
+        "components": {
+          "minecraft:loot": "loot_tables/morefood/blocks/mature_blueberry1.json",
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage5",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 6",
+        "components": {
+          "minecraft:loot": "loot_tables/morefood/blocks/mature_blueberry1.json",
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage6",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 7",
+        "components": {
+          "minecraft:loot": "loot_tables/morefood/blocks/mature_blueberry2.json",
+          "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:blueberry_bush_stage7",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

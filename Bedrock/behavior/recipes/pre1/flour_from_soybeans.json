@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:flour_from_soybeans"},"tags":["crafting_table"],"pattern":["# #"," # "],"key":{"#":{"item":"morefood:soybeans"}},"result":[{"item":"morefood:flour"}],"unlock":[{"item":"morefood:soybeans"}]}}

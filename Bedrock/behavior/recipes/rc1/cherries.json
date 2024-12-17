@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cherries"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"minecraft:cherry_leaves"}},"result":[{"item":"morefood:cherries"}],"unlock":[{"item":"minecraft:cherry_leaves"}]}}

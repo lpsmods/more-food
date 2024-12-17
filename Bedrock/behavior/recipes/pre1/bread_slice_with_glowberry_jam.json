@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:bread_slice_with_glowberry_jam"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:bread_slice"},{"item":"morefood:glowberry_jam"}],"result":"morefood:bread_slice_with_glowberry_jam","unlock":[{"item":"morefood:bread_slice"},{"item":"morefood:glowberry_jam"}]}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:diamond_knife"},"tags":["crafting_table"],"group":"morefood","pattern":["#","S"],"key":{"#":{"item":"minecraft:diamond"},"S":{"item":"minecraft:stick"}},"result":{"item":"morefood:knife_diamond"},"unlock":[{"item":"minecraft:diamond"},{"item":"minecraft:stick"}]}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:tumbler_glass"},"tags":["crafting_table"],"group":"morefood","pattern":["# #","# #","###"],"key":{"#":{"item":"minecraft:glass"}},"result":[{"item":"morefood:tumbler_glass","count":4}],"unlock":[{"item":"minecraft:glass"}]}}

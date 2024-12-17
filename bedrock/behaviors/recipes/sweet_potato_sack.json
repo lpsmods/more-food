@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:sweet_potato_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:sweet_potato"}},"result":[{"item":"morefood:sweet_potato_sack","count":1}],"unlock":[{"item":"morefood:sweet_potato"}]}}

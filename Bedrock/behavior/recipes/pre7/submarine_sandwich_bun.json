@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:submarine_sandwich_bun"},"tags":["crafting_table"],"pattern":[" # ","#P#"],"key":{"#":{"item":"morefood:dough"},"P":{"item":"morefood:flour"}},"result":[{"item":"morefood:submarine_sandwich_bun"}],"unlock":[{"item":"morefood:dough"},{"item":"morefood:flour"}]}}

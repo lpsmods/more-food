@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "morefood:olive_sapling",
+      "menu_category": {
+        "group": "itemGroup.name.sapling",
+        "category": "nature"
+      }
+    },
+    "components": {
+        "minecraft:custom_components": ["morefood:pottable_olive_sapling"],
+      "minecraft:icon": "morefood:olive_sapling",
+      "minecraft:block_placer": { "block": "morefood:olive_sapling_block" }
+    }
+  }
+}

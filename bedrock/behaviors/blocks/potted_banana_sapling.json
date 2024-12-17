@@ -1,0 +1,34 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": { "identifier": "morefood:potted_banana_sapling" },
+    "components": {
+      "tag:non_full": {},
+      "tag:morefood:flower_pot": {},
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:custom_components": ["morefood:potted_banana_sapling"],
+      "minecraft:loot": "loot_tables/morefood/blocks/potted_banana_sapling.json",
+      "minecraft:geometry": "geometry.template_flower_pot_cross",
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 0 },
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 0 },
+      "minecraft:collision_box": { "origin": [-3, 0, -3], "size": [6, 6, 6] },
+      "minecraft:selection_box": { "origin": [-3, 0, -3], "size": [6, 6, 6] },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "minecraft:flower_pot",
+          "render_method": "alpha_test"
+        },
+        "flower_pot": {
+          "texture": "minecraft:flower_pot",
+          "render_method": "alpha_test"
+        },
+        "flower": {
+          "texture": "morefood:banana_sapling",
+          "render_method": "alpha_test"
+        },
+        "dirt": { "texture": "minecraft:dirt", "render_method": "alpha_test" }
+      }
+    }
+  }
+}

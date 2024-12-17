@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:glowberry_pie","menu_category":{"group":"itemGroup.name.miscFood","category":"equipment"}},"components":{"minecraft:icon":{"texture":"morefood:glowberry_pie"},"minecraft:use_duration":1.61,"minecraft:food":{"nutrition":8,"saturation_modifier":2.4},"minecraft:use_animation":"eat"}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:jalapeno_cheese_spread"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:jalapeno_cheese_wedge"},{"item":"morefood:jar"}],"result":"morefood:jalapeno_cheese_spread","unlock":[{"item":"morefood:jalapeno_cheese_wedge"},{"item":"morefood:jar"}]}}

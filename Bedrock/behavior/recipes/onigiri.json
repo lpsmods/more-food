@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:onigiri"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:rice"},{"item":"minecraft:dried_kelp"},{"item":"morefood:salt"}],"result":{"item":"morefood:onigiri"},"unlock":[{"item":"morefood:rice"},{"item":"minecraft:dried_kelp"},{"item":"morefood:salt"}]}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:pizza_slice"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:pizza"}},"result":{"item":"morefood:pizza_slice","count":6},"unlock":[{"item":"morefood:pizza"}]}}

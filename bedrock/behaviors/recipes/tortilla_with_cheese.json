@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:tortilla_with_cheese"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:tortilla"},{"item":"morefood:cheese_wedge"}],"result":"morefood:tortilla_with_cheese","unlock":[{"item":"morefood:tortilla"},{"item":"morefood:cheese_wedge"}]}}

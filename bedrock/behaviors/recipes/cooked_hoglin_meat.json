@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_furnace":{"description":{"identifier":"morefood:cooked_hoglin_meat_from_cooking"},"tags":["furnace","smoker","campfire","soul_campfire"],"input":"morefood:hoglin_meat","output":"morefood:cooked_hoglin_meat"}}

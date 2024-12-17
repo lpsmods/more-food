@@ -1,23 +1,25 @@
-# Lot's More Food Mods
+# Lot's More Food
 
-[![patreon](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Fpatreon.json)](https://www.patreon.com/Legopitstop "Go to patreon")
-[![license](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flegopitstop%2Fwebsite-files%2Fmain%2Fshields.io%2Flicense.json)](https://legopitstop.weebly.com/legopitstops-common-license-v2.html "Go to legopitstop.weebly.com")
-[![discord](https://img.shields.io/discord/932661468212641813)](https://discord.gg/8veP32PUEQ "Join discord server")
-[![github](https://img.shields.io/github/issues-raw/legopitstop/Lots-More-Food-Mods)](https://github.com/legopitstop/Lots-More-Food-Mods/issues "Go to Github")
+Adds in 200+ new foods to Minecraft.
 
-This Github is for all morefood editions, Java's datapack edition, Forge edition, and Bedrock's addon. If you find an issue submit it
-via the Issues tab so we can get it fixed. If you have a feature request also submit it through the Issues tab.
+## Mod Data
 
-## Recipes
-You can find all recipes via the [Official Lot's More Food Wiki](https://more-food.fandom.com/wiki/Lot%27s_More_Food_Mod_Wiki)
+| Key       | Value       |
+| --------- |-------------|
+| namespace | `morefood`  |
+| slug      | `more-food` |
 
-## FAQ
-You can find more food faq via the wiki. Go to [Wiki/FAQ](https://github.com/legopitstop/Lots-More-Food-Mods/wiki/FAQ "Go to Wiki/FAQ")
+## Editions
 
+- Bedrock
+- Data Pack
+- Fabric
+- Forge
+- NeoForge
 
-## Like Lot's More Food?
-Like lot's more food and all it has to offer? Want it to keep receiving updates? Consider helping out by donating. Donating Lets us know that you love what this mod has to offer, but keeping all the editions up-to-date is a very time-consuming task (especially for one person). Thank You.
+## LINKS
 
-[Patreon](https://www.patreon.com/Legopitstop)
-
-[Ko-fi](https://ko-fi.com/V7V629T96)
+- [Download](https://www.curseforge.com/minecraft/mc-mods/lots-more-food-fabric)
+- [Wiki Page](https://docs.lpsmods.dev/more-food)
+- [License](https://license.lpsmods.dev)
+- [Bug Report](https://github.com/lpsmods/more-food/issues)

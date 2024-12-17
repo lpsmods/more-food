@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:peppermint_seeds_from_peppermint"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:peppermint"}},"result":"morefood:peppermint_seeds","unlock":[{"item":"morefood:peppermint"}]}}

@@ -1,7 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "morefood:wedges"
-    },
-    "result": "morefood:cooked_wedges"
-}

@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:glowberry_jam", "menu_category": {"group": "itemGroup.name.miscFood", "category": "equipment"}}, "components": {"minecraft:max_stack_size": 1, "minecraft:icon": "morefood:glowberry_jam"}}}

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Lots More Food Mods.iml" filepath="$PROJECT_DIR$/.idea/Lots More Food Mods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more-food.iml" filepath="$PROJECT_DIR$/.idea/modules/more-food.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/more-food.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/more-food.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/more-food.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/more-food.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/more-food.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/more-food.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/more-food.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/more-food.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/more-food.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/more-food.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/more-food.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/more-food.neoforge.main.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,0 @@
-{
-    "parent": "morefood:block/template_empty_large_pale_block",
-    "textures": {
-        "texture": "morefood:block/large_pumpkin_pale_block"
-    }
-}

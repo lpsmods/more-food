@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:rabbit_block"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"minecraft:rabbit"}},"result":[{"item":"morefood:rabbit_block","count":1}],"unlock":[{"item":"minecraft:rabbit"}]}}

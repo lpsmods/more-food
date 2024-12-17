@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:jalapeno_cheese_wedge"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:truckle_of_jalapeno_cheese"}},"result":[{"item":"morefood:jalapeno_cheese_wedge","count":6}],"unlock":[{"item":"morefood:truckle_of_jalapeno_cheese"}]}}

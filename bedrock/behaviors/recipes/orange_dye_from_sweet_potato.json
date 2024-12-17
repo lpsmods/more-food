@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:orange_dye_from_sweet_potato"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:sweet_potato"},{"item":"morefood:sweet_potato"}],"result":{"item":"minecraft:orange_dye","count":2},"unlock":[{"item":"morefood:sweet_potato"},{"item":"morefood:sweet_potato"}]}}

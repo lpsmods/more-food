@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:orange_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:orange"}},"result":[{"item":"morefood:orange_sack","count":1}],"unlock":[{"item":"morefood:orange"}]}}

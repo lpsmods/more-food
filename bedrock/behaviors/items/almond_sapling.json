@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "morefood:almond_sapling",
+      "menu_category": {
+        "group": "itemGroup.name.sapling",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:custom_components": ["morefood:pottable_almond_sapling"],
+      "minecraft:icon": "morefood:almond_sapling",
+      "minecraft:block_placer": { "block": "morefood:almond_sapling_block" }
+    }
+  }
+}

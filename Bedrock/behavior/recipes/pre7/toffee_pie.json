@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:toffee_pie"},"tags":["crafting_table"],"group":"morefood:pie","pattern":["###"," P "],"key":{"#":{"item":"morefood:toffee"},"P":{"item":"morefood:pie_crust"}},"result":{"item":"morefood:toffee_pie"},"unlock":[{"item":"morefood:toffee"},{"item":"morefood:pie_crust"}]}}

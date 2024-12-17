@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:large_bowl"},"tags":["crafting_table"],"ingredients":[{"count":2,"item":"minecraft:bowl"}],"result":{"item":"morefood:large_bowl"},"unlock":[{"item":"minecraft:bowl"}]}}

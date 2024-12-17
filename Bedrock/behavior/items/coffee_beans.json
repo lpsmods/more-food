@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:coffee_beans","menu_category":{"group":"itemGroup.name.seed","category":"nature"}},"components":{"minecraft:icon":{"texture":"morefood:coffee_beans"},"minecraft:block_placer":{"block":"morefood:coffee_bush","on_use":["minecraft:dirt","minecraft:grass","minecraft:podzol"]}}}}

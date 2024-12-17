@@ -1,0 +1,1 @@
+export class PottableComponent{constructor(o,t="minecraft:flower_pot"){this.block=o,this.flowerPot=t,this.onUseOn=this.onUseOn.bind(this)}onUseOn(o){if(o.usedOnBlockPermutation.type.id!=this.flowerPot)return;o.source.getBlockFromViewDirection().block.setType(this.block)}}

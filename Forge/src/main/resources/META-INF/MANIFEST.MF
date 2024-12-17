@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: Lot's More Food
-Implementation-Version: 1.0.0-pre1
-Specification-Vendor: Legopitstop
-Specification-Title: morefood
-Implementation-Timestamp: 2020-09-12T18:55:53-0500
-Specification-Version: 1
-Implementation-Vendor: Legopitstop

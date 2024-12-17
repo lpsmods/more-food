@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:lettuce", "menu_category": {"group": "itemGroup.name.crop", "category": "nature"}}, "components": {"minecraft:icon": "morefood:lettuce", "minecraft:use_animation": "eat", "minecraft:use_modifiers": {"use_duration": 1.61}, "minecraft:food": {"nutrition": 1, "saturation_modifier": 6.0}}}}

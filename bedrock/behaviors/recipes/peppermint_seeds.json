@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:peppermint_seeds"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:spearmint"},{"item":"morefood:watermint"}],"result":"morefood:peppermint_seeds","unlock":[{"item":"morefood:spearmint"},{"item":"morefood:watermint"}]}}

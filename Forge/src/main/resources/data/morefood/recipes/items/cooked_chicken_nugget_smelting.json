@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "cookingtime": 20,
-    "experience": 0.04,
-    "ingredient": {
-        "item": "morefood:chicken_nugget"
-    },
-    "result": "morefood:cooked_chicken_nugget"
-}

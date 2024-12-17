@@ -1,8 +1,0 @@
-{
-  "variants" : {
-    "facing=north": {"model": "morefood:block/stove"},
-    "facing=south": {"model": "morefood:block/stove","y": 180},
-    "facing=west": {"model": "morefood:block/stove","y": 270},
-    "facing=east": {"model": "morefood:block/stove","y": 90}
-  }
-}

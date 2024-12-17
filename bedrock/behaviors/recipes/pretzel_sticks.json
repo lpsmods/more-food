@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:pretzel_sticks"},"tags":["crafting_table"],"pattern":["PPP"],"key":{"P":{"item":"morefood:pretzel"}},"result":{"item":"morefood:pretzel_sticks","count":9},"unlock":[{"item":"morefood:pretzel"}]}}

@@ -1,0 +1,133 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "morefood:hanging_banana",
+      "states": { "morefood:stage": [0, 1, 2, 3, 4, 5, 6, 7] }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "tag:fertilizable": {},
+      "minecraft:custom_components": ["morefood:hanging_banana"],
+      "minecraft:loot": "loot_tables/morefood/blocks/hanging_banana.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 0 },
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:collision_box": false,
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.3 },
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:leaves",
+              "minecraft:leaves2",
+              "minecraft:azalea_leaves",
+              "minecraft:azalea_leaves_flowered",
+              "minecraft:cherry_leaves",
+              "minecraft:mangrove_leaves",
+              { "tags": "q.any_tag('leaves') && !q.any_tag('non_full')" }
+            ],
+            "allowed_faces": ["down"]
+          }
+        ]
+      },
+      "minecraft:selection_box": {
+        "origin": [-6.2, 8, -6.2],
+        "size": [12.4, 8, 12.4]
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('morefood:stage') == 0",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage0",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 1",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage1",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 2",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage2",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 3",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage3",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 4",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage4",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 5",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage5",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 6",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage6",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:stage') == 7",
+        "components": {
+          "minecraft:loot": "loot_tables/morefood/blocks/mature_banana.json",
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:hanging_banana_stage7",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

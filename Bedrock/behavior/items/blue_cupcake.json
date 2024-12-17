@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:blue_cupcake","menu_category":{"group":"itemGroup.name.miscFood","category":"equipment"}},"components":{"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:icon":{"texture":"morefood:blue_cupcake"},"minecraft:food":{"nutrition":2,"saturation_modifier":0.2}}}}

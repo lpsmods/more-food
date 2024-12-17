@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:grape_juice"},"tags":["crafting_table"],"group":"morefood:juice","pattern":["###"," G "],"key":{"#":{"item":"morefood:grape"},"G":{"item":"morefood:tumbler_glass"}},"result":[{"item":"morefood:grape_juice"}],"unlock":[{"item":"morefood:grape"},{"item":"morefood:tumbler_glass"}]}}

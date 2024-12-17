@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:garlic_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:garlic_sack"}},"result":[{"item":"morefood:garlic","count":9}],"unlock":[{"item":"morefood:garlic_sack"}]}}

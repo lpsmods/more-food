@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:paper_from_pulp"},"tags":["crafting_table"],"pattern":["##","##"],"key":{"#":{"item":"morefood:pulp"}},"result":"minecraft:paper","unlock":[{"item":"morefood:pulp"}]}}

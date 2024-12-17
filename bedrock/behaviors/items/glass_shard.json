@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:glass_shard", "menu_category": {"group": "itemGroup.search", "category": "items"}}, "components": {"minecraft:icon": "morefood:glass_shard"}}}

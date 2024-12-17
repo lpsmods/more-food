@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:tortilla_with_jalapeno_cheese"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:tortilla"},{"item":"morefood:jalapeno_cheese_wedge"}],"result":"morefood:tortilla_with_jalapeno_cheese","unlock":[{"item":"morefood:tortilla"},{"item":"morefood:jalapeno_cheese_wedge"}]}}

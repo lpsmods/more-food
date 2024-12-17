@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:warped_berries"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"minecraft:warped_wart_block"}},"result":[{"item":"morefood:warped_berries","count":9}],"unlock":[{"item":"minecraft:warped_wart_block"}]}}

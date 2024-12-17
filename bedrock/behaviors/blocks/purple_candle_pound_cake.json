@@ -1,0 +1,76 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "morefood:purple_candle_pound_cake",
+      "states": { "morefood:lit": [false, true] }
+    },
+    "components": {
+        "minecraft:custom_components": ["morefood:purple_candle_pound_cake"],
+      "minecraft:loot": "loot_tables/morefood/candles/purple_candle.json",
+      "minecraft:geometry": "geometry.template_cake_with_candle",
+      "minecraft:light_dampening": 0,
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 0.5 },
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 0.5 },
+      "minecraft:selection_box": { "origin": [-7, 0, -7], "size": [14, 8, 14] },
+      "minecraft:collision_box": { "origin": [-7, 0, -7], "size": [14, 8, 14] }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('morefood:lit') == false",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:pound_cake_bottom",
+              "render_method": "opaque"
+            },
+            "side": {
+              "texture": "morefood:pound_cake_side",
+              "render_method": "opaque"
+            },
+            "candle": {
+              "texture": "minecraft:purple_candle",
+              "render_method": "opaque"
+            },
+            "top": {
+              "texture": "morefood:pound_cake_top",
+              "render_method": "opaque"
+            },
+            "bottom": {
+              "texture": "morefood:pound_cake_bottom",
+              "render_method": "opaque"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('morefood:lit') == true",
+        "components": {
+          "minecraft:light_emission": 3,
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "morefood:pound_cake_bottom",
+              "render_method": "opaque"
+            },
+            "side": {
+              "texture": "morefood:pound_cake_side",
+              "render_method": "opaque"
+            },
+            "candle": {
+              "texture": "minecraft:purple_candle_lit",
+              "render_method": "opaque"
+            },
+            "top": {
+              "texture": "morefood:pound_cake_top",
+              "render_method": "opaque"
+            },
+            "bottom": {
+              "texture": "morefood:pound_cake_bottom",
+              "render_method": "opaque"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

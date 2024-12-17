@@ -1,0 +1,8 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [{ "type": "item", "name": "morefood:beans", "weight": 1 }]
+    }
+  ]
+}

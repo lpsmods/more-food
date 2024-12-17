@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:coconut_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:coconut"}},"result":[{"item":"morefood:coconut_sack","count":1}],"unlock":[{"item":"morefood:coconut"}]}}

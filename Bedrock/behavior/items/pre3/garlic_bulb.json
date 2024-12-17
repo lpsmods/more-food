@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:garlic_bulb","menu_category":{"group":"itemGroup.name.seed","category":"nature"}},"components":{"minecraft:icon":{"texture":"morefood:garlic_bulb"},"minecraft:block_placer":{"block":"morefood:garlic_crop","on_use":["minecraft:farmland","morefood:fertile_soil"]}}}}

@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "morefood:avocado_sapling",
+      "menu_category": {
+        "group": "itemGroup.name.sapling",
+        "category": "nature"
+      }
+    },
+    "components": {
+        "minecraft:custom_components": ["morefood:pottable_avocado_sapling"],
+      "minecraft:icon": "morefood:avocado_sapling",
+      "minecraft:block_placer": { "block": "morefood:avocado_sapling_block" }
+    }
+  }
+}

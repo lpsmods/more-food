@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:vanilla_extract"},"tags":["crafting_table"],"pattern":["###"," P "],"key":{"#":{"item":"morefood:vanilla_pod"},"P":{"item":"morefood:bottle"}},"result":[{"item":"morefood:vanilla_extract"}],"unlock":[{"item":"morefood:vanilla_pod"},{"item":"morefood:bottle"}]}}

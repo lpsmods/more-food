@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:blue_dye_from_blueberries"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:blueberries"},{"item":"morefood:blueberries"}],"result":{"item":"minecraft:blue_dye","count":2},"unlock":[{"item":"morefood:blueberries"},{"item":"morefood:blueberries"}]}}

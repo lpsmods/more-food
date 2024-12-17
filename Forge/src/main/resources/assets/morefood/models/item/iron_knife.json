@@ -1,7 +1,0 @@
-{
-    "parent": "morefood:template/template_knife",
-    "textures": {
-        "handle": "minecraft:block/black_concrete",
-        "blade": "minecraft:block/iron_block"
-    }
-}

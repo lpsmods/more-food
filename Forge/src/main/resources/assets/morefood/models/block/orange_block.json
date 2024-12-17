@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "morefood:block/orange_block_top",
-    "side": "morefood:block/orange_block"
-  }
-}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:coffee_bean_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:coffee_bean_sack"}},"result":[{"item":"morefood:coffee_beans","count":9}],"unlock":[{"item":"morefood:coffee_bean_sack"}]}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:copper_knife"},"tags":["crafting_table"],"group":"morefood","pattern":["#","S"],"key":{"#":{"item":"minecraft:copper_ingot"},"S":{"item":"minecraft:stick"}},"result":{"item":"morefood:copper_knife"},"unlock":[{"item":"minecraft:copper_ingot"},{"item":"minecraft:stick"}]}}

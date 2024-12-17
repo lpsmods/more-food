@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "4e098d16-f6b4-11e9-802a-5aa538984bd8",
+    "version": [1, 6, 9],
+    "min_engine_version": [1, 21, 20]
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "resources",
+      "uuid": "f0087188-7e01-47ba-bfd7-275a4f143e84",
+      "version": [1, 6, 9]
+    }
+  ],
+  "metadata": {
+    "authors": ["legopitstop", "SuperSonic"],
+    "license": "https://license.lpsmods.dev",
+    "url": "https://lpsmods.dev"
+  }
+}

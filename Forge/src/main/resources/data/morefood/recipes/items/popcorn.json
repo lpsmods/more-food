@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "morefood:corn_on_cob"
-  },
-  "result": "morefood:popcorn",
-  "experience": 0.35,
-  "cookingtime": 200
-}

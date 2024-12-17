@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:bat_meat", "menu_category": {"group": "itemGroup.name.rawFood", "category": "nature"}}, "components": {"minecraft:use_animation": "eat", "minecraft:use_modifiers": {"use_duration": 1.61}, "minecraft:icon": "morefood:bat_meat", "minecraft:food": { "nutrition": 2, "saturation_modifier": 0.2}}}}

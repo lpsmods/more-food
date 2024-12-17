@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:sweet_french_fry_pot"},"tags":["crafting_table"],"pattern":["C","F"],"key":{"C":{"item":"morefood:sweet_french_fries"},"F":{"item":"minecraft:flower_pot"}},"result":"morefood:sweet_french_fry_pot","unlock":[{"item":"morefood:sweet_french_fries"},{"item":"minecraft:flower_pot"}]}}

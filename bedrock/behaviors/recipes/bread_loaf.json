@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:bread_loaf"},"tags":["crafting_table"],"pattern":["###","###"," P "],"key":{"#":{"item":"morefood:dough"},"P":{"item":"morefood:flour"}},"result":[{"item":"morefood:bread_loaf"}],"unlock":[{"item":"morefood:dough"},{"item":"morefood:flour"}]}}

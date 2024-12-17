@@ -1,2 +1,0 @@
-## README
-You are not allowed to use ANY of the item and block textures used in this pack. It is recomended to check the LICENSE file or you can find an online version of the license here: https://legopitstop.weebly.com/legopitstops-common-license-v2.html

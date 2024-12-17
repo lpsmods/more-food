@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:bread_slice_with_cheese"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:bread_slice"},{"item":"morefood:cheese_spread"}],"result":"morefood:bread_slice_with_cheese","unlock":[{"item":"morefood:bread_slice"},{"item":"morefood:cheese_spread"}]}}

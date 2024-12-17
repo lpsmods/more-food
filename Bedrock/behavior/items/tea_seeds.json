@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:tea_seeds","menu_category":{"group":"itemGroup.name.seed","category":"nature"}},"components":{"minecraft:icon":{"texture":"morefood:tea_seeds"},"minecraft:block_placer":{"block":"morefood:tea_bush","on_use":["minecraft:dirt","minecraft:grass","minecraft:podzol","morefood:fertile_soil"]}}}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:lettuce_seed_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:lettuce_seed_sack"}},"result":[{"item":"morefood:lettuce_seeds","count":9}],"unlock":[{"item":"morefood:lettuce_seed_sack"}]}}

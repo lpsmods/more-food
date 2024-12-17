@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:sugar_cookie_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:sugar_cookie"}},"result":[{"item":"morefood:sugar_cookie_sack","count":1}],"unlock":[{"item":"morefood:sugar_cookie"}]}}

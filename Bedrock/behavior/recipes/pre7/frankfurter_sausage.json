@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:frankfurter_sausage"},"tags":["crafting_table"],"pattern":[" # ","# #"],"key":{"#":{"item":"minecraft:porkchop"}},"result":{"item":"morefood:frankfurter_sausage","count":4},"unlock":[{"item":"minecraft:porkchop"}]}}

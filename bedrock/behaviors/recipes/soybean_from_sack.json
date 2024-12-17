@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:soybean_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:soybean_sack"}},"result":[{"item":"morefood:soybeans","count":9}],"unlock":[{"item":"morefood:soybean_sack"}]}}

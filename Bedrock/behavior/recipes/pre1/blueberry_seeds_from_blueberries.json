@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:blueberry_seeds_from_blueberries"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:blueberries"}},"result":"morefood:blueberry_seeds","unlock":[{"item":"morefood:blueberries"}]}}

@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:red_dye_from_raspberry"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:raspberry"},{"item":"morefood:raspberry"}],"result":{"item":"minecraft:red_dye","count":2},"unlock":[{"item":"morefood:raspberry"},{"item":"morefood:raspberry"}]}}

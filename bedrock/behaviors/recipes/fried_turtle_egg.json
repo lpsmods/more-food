@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_furnace":{"description":{"identifier":"morefood:fried_turtle_egg_from_cooking"},"tags":["furnace","smoker","campfire","soul_campfire"],"input":"minecraft:turtle_egg","output":"morefood:fried_egg"}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:poisonous_sweet_potato_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:poisonous_sweet_potato"}},"result":[{"item":"morefood:poisonous_sweet_potato_sack","count":1}],"unlock":[{"item":"morefood:poisonous_sweet_potato"}]}}

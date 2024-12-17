@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:oil_from_sunflower"},"tags":["crafting_table"],"pattern":["###","###"," P "],"key":{"#":{"item":"minecraft:double_plant"},"P":{"item":"morefood:bottle"}},"result":[{"item":"morefood:oil"}],"unlock":[{"item":"minecraft:double_plant"},{"item":"morefood:bottle"}]}}

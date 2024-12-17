@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:wooden_spoon"},"tags":["crafting_table"],"group":"morefood","pattern":["###","#P#","###"],"key":{"#":{"item":"minecraft:planks"},"P":{"item":"minecraft:wooden_shovel"}},"result":{"item":"morefood:wooden_spoon"},"unlock":[{"item":"minecraft:planks"},{"item":"minecraft:wooden_shovel"}]}}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "morefood:veganburger_patty"
-  },
-  "result": "morefood:veganburger_patty"
-}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:potato_wedges"},"tags":["crafting_table"],"pattern":[" # ","###"],"key":{"#":{"item":"minecraft:potato"}},"result":[{"item":"morefood:potato_wedges","count":3}],"unlock":[{"item":"minecraft:potato"}]}}

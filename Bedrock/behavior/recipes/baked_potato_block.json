@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:baked_potato_block"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"minecraft:baked_potato"}},"result":[{"item":"morefood:baked_potato_block","count":1}],"unlock":[{"item":"minecraft:baked_potato"}]}}

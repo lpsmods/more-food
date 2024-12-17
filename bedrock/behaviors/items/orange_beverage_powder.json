@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:orange_beverage_powder", "menu_category": {"group": "itemGroup.search", "category": "items"}}, "components": {"minecraft:icon": "morefood:orange_beverage_powder"}}}

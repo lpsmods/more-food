@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:structure_template_feature":{"description":{"identifier":"morefood:palm_tree_feature"},"structure_name":"morefoodtree:palm_tree","adjustment_radius":8,"facing_direction":"random","constraints":{"grounded":{},"unburied":{},"block_intersection":{"block_allowlist":["minecraft:air"]}}}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:onion_seeds_from_onion"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:onion"}},"result":"morefood:onion_seeds","unlock":[{"item":"morefood:onion"}]}}

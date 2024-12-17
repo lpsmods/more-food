@@ -1,9 +1,0 @@
-{
-	"parent": "morefood:template/template_stove",
-	"textures": {
-		"outside": "minecraft:block/bricks",
-		"grill": "minecraft:block/anvil",
-		"log": "minecraft:block/campfire_log",
-		"fire": "minecraft:block/campfire_fire"
-	}
-}

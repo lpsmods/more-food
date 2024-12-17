@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:breadsticks_with_jam"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:breadsticks"},{"item":"morefood:jam"}],"result":"morefood:breadsticks_with_jam","unlock":[{"item":"morefood:breadsticks"},{"item":"morefood:jam"}]}}

@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "morefood:block/grape_bush_stage3"
-    }
-}

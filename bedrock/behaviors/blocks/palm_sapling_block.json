@@ -1,0 +1,46 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:block": {
+    "description": {
+      "identifier": "morefood:palm_sapling_block",
+      "states": { "morefood:stage": [0, 1] }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "tag:fertilizable": {},
+      "minecraft:custom_components": ["morefood:palm_sapling"],
+      "minecraft:loot": "loot_tables/morefood/blocks/palm_sapling.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 0 },
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 0 },
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:collision_box": false,
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:grass_block",
+              "minecraft:dirt",
+              "minecraft:podzol",
+              "minecraft:dirt_with_roots",
+              { "tags": "q.any_tag('dirt','grass') && !q.any_tag('non_full')" }
+            ],
+            "allowed_faces": ["up"]
+          }
+        ]
+      },
+      "minecraft:selection_box": {
+        "origin": [-6.5, 0, -6.5],
+        "size": [13, 12.5, 13]
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "morefood:palm_sapling",
+          "render_method": "alpha_test"
+        }
+      }
+    }
+  }
+}

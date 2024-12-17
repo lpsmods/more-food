@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:pickles"},"tags":["crafting_table"],"pattern":["#P"],"key":{"#":{"item":"morefood:bottled_white_wine"},"P":{"item":"morefood:gherkin"}},"result":[{"item":"morefood:pickles","count":6}],"unlock":[{"item":"morefood:bottled_white_wine"},{"item":"morefood:gherkin"}]}}

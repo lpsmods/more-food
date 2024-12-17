@@ -1,32 +1,27 @@
-modLoader="javafml"
-loaderVersion="[37,)"
-license="LPS Common License"
-issueTrackerURL="https://github.com/legopitstop/Lots-More-Food-Mods/issues"
+modLoader = "javafml"
+loaderVersion = "${forge_loader_version_range}"
+license = "${license}"
+issueTrackerURL="https://github.com/lpsmods/more-food/issues"
 
-[[mods]] #mandatory
-modId="morefood"
-version="1.3.0-beta1"
-displayName="Lot's More Food"
-updateJSONURL="https://github.com/legopitstop/ModUpdates/raw/master/LotsMoreFood/update.json"
-displayURL="https://www.curseforge.com/minecraft/mc-mods/lots-more-food-forge"
-logoFile="banner.png"
-credits="Now available for forge!"
-authors="Legopitstop"
-itemIcon="morefood:hamburger"
-description='''
- Ever thought that Minecraft needed more food? Then this is your mod! This mod adds more than 200+ Foods. Use to replenish those health and hunger points.
-'''
-
-[[dependencies.morefood]]
-    modId="forge"
-    mandatory=true
-    versionRange="[37,)"
-    ordering="NONE"
-    side="BOTH"
-
-[[dependencies.morefood]]
-    modId="minecraft"
-    mandatory=true
-    versionRange="[1.17.1,1.18)"
-    ordering="NONE"
-    side="BOTH"
+[[mods]]
+modId = "${mod_id}"
+version = "${version}"
+displayName = "${mod_name}"
+updateJSONURL="https://api.modrinth.com/updates/more-food/forge_updates.json"
+displayURL="https://lpsmods.dev/"
+logoFile = "assets/${mod_id}/banner.png"
+credits = "${credits}"
+authors = "${mod_author}"
+description = '''${description}'''
+[[dependencies.${mod_id}]]
+modId = "forge"
+mandatory = true
+versionRange = "[${forge_version},)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.${mod_id}]]
+modId = "minecraft"
+mandatory = true
+versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"

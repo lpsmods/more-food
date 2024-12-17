@@ -1,0 +1,1 @@
+import{ItemStack}from"@minecraft/server";export class PottedFlowerComponent{constructor(t,e="minecraft:flower_pot"){this.item=t,this.flowerPot=e,this.onPlayerInteract=this.onPlayerInteract.bind(this)}onPlayerInteract(t){const e=t.player.getComponent("inventory");e&&(e.container.addItem(new ItemStack(this.item)),t.block.setType(this.flowerPot))}}

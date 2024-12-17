@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:corn_cob_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:corncob"}},"result":[{"item":"morefood:corn_cob_sack","count":1}],"unlock":[{"item":"morefood:corncob"}]}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:pulp_from_chicken_select_box"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:chicken_select_box"}},"result":"morefood:pulp","unlock":[{"item":"morefood:chicken_select_box"}]}}

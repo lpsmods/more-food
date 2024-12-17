@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:tomato_puree"},"tags":["crafting_table"],"pattern":["###","###"," P "],"key":{"#":{"item":"morefood:tomato"},"P":{"item":"morefood:jar"}},"result":[{"item":"morefood:tomato_puree"}],"unlock":[{"item":"morefood:tomato"},{"item":"morefood:jar"}]}}

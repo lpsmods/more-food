@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "morefood:spearmint",
+      "menu_category": { "group": "itemGroup.name.grass", "category": "nature" }
+    },
+    "components": {
+      "minecraft:custom_components": [
+        "morefood:minty",
+        "morefood:pottable_spearmint"
+      ],
+      "minecraft:icon": "morefood:spearmint",
+      "minecraft:block_placer": { "block": "morefood:spearmint_plant" },
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": { "use_duration": 1.61 },
+      "minecraft:food": { "nutrition": 1, "saturation_modifier": 1.0 }
+    }
+  }
+}

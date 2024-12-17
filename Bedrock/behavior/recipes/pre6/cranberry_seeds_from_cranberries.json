@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cranberry_seeds_from_cranberries"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:cranberries"}},"result":"morefood:cranberry_seeds","unlock":[{"item":"morefood:cranberries"}]}}

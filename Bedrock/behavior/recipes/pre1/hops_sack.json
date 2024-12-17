@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:hops_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:hops"}},"result":[{"item":"morefood:hops_sack","count":1}],"unlock":[{"item":"morefood:hops"}]}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:squid_block"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:squid"}},"result":[{"item":"morefood:squid_block","count":1}],"unlock":[{"item":"morefood:squid"}]}}

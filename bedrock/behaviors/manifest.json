@@ -1,0 +1,43 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+    "version": [1, 6, 9],
+    "min_engine_version": [1, 21, 20]
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "data",
+      "uuid": "586073da-205f-444e-842c-54b748ef2d08",
+      "version": [1, 7, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "a312dc03-2c14-444d-940c-331784327c6d",
+      "version": [1, 6, 9],
+      "language": "javascript",
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    { "module_name": "@minecraft/server", "version": "1.13.0" },
+    {
+      "description": "More Food RP Needed",
+      "uuid": "4e098d16-f6b4-11e9-802a-5aa538984bd8",
+      "version": [1, 6, 9]
+    },
+    {
+      "description": "Assets Plus RP",
+      "uuid": "c86dd7d9-e84e-456f-a84f-1993e353da4c",
+      "version": [1, 6, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Legopitstop", "SuperSonic"],
+    "license": "https://license.lpsmods.dev",
+    "url": "https://lpsmods.dev/"
+  }
+}

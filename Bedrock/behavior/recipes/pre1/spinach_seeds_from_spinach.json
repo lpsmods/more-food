@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:spinach_seeds_from_spinach"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:spinach"}},"result":"morefood:spinach_seeds","unlock":[{"item":"morefood:spinach"}]}}

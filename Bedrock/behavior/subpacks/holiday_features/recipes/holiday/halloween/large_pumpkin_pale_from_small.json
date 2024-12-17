@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:large_pumpkin_pale_from_small"},"tags":["crafting_table"],"group":"halloween","pattern":["###"],"key":{"#":{"item":"morefood:small_pumpkin_pale"}},"result":[{"item":"morefood:large_pumpkin_pale","count":1}],"unlock":[{"item":"morefood:small_pumpkin_pale"}]}}

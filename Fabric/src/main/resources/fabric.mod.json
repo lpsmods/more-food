@@ -1,47 +1,36 @@
 {
-	"schemaVersion": 1,
-	"id": "morefood",
-	"version": "${version}",
-	"name": "Lot's More Food",
-	"description": "Adds over 200+ new foods to your world!!",
-	"authors": [
-		"legopitstop"
-	],
-	"contact": {
-		"homepage": "https://legopitstop.weebly.com",
-		"sources": "https://github.com/legopitstop/Lots-More-Food-Mods",
-		"issues": "https://github.com/legopitstop/Lots-More-Food-Mods/issues"
-	},
-	"license": "CC-BY-NC-ND-4.0",
-	"icon": "assets/morefood/icon.png",
-	"environment": "*",
-	"entrypoints": {
-		"main": [
-			"com.legopitstop.morefood.MoreFood"
-		],
-		"client": [
-			"com.legopitstop.morefood.MoreFoodClient"
-		],
-		"fabric-datagen": [
-          "com.legopitstop.morefood.MoreFoodDataGenerator"
-		]
-	},
-	"mixins": [
-		"morefood.mixins.json"
-	],
-	"depends": {
-		"fabricloader": ">=0.14.21",
-		"minecraft": "1.20.4",
-		"java": ">=17",
-		"fabric-api": "*"
-	},
-	"suggests": {},
-	"custom": {
-		"modmenu": {
-			"links": {
-				"modmenu.discord": "https://discord.gg/8veP32PUEQ"
-			},
-			"update_checker": true
-		}
-	}
+    "schemaVersion": 1,
+    "id": "${mod_id}",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "${description}",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+        "homepage": "https://lpsmods.dev/",
+        "sources": "https://github.com/lpsmods/more-food"
+    },
+    "license": "${license}",
+    "icon": "assets/${mod_id}/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "dev.lpsmods.morefood.MoreFood"
+        ],
+        "client": [
+            "dev.lpsmods.morefood.ClientMoreFood"
+        ]
+    },
+    "mixins": [
+        "${mod_id}.mixins.json",
+        "${mod_id}.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${fabric_loader_version}",
+        "fabric-api": "*",
+        "minecraft": "${minecraft_version}",
+        "java": ">=${java_version}"
+    }
 }
+  

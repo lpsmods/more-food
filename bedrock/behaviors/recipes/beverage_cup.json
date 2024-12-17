@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:beverage_cup"},"tags":["crafting_table"],"group":"morefood","pattern":["XX","##","##"],"key":{"#":{"item":"minecraft:paper"},"X":{"item":"minecraft:white_dye"}},"result":{"item":"morefood:beverage_cup","count":2},"unlock":[{"item":"minecraft:paper"},{"item":"minecraft:white_dye"}]}}

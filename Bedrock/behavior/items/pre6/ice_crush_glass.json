@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:ice_crush_glass","menu_category":{"group":"itemGroup.search","category":"items"}},"components":{"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:icon":{"texture":"morefood:ice_crush_glass"}}}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:almond_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:almond_sack"}},"result":[{"item":"morefood:almonds","count":9}],"unlock":[{"item":"morefood:almond_sack"}]}}

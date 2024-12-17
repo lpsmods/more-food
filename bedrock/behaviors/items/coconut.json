@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:coconut", "menu_category": {"group": "itemGroup.name.crop", "category": "nature"}}, "components": {"minecraft:icon": "morefood:coconut"}}}

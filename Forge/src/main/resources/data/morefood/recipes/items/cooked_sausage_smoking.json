@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smoking",
-  "experience": 0.35,
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "morefood:sausage"
-  },
-  "result": "morefood:cooked_sausage"
-}

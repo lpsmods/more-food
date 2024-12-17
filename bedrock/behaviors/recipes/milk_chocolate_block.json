@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:milk_chocolate_block"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:milk_chocolate"}},"result":[{"item":"morefood:milk_chocolate_block","count":1}],"unlock":[{"item":"morefood:milk_chocolate"}]}}

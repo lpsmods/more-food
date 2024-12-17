@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shaped":{"description":{"identifier":"morefood:mashed_potatoes"},"tags":["crafting_table"],"pattern":["###"," B "],"key":{"#":{"item":"minecraft:potato"},"B":{"item":"morefood:large_bowl"}},"result":"morefood:mashed_potatoes","unlock":[{"item":"minecraft:potato"},{"item":"morefood:large_bowl"}]}}

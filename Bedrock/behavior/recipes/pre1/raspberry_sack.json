@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:raspberry_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:raspberry"}},"result":[{"item":"morefood:raspberry_sack","count":1}],"unlock":[{"item":"morefood:raspberry"}]}}

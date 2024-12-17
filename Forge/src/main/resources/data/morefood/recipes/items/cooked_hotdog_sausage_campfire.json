@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "morefood:hotdog_sausage"
-  },
-  "result": "morefood:cooked_hotdog_sausage"
-}

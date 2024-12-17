@@ -1,0 +1,1 @@
+{"format_version": "1.21.10", "minecraft:item": {"description": {"identifier": "morefood:grape_seeds", "menu_category": {"group": "itemGroup.name.seed", "category": "nature"}}, "components": {"minecraft:icon": "morefood:grape_seeds", "minecraft:block_placer": {"block": "morefood:grape_bush"}}}}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "morefood:bat_meat"
-  },
-  "result": "morefood:cooked_bat_meat"
-}

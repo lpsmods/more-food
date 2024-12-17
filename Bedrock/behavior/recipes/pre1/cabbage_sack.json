@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cabbage_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:cabbage"}},"result":[{"item":"morefood:cabbage_sack","count":1}],"unlock":[{"item":"morefood:cabbage"}]}}

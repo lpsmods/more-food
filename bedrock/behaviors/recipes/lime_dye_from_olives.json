@@ -1,0 +1,1 @@
+{"format_version":"1.21.10","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:lime_dye_from_olives"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:olives"},{"item":"morefood:olives"}],"result":{"item":"minecraft:lime_dye","count":2},"unlock":[{"item":"morefood:olives"},{"item":"morefood:olives"}]}}
