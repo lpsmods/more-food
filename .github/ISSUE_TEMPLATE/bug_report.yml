@@ -1,7 +1,6 @@
+type: Bug
 name: Bug Report
 description: Submit a bug report.
-labels:
-  - "bug"
 assignees:
   - legopitstop
 body:

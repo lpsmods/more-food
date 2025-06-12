@@ -1,5 +1,10 @@
 # Lot's More Food
 
+![Curseforge](https://img.shields.io/curseforge/dt/398479?logo=curseforge&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=e04e14&logoColor=1c1c1c)
+![Modrinth](https://img.shields.io/modrinth/dt/lots-more-food?logo=modrinth&label=&suffix=%20&style=for-the-badge&color=242629&labelColor=5ca424&logoColor=1c1c1c)
+![Version](https://img.shields.io/curseforge/v/398479?style=for-the-badge)
+![Game Versions](https://img.shields.io/curseforge/game-versions/398479?style=for-the-badge)
+
 Adds in 200+ new foods to Minecraft.
 
 ## Mod Data
@@ -9,7 +14,7 @@ Adds in 200+ new foods to Minecraft.
 | namespace | `morefood`  |
 | slug      | `more-food` |
 
-## Editions
+## Loaders
 
 - Bedrock
 - Data Pack
