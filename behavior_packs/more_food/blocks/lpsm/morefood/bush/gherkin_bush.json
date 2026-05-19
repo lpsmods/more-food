@@ -1,0 +1,203 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:gherkin_bush",
+      "states": {
+        "lpsm_morefood:growth": [0, 1, 2, 3, 4, 5, 6, 7]
+      },
+      "menu_category": {
+        "category": "none"
+      }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "minecraft:loot": "loot_tables/empty.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0
+      },
+      "minecraft:collision_box": false,
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:grass_block",
+              "minecraft:dirt",
+              "minecraft:podzol",
+              {
+                "tags": "q.any_tag('dirt','grass') && !q.any_tag('non_full')"
+              }
+            ],
+            "allowed_faces": ["up"]
+          }
+        ]
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:gherkin_bush_stage_0",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:tick": {
+        "interval_range": [0,0],
+        "looping": true
+      },
+      "lpsm_morefood:bush": {
+        "growth_state": "lpsm_morefood:growth",
+        "loot_tables": [
+          "2,lpsm/morefood/harvest/gherkin_bush_2",
+          "3,lpsm/morefood/harvest/gherkin_bush_3"
+        ]
+      },
+      "lpsm_morefood:crop": {
+        "growth_state": "lpsm_morefood:growth",
+        "max_stage": 3
+      },
+      "lpsm_morefood:fertilizable": {
+        "growth_state": "lpsm_morefood:growth",
+        "max_stage": 3
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 0",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-3.2, 0, -3.2],
+            "size": [6.4, 8, 6.4]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 1",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-3.2, 0, -3.2],
+            "size": [6.4, 8, 6.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_1",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 2",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_2",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 3",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_3",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 4",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_4",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 5",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_5",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 6",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_6",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 7",
+        "components": {
+          "minecraft:destructible_by_mining": {
+            "seconds_to_destroy": 0.3
+          },
+          "minecraft:selection_box": {
+            "origin": [-6.2, 0, -6.2],
+            "size": [12.4, 16, 12.4]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:gherkin_bush_stage_7",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

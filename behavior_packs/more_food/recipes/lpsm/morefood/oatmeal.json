@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:oatmeal"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["OOO", "BOM", " L "],
+    "key": {
+      "O": {
+        "item": "lpsm_morefood:oats"
+      },
+      "B": {
+        "item": "lpsm_morefood:butter"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      "L": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:oatmeal",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:oats"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

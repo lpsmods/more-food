@@ -1,0 +1,64 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pizza"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P ", "XY ", "ZAB"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:cheese_wedge"
+      },
+      "P": {
+        "item": "lpsm_morefood:onion"
+      },
+      "X": {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      "Y": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "Z": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "A": {
+        "item": "lpsm_morefood:pizza_crust"
+      },
+      "B": {
+        "item": "lpsm_morefood:tomato_puree"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:pizza"
+      },
+      {
+        "item": "lpsm_morefood:jar"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:cheese_wedge"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:pizza_crust"
+      },
+      {
+        "item": "lpsm_morefood:tomato_puree"
+      }
+    ]
+  }
+}

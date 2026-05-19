@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:crackers"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["DDF"],
+    "key": {
+      "D": {
+        "item": "lpsm_morefood:dough"
+      },
+      "F": {
+        "item": "lpsm_morefood:flour"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:crackers",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:dough"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      }
+    ]
+  }
+}

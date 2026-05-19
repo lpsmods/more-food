@@ -1,6 +1,0 @@
-{
-    "parent": "moreplant:block/mp_cross",
-    "textures": {
-        "cross": "moreplant:plant/cross/grape_bush/grape_bush_stage1"
-    }
-}

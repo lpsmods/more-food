@@ -1,0 +1,38 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:strawberry_shaved_ice"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:shaved_ice",
+    "pattern": ["###", "IGI"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:strawberry"
+      },
+      "G": {
+        "item": "lpsm_morefood:shaved_ice_glass"
+      },
+      "I": {
+        "item": "minecraft:ice"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:strawberry_shaved_ice"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:strawberry"
+      },
+      {
+        "item": "lpsm_morefood:shaved_ice_glass"
+      },
+      {
+        "item": "minecraft:ice"
+      }
+    ]
+  }
+}

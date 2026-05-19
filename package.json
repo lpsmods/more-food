@@ -1,0 +1,29 @@
+{
+  "name": "more_food",
+  "private": true,
+  "devDependencies": {
+    "@minecraft/core-build-tasks": "5.5.0",
+    "@typescript-eslint/eslint-plugin": "8.49.0",
+    "eslint-plugin-minecraft-linting": "2.0.10",
+    "prettier": "3.7.4",
+    "source-map": "0.7.6",
+    "ts-node": "10.9.2",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "lint": "just-scripts lint",
+    "build": "just-scripts build",
+    "clean": "just-scripts clean",
+    "local-deploy": "just-scripts local-deploy",
+    "mcaddon": "just-scripts mcaddon",
+    "enablemcloopback": "CheckNetIsolation.exe LoopbackExempt -a -p=S-1-15-2-1958404141-86561845-1752920682-3514627264-368642714-62675701-733520436",
+    "enablemcpreviewloopback": "CheckNetIsolation.exe LoopbackExempt -a -p=S-1-15-2-424268864-5579737-879501358-346833251-474568803-887069379-4040235476"
+  },
+  "dependencies": {
+    "@lpsmods/mc-utils": "0.0.7",
+    "@lpsmods/mcaddon-bridge": "^0.0.1",
+    "@minecraft/math": "2.2.11",
+    "@minecraft/server": "2.3.0",
+    "@minecraft/server-ui": "2.0.0"
+  }
+}

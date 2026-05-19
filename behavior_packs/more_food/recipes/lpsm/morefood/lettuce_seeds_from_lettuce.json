@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:lettuce_seeds_from_lettuce"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["C"],
+    "key": {
+      "C": {
+        "item": "lpsm_morefood:lettuce"
+      }
+    },
+    "result": "lpsm_morefood:lettuce_seeds",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:lettuce"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "pack.description",
+    "name": "pack.name",
+    "uuid": "ebeb500d-4690-4912-a6ef-d2908174e5e6",
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 21, 80],
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "data",
+      "uuid": "2023d415-b0c4-4b9b-9dc3-76fb2e508a76",
+      "version": [2, 0, 0]
+    },
+    {
+      "type": "script",
+      "uuid": "870eb870-abcd-4700-8cdd-76f02f878242",
+      "version": [2, 0, 0],
+      "language": "javascript",
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.3.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "b0cbe28a-0811-4497-ae5e-c54b733fb867",
+      "version": [2, 0, 0]
+    },
+    {
+      "uuid": "c86dd7d9-e84e-456f-a84f-1993e353da4c",
+      "version": [2, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Legopitstop", "SuperSonic"],
+    "license": "https://license.lpsmods.dev",
+    "url": "https://lpsmods.dev/",
+    "product_type": "addon"
+  }
+}

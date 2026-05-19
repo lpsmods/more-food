@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:rotten_flesh_bushel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:rotten_flesh"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:rotten_flesh_bushel",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:rotten_flesh"
+      }
+    ]
+  }
+}

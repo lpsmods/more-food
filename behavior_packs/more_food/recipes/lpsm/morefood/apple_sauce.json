@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:apple_sauce"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["AAA", "AJA", " B "],
+    "key": {
+      "A": {
+        "item": "minecraft:apple"
+      },
+      "J": {
+        "item": "lpsm_morefood:apple_juice"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:apple_sauce",
+    "unlock": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:apple_juice"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

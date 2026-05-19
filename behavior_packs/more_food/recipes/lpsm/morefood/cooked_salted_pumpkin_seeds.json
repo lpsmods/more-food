@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:cooked_salted_pumpkin_seeds"
+    },
+    "tags": ["crafting_table"],
+    "group": "halloween",
+    "pattern": ["###", "#X#", "###"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:cooked_pumpkin_seeds"
+      },
+      "X": {
+        "item": "lpsm_morefood:salt"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:cooked_salted_pumpkin_seeds",
+        "count": 8
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:cooked_pumpkin_seeds"
+      },
+      {
+        "item": "lpsm_morefood:salt"
+      }
+    ]
+  }
+}

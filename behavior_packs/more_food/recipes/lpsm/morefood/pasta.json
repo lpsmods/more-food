@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pasta"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#PX", " B "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:salt"
+      },
+      "P": {
+        "item": "lpsm_morefood:flour"
+      },
+      "X": {
+        "item": "minecraft:egg"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:pasta"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:salt"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

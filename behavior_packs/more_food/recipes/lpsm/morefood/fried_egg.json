@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "lpsm_morefood:fried_egg_from_cooking"
+    },
+    "tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+    "input": "minecraft:egg",
+    "output": "lpsm_morefood:fried_egg"
+  }
+}

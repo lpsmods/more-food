@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:paper_from_pulp"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["##", "##"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:pulp"
+      }
+    },
+    "result": "minecraft:paper",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:pulp"
+      }
+    ]
+  }
+}

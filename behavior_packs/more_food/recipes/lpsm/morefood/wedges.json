@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:potato_wedges"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" # ", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:potato"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:potato_wedges",
+        "count": 3
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:potato"
+      }
+    ]
+  }
+}

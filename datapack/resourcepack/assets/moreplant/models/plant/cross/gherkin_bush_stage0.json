@@ -1,6 +1,0 @@
-{
-    "parent": "moreplant:block/mp_cross",
-    "textures": {
-        "cross": "moreplant:plant/cross/gherkin_bush/gherkin_bush_stage0"
-    }
-}

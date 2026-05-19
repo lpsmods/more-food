@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:meal_ready_to_eat"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP", "PBP", "PGP"],
+    "key": {
+      "P": {
+        "item": "minecraft:paper"
+      },
+      "B": {
+        "item": "minecraft:brown_dye"
+      },
+      "G": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": "lpsm_morefood:meal_ready_to_eat",
+    "unlock": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:brown_dye"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ]
+  }
+}

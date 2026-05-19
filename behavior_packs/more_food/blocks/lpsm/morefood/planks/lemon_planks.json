@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:lemon_planks",
+      "menu_category": {
+        "category": "construction",
+        "group": "minecraft:itemGroup.name.planks"
+      }
+    },
+    "components": {
+      "tag:minecraft:is_axe_item_destructible": {},
+      "tag:wood": {},
+      "tag:log": {},
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 3
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:lemon_planks"
+        }
+      }
+    }
+  }
+}

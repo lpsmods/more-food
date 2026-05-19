@@ -1,0 +1,48 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:plain_doughnut"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:doughnut",
+    "pattern": ["#PX", " YA"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:butter"
+      },
+      "P": {
+        "item": "minecraft:sugar"
+      },
+      "X": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "Y": {
+        "item": "lpsm_morefood:flour"
+      },
+      "A": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:plain_doughnut"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:egg"
+      }
+    ]
+  }
+}

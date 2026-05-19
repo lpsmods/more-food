@@ -1,0 +1,53 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:veggie_burger"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P", "AB", "XC"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      "P": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "A": {
+        "item": "lpsm_morefood:lettuce"
+      },
+      "B": {
+        "item": "lpsm_morefood:onion"
+      },
+      "C": {
+        "item": "lpsm_morefood:pickles"
+      },
+      "X": {
+        "item": "lpsm_morefood:veggie_burger_patty"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:veggie_burger"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:pickles"
+      },
+      {
+        "item": "lpsm_morefood:veggie_burger_patty"
+      }
+    ]
+  }
+}

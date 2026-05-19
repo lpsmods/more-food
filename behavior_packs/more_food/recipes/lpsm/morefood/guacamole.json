@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:guacamole"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " B "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:avocado"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:guacamole",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:avocado"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:sweet_mashed_potatoes"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " B "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:sweet_potato"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:sweet_mashed_potatoes",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:sweet_potato"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Lot's More Food Add-On",
+      "path": ".",
+    },
+  ],
+  "settings": {
+    "files.associations": {
+      "*.json": "jsonc",
+    },
+    "cSpell.words": [
+      "scoville"
+    ],
+  },
+}

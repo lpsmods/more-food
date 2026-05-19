@@ -1,0 +1,1302 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cake": {
+      "textures": "textures/lpsm/morefood/cake"
+    },
+    "lpsm_morefood:guide_book": {
+      "textures": "textures/lpsm/morefood/items/guide_book"
+    },
+    "lpsm_morefood:legacy": {
+      "textures": "textures/lpsm/morefood/legacy"
+    },
+    "lpsm_morefood:corn_starch": {
+      "textures": "textures/lpsm/morefood/items/corn_starch"
+    },
+    "lpsm_morefood:sweet_potato_french_fries": {
+      "textures": "textures/lpsm/morefood/items/sweet_potato_french_fries"
+    },
+    "lpsm_morefood:barley_seeds": {
+      "textures": "textures/lpsm/morefood/items/barley_seeds"
+    },
+    "lpsm_morefood:gherkin_seeds": {
+      "textures": "textures/lpsm/morefood/items/gherkin_seeds"
+    },
+    "lpsm_morefood:grape_seeds": {
+      "textures": "textures/lpsm/morefood/items/grape_seeds"
+    },
+    "lpsm_morefood:hops_seeds": {
+      "textures": "textures/lpsm/morefood/items/hops_seeds"
+    },
+    "lpsm_morefood:lettuce_seeds": {
+      "textures": "textures/lpsm/morefood/items/lettuce_seeds"
+    },
+    "lpsm_morefood:vanilla_seeds": {
+      "textures": "textures/lpsm/morefood/items/vanilla_seeds"
+    },
+    "lpsm_morefood:apple_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/apple_sapling"
+    },
+    "lpsm_morefood:banana_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/banana_sapling"
+    },
+    "lpsm_morefood:lemon_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/lemon_sapling"
+    },
+    "lpsm_morefood:diamond_knife": {
+      "textures": "textures/lpsm/morefood/items/diamond_knife"
+    },
+    "lpsm_morefood:golden_knife": {
+      "textures": "textures/lpsm/morefood/items/golden_knife"
+    },
+    "lpsm_morefood:iron_knife": {
+      "textures": "textures/lpsm/morefood/items/iron_knife"
+    },
+    "lpsm_morefood:netherite_knife": {
+      "textures": "textures/lpsm/morefood/items/netherite_knife"
+    },
+    "lpsm_morefood:copper_knife": {
+      "textures": "textures/lpsm/morefood/items/copper_knife"
+    },
+    "lpsm_morefood:apple_juice": {
+      "textures": "textures/lpsm/morefood/items/apple_juice"
+    },
+    "lpsm_morefood:berry_juice": {
+      "textures": "textures/lpsm/morefood/items/berry_juice"
+    },
+    "lpsm_morefood:grape_juice": {
+      "textures": "textures/lpsm/morefood/items/grape_juice"
+    },
+    "lpsm_morefood:lemon_juice": {
+      "textures": "textures/lpsm/morefood/items/lemon_juice"
+    },
+    "lpsm_morefood:melon_juice": {
+      "textures": "textures/lpsm/morefood/items/melon_juice"
+    },
+    "lpsm_morefood:mixed_fruit_juice": {
+      "textures": "textures/lpsm/morefood/items/mixed_fruit_juice"
+    },
+    "lpsm_morefood:orange_juice": {
+      "textures": "textures/lpsm/morefood/items/orange_juice"
+    },
+    "lpsm_morefood:strawberry_juice": {
+      "textures": "textures/lpsm/morefood/items/strawberry_juice"
+    },
+    "lpsm_morefood:tomato_juice": {
+      "textures": "textures/lpsm/morefood/items/tomato_juice"
+    },
+    "lpsm_morefood:apple_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/apple_shaved_ice"
+    },
+    "lpsm_morefood:apple_raspberry_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/apple_raspberry_shaved_ice"
+    },
+    "lpsm_morefood:berry_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/berry_shaved_ice"
+    },
+    "lpsm_morefood:grape_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/grape_shaved_ice"
+    },
+    "lpsm_morefood:lemon_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/lemon_shaved_ice"
+    },
+    "lpsm_morefood:melon_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/melon_shaved_ice"
+    },
+    "lpsm_morefood:mixed_fruit_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/mixed_fruit_shaved_ice"
+    },
+    "lpsm_morefood:orange_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/orange_shaved_ice"
+    },
+    "lpsm_morefood:strawberry_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/strawberry_shaved_ice"
+    },
+    "lpsm_morefood:banana_ice_cream": {
+      "textures": "textures/lpsm/morefood/items/banana_ice_cream"
+    },
+    "lpsm_morefood:chocolate_ice_cream": {
+      "textures": "textures/lpsm/morefood/items/chocolate_ice_cream"
+    },
+    "lpsm_morefood:ice_cream_bowl": {
+      "textures": "textures/lpsm/morefood/items/ice_cream_bowl"
+    },
+    "lpsm_morefood:ice_cream_cone": {
+      "textures": "textures/lpsm/morefood/items/ice_cream_cone"
+    },
+    "lpsm_morefood:strawberry_ice_cream": {
+      "textures": "textures/lpsm/morefood/items/strawberry_ice_cream"
+    },
+    "lpsm_morefood:toffee_ice_cream": {
+      "textures": "textures/lpsm/morefood/items/toffee_ice_cream"
+    },
+    "lpsm_morefood:vanilla_ice_cream": {
+      "textures": "textures/lpsm/morefood/items/vanilla_ice_cream"
+    },
+    "lpsm_morefood:banana_milkshake": {
+      "textures": "textures/lpsm/morefood/items/banana_milkshake"
+    },
+    "lpsm_morefood:chocolate_milkshake": {
+      "textures": "textures/lpsm/morefood/items/chocolate_milkshake"
+    },
+    "lpsm_morefood:strawberry_milkshake": {
+      "textures": "textures/lpsm/morefood/items/strawberry_milkshake"
+    },
+    "lpsm_morefood:chocolate_doughnut": {
+      "textures": "textures/lpsm/morefood/items/chocolate_doughnut"
+    },
+    "lpsm_morefood:coffee_doughnut": {
+      "textures": "textures/lpsm/morefood/items/coffee_doughnut"
+    },
+    "lpsm_morefood:iced_doughnut": {
+      "textures": "textures/lpsm/morefood/items/iced_doughnut"
+    },
+    "lpsm_morefood:pink_ice_doughnut": {
+      "textures": "textures/lpsm/morefood/items/pink_ice_doughnut"
+    },
+    "lpsm_morefood:plain_doughnut": {
+      "textures": "textures/lpsm/morefood/items/plain_doughnut"
+    },
+    "lpsm_morefood:strawberry_doughnut": {
+      "textures": "textures/lpsm/morefood/items/strawberry_doughnut"
+    },
+    "lpsm_morefood:toffee_doughnut": {
+      "textures": "textures/lpsm/morefood/items/toffee_doughnut"
+    },
+    "lpsm_morefood:chocolate_cake": {
+      "textures": "textures/lpsm/morefood/items/chocolate_cake"
+    },
+    "lpsm_morefood:americano": {
+      "textures": "textures/lpsm/morefood/items/americano"
+    },
+    "lpsm_morefood:cappuccino": {
+      "textures": "textures/lpsm/morefood/items/cappuccino"
+    },
+    "lpsm_morefood:hot_cocoa": {
+      "textures": "textures/lpsm/morefood/items/hot_cocoa"
+    },
+    "lpsm_morefood:hot_coffee": {
+      "textures": "textures/lpsm/morefood/items/hot_coffee"
+    },
+    "lpsm_morefood:hot_tea": {
+      "textures": "textures/lpsm/morefood/items/hot_tea"
+    },
+    "lpsm_morefood:macchiato": {
+      "textures": "textures/lpsm/morefood/items/macchiato"
+    },
+    "lpsm_morefood:mocha": {
+      "textures": "textures/lpsm/morefood/items/mocha"
+    },
+    "lpsm_morefood:cheese_bucket": {
+      "textures": "textures/lpsm/morefood/items/cheese_bucket"
+    },
+    "lpsm_morefood:bread_slice": {
+      "textures": "textures/lpsm/morefood/items/bread_slice"
+    },
+    "lpsm_morefood:nether_cookie": {
+      "textures": "textures/lpsm/morefood/items/nether_cookie"
+    },
+    "lpsm_morefood:ghast_cookie": {
+      "textures": "textures/lpsm/morefood/items/ghast_cookie"
+    },
+    "lpsm_morefood:cooked_chicken_piece": {
+      "textures": "textures/lpsm/morefood/items/cooked_chicken_piece"
+    },
+    "lpsm_morefood:sparkling_water_bottle": {
+      "textures": "textures/lpsm/morefood/items/sparkling_water_bottle"
+    },
+    "lpsm_morefood:chicken_nugget": {
+      "textures": "textures/lpsm/morefood/items/chicken_nugget"
+    },
+    "lpsm_morefood:netherite_apple": {
+      "textures": "textures/lpsm/morefood/items/netherite_apple"
+    },
+    "lpsm_morefood:fungus_stew": {
+      "textures": "textures/lpsm/morefood/items/fungus_stew"
+    },
+    "lpsm_morefood:netherwart_chicken_soup": {
+      "textures": "textures/lpsm/morefood/items/netherwart_chicken_soup"
+    },
+    "lpsm_morefood:netherwart_mushroom_soup": {
+      "textures": "textures/lpsm/morefood/items/netherwart_mushroom_soup"
+    },
+    "lpsm_morefood:warped_berries": {
+      "textures": "textures/lpsm/morefood/items/warped_berries"
+    },
+    "lpsm_morefood:ketchup": {
+      "textures": "textures/lpsm/morefood/items/tomato_ketchup"
+    },
+    "lpsm_morefood:bacon_egg_muffin": {
+      "textures": "textures/lpsm/morefood/items/bacon_egg_muffin"
+    },
+    "lpsm_morefood:bacon_egg_sandwich": {
+      "textures": "textures/lpsm/morefood/items/bacon_egg_sandwich"
+    },
+    "lpsm_morefood:beef_submarine_sandwich": {
+      "textures": "textures/lpsm/morefood/items/beef_submarine_sandwich"
+    },
+    "lpsm_morefood:blue_cupcake": {
+      "textures": "textures/lpsm/morefood/items/blue_cupcake"
+    },
+    "lpsm_morefood:bread_loaf": {
+      "textures": "textures/lpsm/morefood/items/bread_loaf"
+    },
+    "lpsm_morefood:breakfast_submarine_sandwich": {
+      "textures": "textures/lpsm/morefood/items/breakfast_submarine_sandwich"
+    },
+    "lpsm_morefood:burger_bun": {
+      "textures": "textures/lpsm/morefood/items/burger_bun"
+    },
+    "lpsm_morefood:burrito": {
+      "textures": "textures/lpsm/morefood/items/burrito"
+    },
+    "lpsm_morefood:butter": {
+      "textures": "textures/lpsm/morefood/items/butter"
+    },
+    "lpsm_morefood:cereal": {
+      "textures": "textures/lpsm/morefood/items/cereal"
+    },
+    "lpsm_morefood:grilled_cheese": {
+      "textures": "textures/lpsm/morefood/items/grilled_cheese"
+    },
+    "lpsm_morefood:cheese_wedge": {
+      "textures": "textures/lpsm/morefood/items/cheese_wedge"
+    },
+    "lpsm_morefood:chicken_fajita": {
+      "textures": "textures/lpsm/morefood/items/chicken_fajita"
+    },
+    "lpsm_morefood:chicken_select": {
+      "textures": "textures/lpsm/morefood/items/chicken_select"
+    },
+    "lpsm_morefood:chicken_submarine_sandwich": {
+      "textures": "textures/lpsm/morefood/items/chicken_submarine_sandwich"
+    },
+    "lpsm_morefood:coconut_meat": {
+      "textures": "textures/lpsm/morefood/items/coconut_meat"
+    },
+    "lpsm_morefood:coconut_milk": {
+      "textures": "textures/lpsm/morefood/items/coconut_milk"
+    },
+    "lpsm_morefood:cream_bottle": {
+      "textures": "textures/lpsm/morefood/items/cream_bottle"
+    },
+    "lpsm_morefood:custard": {
+      "textures": "textures/lpsm/morefood/items/custard"
+    },
+    "lpsm_morefood:french_fries": {
+      "textures": "textures/lpsm/morefood/items/french_fries"
+    },
+    "lpsm_morefood:dark_chocolate": {
+      "textures": "textures/lpsm/morefood/items/dark_chocolate"
+    },
+    "lpsm_morefood:dough": {
+      "textures": "textures/lpsm/morefood/items/dough"
+    },
+    "lpsm_morefood:flour": {
+      "textures": "textures/lpsm/morefood/items/flour"
+    },
+    "lpsm_morefood:french_fry_pot": {
+      "textures": "textures/lpsm/morefood/items/french_fry_pot"
+    },
+    "lpsm_morefood:gelatin": {
+      "textures": "textures/lpsm/morefood/items/gelatin"
+    },
+    "lpsm_morefood:hamburger": {
+      "textures": "textures/lpsm/morefood/items/hamburger"
+    },
+    "lpsm_morefood:hot_dog": {
+      "textures": "textures/lpsm/morefood/items/hot_dog"
+    },
+    "lpsm_morefood:hot_dog_bun": {
+      "textures": "textures/lpsm/morefood/items/hot_dog_bun"
+    },
+    "lpsm_morefood:jam": {
+      "textures": "textures/lpsm/morefood/items/jam"
+    },
+    "lpsm_morefood:jelly_sandwich": {
+      "textures": "textures/lpsm/morefood/items/jelly_sandwich"
+    },
+    "lpsm_morefood:kebab": {
+      "textures": "textures/lpsm/morefood/items/kebab"
+    },
+    "lpsm_morefood:milk_bottle": {
+      "textures": "textures/lpsm/morefood/items/milk_bottle"
+    },
+    "lpsm_morefood:milk_chocolate": {
+      "textures": "textures/lpsm/morefood/items/milk_chocolate"
+    },
+    "lpsm_morefood:english_muffin": {
+      "textures": "textures/lpsm/morefood/items/english_muffin"
+    },
+    "lpsm_morefood:oil": {
+      "textures": "textures/lpsm/morefood/items/oil"
+    },
+    "lpsm_morefood:rice_pudding": {
+      "textures": "textures/lpsm/morefood/items/rice_pudding"
+    },
+    "lpsm_morefood:beer": {
+      "textures": "textures/lpsm/morefood/items/beer"
+    },
+    "lpsm_morefood:bottled_beer": {
+      "textures": "textures/lpsm/morefood/items/bottled_beer"
+    },
+    "lpsm_morefood:bottled_cider": {
+      "textures": "textures/lpsm/morefood/items/bottled_cider"
+    },
+    "lpsm_morefood:cider": {
+      "textures": "textures/lpsm/morefood/items/cider"
+    },
+    "lpsm_morefood:red_wine": {
+      "textures": "textures/lpsm/morefood/items/red_wine"
+    },
+    "lpsm_morefood:white_wine": {
+      "textures": "textures/lpsm/morefood/items/white_wine"
+    },
+    "lpsm_morefood:beer_mug": {
+      "textures": "textures/lpsm/morefood/items/beer_mug"
+    },
+    "lpsm_morefood:beverage_cup": {
+      "textures": "textures/lpsm/morefood/items/beverage_cup"
+    },
+    "lpsm_morefood:bottle": {
+      "textures": "textures/lpsm/morefood/items/bottle"
+    },
+    "lpsm_morefood:chicken_select_box": {
+      "textures": "textures/lpsm/morefood/items/chicken_select_box"
+    },
+    "lpsm_morefood:shaved_ice_glass": {
+      "textures": "textures/lpsm/morefood/items/shaved_ice_glass"
+    },
+    "lpsm_morefood:tumbler_glass": {
+      "textures": "textures/lpsm/morefood/items/tumbler_glass"
+    },
+    "lpsm_morefood:fry_wrapper": {
+      "textures": "textures/lpsm/morefood/items/fry_wrapper"
+    },
+    "lpsm_morefood:hot_beverage_cup": {
+      "textures": "textures/lpsm/morefood/items/hot_beverage_cup"
+    },
+    "lpsm_morefood:icing": {
+      "textures": "textures/lpsm/morefood/items/icing"
+    },
+    "lpsm_morefood:jar": {
+      "textures": "textures/lpsm/morefood/items/jar"
+    },
+    "lpsm_morefood:coconut": {
+      "textures": "textures/lpsm/morefood/items/coconut"
+    },
+    "lpsm_morefood:coffee_beans": {
+      "textures": "textures/lpsm/morefood/items/coffee_beans"
+    },
+    "lpsm_morefood:sweet_corn": {
+      "textures": "textures/lpsm/morefood/items/sweet_corn"
+    },
+    "lpsm_morefood:white_candy": {
+      "textures": "textures/lpsm/morefood/items/white_candy"
+    },
+    "lpsm_morefood:orange_candy": {
+      "textures": "textures/lpsm/morefood/items/orange_candy"
+    },
+    "lpsm_morefood:magenta_candy": {
+      "textures": "textures/lpsm/morefood/items/magenta_candy"
+    },
+    "lpsm_morefood:light_blue_candy": {
+      "textures": "textures/lpsm/morefood/items/light_blue_candy"
+    },
+    "lpsm_morefood:yellow_candy": {
+      "textures": "textures/lpsm/morefood/items/yellow_candy"
+    },
+    "lpsm_morefood:lime_candy": {
+      "textures": "textures/lpsm/morefood/items/lime_candy"
+    },
+    "lpsm_morefood:pink_candy": {
+      "textures": "textures/lpsm/morefood/items/pink_candy"
+    },
+    "lpsm_morefood:light_gray_candy": {
+      "textures": "textures/lpsm/morefood/items/light_gray_candy"
+    },
+    "lpsm_morefood:gray_candy": {
+      "textures": "textures/lpsm/morefood/items/gray_candy"
+    },
+    "lpsm_morefood:cyan_candy": {
+      "textures": "textures/lpsm/morefood/items/cyan_candy"
+    },
+    "lpsm_morefood:purple_candy": {
+      "textures": "textures/lpsm/morefood/items/purple_candy"
+    },
+    "lpsm_morefood:blue_candy": {
+      "textures": "textures/lpsm/morefood/items/blue_candy"
+    },
+    "lpsm_morefood:brown_candy": {
+      "textures": "textures/lpsm/morefood/items/brown_candy"
+    },
+    "lpsm_morefood:green_candy": {
+      "textures": "textures/lpsm/morefood/items/green_candy"
+    },
+    "lpsm_morefood:red_candy": {
+      "textures": "textures/lpsm/morefood/items/red_candy"
+    },
+    "lpsm_morefood:black_candy": {
+      "textures": "textures/lpsm/morefood/items/black_candy"
+    },
+    "lpsm_morefood:large_pumpkin_pail": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail"
+    },
+    "lpsm_morefood:large_pumpkin_pail1": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail1"
+    },
+    "lpsm_morefood:large_pumpkin_pail2": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail2"
+    },
+    "lpsm_morefood:large_pumpkin_pail3": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail3"
+    },
+    "lpsm_morefood:large_pumpkin_pail4": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail4"
+    },
+    "lpsm_morefood:large_pumpkin_pail5": {
+      "textures": "textures/lpsm/morefood/items/large_pumpkin_pail5"
+    },
+    "lpsm_morefood:small_pumpkin_pail": {
+      "textures": "textures/lpsm/morefood/items/small_pumpkin_pail"
+    },
+    "lpsm_morefood:small_pumpkin_pail1": {
+      "textures": "textures/lpsm/morefood/items/small_pumpkin_pail1"
+    },
+    "lpsm_morefood:small_pumpkin_pail2": {
+      "textures": "textures/lpsm/morefood/items/small_pumpkin_pail2"
+    },
+    "lpsm_morefood:small_pumpkin_pail3": {
+      "textures": "textures/lpsm/morefood/items/small_pumpkin_pail3"
+    },
+    "lpsm_morefood:candy_corn": {
+      "textures": "textures/lpsm/morefood/items/candy_corn"
+    },
+    "lpsm_morefood:candy_corn_bowl": {
+      "textures": "textures/lpsm/morefood/items/candy_corn_bowl"
+    },
+    "lpsm_morefood:cooked_pumpkin_seeds": {
+      "textures": "textures/lpsm/morefood/items/cooked_pumpkin_seeds"
+    },
+    "lpsm_morefood:cooked_salted_pumpkin_seeds": {
+      "textures": "textures/lpsm/morefood/items/cooked_salted_pumpkin_seeds"
+    },
+    "lpsm_morefood:glowberry_juice": {
+      "textures": "textures/lpsm/morefood/items/glowberry_juice"
+    },
+    "lpsm_morefood:chocolate_chunk_oatmeal_cookie": {
+      "textures": "textures/lpsm/morefood/items/chocolate_chunk_oatmeal_cookie"
+    },
+    "lpsm_morefood:glowberry_jam": {
+      "textures": "textures/lpsm/morefood/items/glowberry_jam"
+    },
+    "lpsm_morefood:chocolate_protein_drink": {
+      "textures": "textures/lpsm/morefood/items/chocolate_protein_drink"
+    },
+    "lpsm_morefood:beef_goulash": {
+      "textures": "textures/lpsm/morefood/items/beef_goulash"
+    },
+    "lpsm_morefood:cheese_spread": {
+      "textures": "textures/lpsm/morefood/items/cheese_spread"
+    },
+    "lpsm_morefood:cheese_tortellini": {
+      "textures": "textures/lpsm/morefood/items/cheese_tortellini"
+    },
+    "lpsm_morefood:chicken_soup": {
+      "textures": "textures/lpsm/morefood/items/chicken_soup"
+    },
+    "lpsm_morefood:chocolate_banana_muffin": {
+      "textures": "textures/lpsm/morefood/items/chocolate_banana_muffin"
+    },
+    "lpsm_morefood:chocolate_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/chocolate_peanut_butter"
+    },
+    "lpsm_morefood:chocolate_pudding": {
+      "textures": "textures/lpsm/morefood/items/chocolate_pudding"
+    },
+    "lpsm_morefood:glowberry_jelly_sandwich": {
+      "textures": "textures/lpsm/morefood/items/glowberry_jelly_sandwich"
+    },
+    "lpsm_morefood:cornbread": {
+      "textures": "textures/lpsm/morefood/items/cornbread"
+    },
+    "lpsm_morefood:craisins": {
+      "textures": "textures/lpsm/morefood/items/craisins"
+    },
+    "lpsm_morefood:raisins": {
+      "textures": "textures/lpsm/morefood/items/raisins"
+    },
+    "lpsm_morefood:garlic_mashed_potatoes": {
+      "textures": "textures/lpsm/morefood/items/garlic_mashed_potatoes"
+    },
+    "lpsm_morefood:hash_browns": {
+      "textures": "textures/lpsm/morefood/items/hash_browns"
+    },
+    "lpsm_morefood:maple_muffin": {
+      "textures": "textures/lpsm/morefood/items/maple_muffin"
+    },
+    "lpsm_morefood:jalapeno_cheese_spread": {
+      "textures": "textures/lpsm/morefood/items/jalapeno_cheese_spread"
+    },
+    "lpsm_morefood:jalapeno_grilled_cheese": {
+      "textures": "textures/lpsm/morefood/items/jalapeno_grilled_cheese"
+    },
+    "lpsm_morefood:jalapeno_cheese_wedge": {
+      "textures": "textures/lpsm/morefood/items/jalapeno_cheese_wedge"
+    },
+    "lpsm_morefood:truckle_of_jalapeno_cheese": {
+      "textures": "textures/lpsm/morefood/items/truckle_of_jalapeno_cheese"
+    },
+    "lpsm_morefood:burnt_marshmallow_on_a_stick": {
+      "textures": "textures/lpsm/morefood/items/burnt_marshmallow_on_a_stick"
+    },
+    "lpsm_morefood:cooked_marshmallow_on_a_stick": {
+      "textures": "textures/lpsm/morefood/items/cooked_marshmallow_on_a_stick"
+    },
+    "lpsm_morefood:marshmallow_on_a_stick": {
+      "textures": "textures/lpsm/morefood/items/marshmallow_on_a_stick"
+    },
+    "lpsm_morefood:apple_sauce": {
+      "textures": "textures/lpsm/morefood/items/apple_sauce"
+    },
+    "lpsm_morefood:baked_sweet_potato": {
+      "textures": "textures/lpsm/morefood/items/baked_sweet_potato"
+    },
+    "lpsm_morefood:sweet_potato": {
+      "textures": "textures/lpsm/morefood/items/sweet_potato"
+    },
+    "lpsm_morefood:beef_ravioli": {
+      "textures": "textures/lpsm/morefood/items/beef_ravioli"
+    },
+    "lpsm_morefood:beef_stew": {
+      "textures": "textures/lpsm/morefood/items/beef_stew"
+    },
+    "lpsm_morefood:buckwheat": {
+      "textures": "textures/lpsm/morefood/items/buckwheat"
+    },
+    "lpsm_morefood:chili": {
+      "textures": "textures/lpsm/morefood/items/chili"
+    },
+    "lpsm_morefood:guacamole": {
+      "textures": "textures/lpsm/morefood/items/guacamole"
+    },
+    "lpsm_morefood:large_bowl": {
+      "textures": "textures/lpsm/morefood/items/large_bowl"
+    },
+    "lpsm_morefood:mashed_potatoes": {
+      "textures": "textures/lpsm/morefood/items/mashed_potatoes"
+    },
+    "lpsm_morefood:meal_ready_to_eat": {
+      "textures": "textures/lpsm/morefood/items/meal_ready_to_eat"
+    },
+    "lpsm_morefood:peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/peanut_butter"
+    },
+    "lpsm_morefood:soy_flour": {
+      "textures": "textures/lpsm/morefood/items/soy_flour"
+    },
+    "lpsm_morefood:soy_oil": {
+      "textures": "textures/lpsm/morefood/items/soy_oil"
+    },
+    "lpsm_morefood:cranberries": {
+      "textures": "textures/lpsm/morefood/items/cranberries"
+    },
+    "lpsm_morefood:marshmallow": {
+      "textures": "textures/lpsm/morefood/items/marshmallow"
+    },
+    "lpsm_morefood:eggplant_seeds": {
+      "textures": "textures/lpsm/morefood/items/eggplant_seeds"
+    },
+    "lpsm_morefood:cabbage_seeds": {
+      "textures": "textures/lpsm/morefood/items/cabbage_seeds"
+    },
+    "lpsm_morefood:blueberry_seeds": {
+      "textures": "textures/lpsm/morefood/items/blueberry_seeds"
+    },
+    "lpsm_morefood:avocado_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/avocado_sapling"
+    },
+    "lpsm_morefood:beans": {
+      "textures": "textures/lpsm/morefood/items/beans"
+    },
+    "lpsm_morefood:glowberry_shaved_ice": {
+      "textures": "textures/lpsm/morefood/items/glowberry_shaved_ice"
+    },
+    "lpsm_morefood:glowberry_soda": {
+      "textures": "textures/lpsm/morefood/items/glowberry_soda"
+    },
+    "lpsm_morefood:jalapeno_cheese_pie": {
+      "textures": "textures/lpsm/morefood/items/jalapeno_cheese_pie"
+    },
+    "lpsm_morefood:glowberry_pie": {
+      "textures": "textures/lpsm/morefood/items/glowberry_pie"
+    },
+    "lpsm_morefood:glowberry_smoothie": {
+      "textures": "textures/lpsm/morefood/items/glowberry_smoothie"
+    },
+    "lpsm_morefood:maple_sap_bucket": {
+      "textures": "textures/lpsm/morefood/items/maple_sap_bucket"
+    },
+    "lpsm_morefood:maple_syrup_bucket": {
+      "textures": "textures/lpsm/morefood/items/maple_syrup_bucket"
+    },
+    "lpsm_morefood:jalapeno_cheese_bucket": {
+      "textures": "textures/lpsm/morefood/items/jalapeno_cheese_bucket"
+    },
+    "lpsm_morefood:maple_syrup": {
+      "textures": "textures/lpsm/morefood/items/maple_syrup"
+    },
+    "lpsm_morefood:blueberry_syrup": {
+      "textures": "textures/lpsm/morefood/items/blueberry_syrup"
+    },
+    "lpsm_morefood:cocoa_beverage_powder": {
+      "textures": "textures/lpsm/morefood/items/cocoa_beverage_powder"
+    },
+    "lpsm_morefood:grape_beverage_powder": {
+      "textures": "textures/lpsm/morefood/items/grape_beverage_powder"
+    },
+    "lpsm_morefood:lemon_lime_beverage_powder": {
+      "textures": "textures/lpsm/morefood/items/lemon_lime_beverage_powder"
+    },
+    "lpsm_morefood:cocoa_beverage": {
+      "textures": "textures/lpsm/morefood/items/cocoa_beverage"
+    },
+    "lpsm_morefood:grape_beverage": {
+      "textures": "textures/lpsm/morefood/items/grape_beverage"
+    },
+    "lpsm_morefood:lemon_lime_beverage": {
+      "textures": "textures/lpsm/morefood/items/lemon_lime_beverage"
+    },
+    "lpsm_morefood:crackers": {
+      "textures": "textures/lpsm/morefood/items/crackers"
+    },
+    "lpsm_morefood:crackers_with_cheese": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_cheese"
+    },
+    "lpsm_morefood:crackers_with_chocolate_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_chocolate_peanut_butter"
+    },
+    "lpsm_morefood:crackers_with_jalapeno_cheese": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_jalapeno_cheese"
+    },
+    "lpsm_morefood:crackers_with_jam": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_jam"
+    },
+    "lpsm_morefood:crackers_with_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_peanut_butter"
+    },
+    "lpsm_morefood:crackers_with_glowberry_jam": {
+      "textures": "textures/lpsm/morefood/items/crackers_with_glowberry_jam"
+    },
+    "lpsm_morefood:bread_slice_with_cheese": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_cheese"
+    },
+    "lpsm_morefood:bread_slice_with_chocolate_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_chocolate_peanut_butter"
+    },
+    "lpsm_morefood:bread_slice_with_jalapeno_cheese": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_jalapeno_cheese"
+    },
+    "lpsm_morefood:bread_slice_with_jam": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_jam"
+    },
+    "lpsm_morefood:bread_slice_with_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_peanut_butter"
+    },
+    "lpsm_morefood:bread_slice_with_glowberry_jam": {
+      "textures": "textures/lpsm/morefood/items/bread_slice_with_glowberry_jam"
+    },
+    "lpsm_morefood:breadsticks": {
+      "textures": "textures/lpsm/morefood/items/breadsticks"
+    },
+    "lpsm_morefood:breadsticks_with_peanut_butter": {
+      "textures": "textures/lpsm/morefood/items/breadsticks_with_peanut_butter"
+    },
+    "lpsm_morefood:breadsticks_with_jam": {
+      "textures": "textures/lpsm/morefood/items/breadsticks_with_jam"
+    },
+    "lpsm_morefood:breadsticks_with_glowberry_jam": {
+      "textures": "textures/lpsm/morefood/items/breadsticks_with_glowberry_jam"
+    },
+    "lpsm_morefood:cappuccino_drink_mix": {
+      "textures": "textures/lpsm/morefood/items/cappuccino_drink_mix"
+    },
+    "lpsm_morefood:chocolate_protein_drink_mix": {
+      "textures": "textures/lpsm/morefood/items/chocolate_protein_drink_mix"
+    },
+    "lpsm_morefood:cake_with_cherries": {
+      "textures": "textures/lpsm/morefood/items/cake_with_cherries"
+    },
+    "lpsm_morefood:smoothie_cup": {
+      "textures": "textures/lpsm/morefood/items/smoothie_cup"
+    },
+    "lpsm_morefood:oatmeal": {
+      "textures": "textures/lpsm/morefood/items/oatmeal"
+    },
+    "lpsm_morefood:oat_seeds": {
+      "textures": "textures/lpsm/morefood/items/oat_seeds"
+    },
+    "lpsm_morefood:olive_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/olive_sapling"
+    },
+    "lpsm_morefood:onigiri": {
+      "textures": "textures/lpsm/morefood/items/onigiri"
+    },
+    "lpsm_morefood:noodles": {
+      "textures": "textures/lpsm/morefood/items/noodles"
+    },
+    "lpsm_morefood:oatmeal_cookie": {
+      "textures": "textures/lpsm/morefood/items/oatmeal_cookie"
+    },
+    "lpsm_morefood:cherries": {
+      "textures": "textures/lpsm/morefood/items/cherries"
+    },
+    "lpsm_morefood:almond_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/almond_sapling"
+    },
+    "lpsm_morefood:spearmint": {
+      "textures": "textures/lpsm/morefood/blocks/spearmint"
+    },
+    "lpsm_morefood:water_mint": {
+      "textures": "textures/lpsm/morefood/blocks/water_mint"
+    },
+    "lpsm_morefood:plum_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/plum_sapling"
+    },
+    "lpsm_morefood:orange_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/orange_sapling"
+    },
+    "lpsm_morefood:palm_sapling": {
+      "textures": "textures/lpsm/morefood/blocks/palm_sapling"
+    },
+    "lpsm_morefood:bean_seeds": {
+      "textures": "textures/lpsm/morefood/items/bean_seeds"
+    },
+    "lpsm_morefood:cranberry_seeds": {
+      "textures": "textures/lpsm/morefood/items/cranberry_seeds"
+    },
+    "lpsm_morefood:garlic_bulb": {
+      "textures": "textures/lpsm/morefood/items/garlic_bulb"
+    },
+    "lpsm_morefood:peppermint_extract": {
+      "textures": "textures/lpsm/morefood/items/peppermint_extract"
+    },
+    "lpsm_morefood:peppermint_seeds": {
+      "textures": "textures/lpsm/morefood/items/peppermint_seeds"
+    },
+    "lpsm_morefood:peppermint": {
+      "textures": "textures/lpsm/morefood/items/peppermint"
+    },
+    "lpsm_morefood:glass_shard": {
+      "textures": "textures/lpsm/morefood/items/glass_shard"
+    },
+    "lpsm_morefood:pulp": {
+      "textures": "textures/lpsm/morefood/items/pulp"
+    },
+    "lpsm_morefood:pretzel": {
+      "textures": "textures/lpsm/morefood/items/pretzel"
+    },
+    "lpsm_morefood:garlic": {
+      "textures": "textures/lpsm/morefood/items/garlic"
+    },
+    "lpsm_morefood:wooden_spile": {
+      "textures": "textures/lpsm/morefood/items/wooden_spile"
+    },
+    "lpsm_morefood:strawberry_seeds": {
+      "textures": "textures/lpsm/morefood/items/strawberry_seeds"
+    },
+    "lpsm_morefood:tea_seeds": {
+      "textures": "textures/lpsm/morefood/items/tea_seeds"
+    },
+    "lpsm_morefood:tomato_seeds": {
+      "textures": "textures/lpsm/morefood/items/tomato_seeds"
+    },
+    "lpsm_morefood:spinach_seeds": {
+      "textures": "textures/lpsm/morefood/items/spinach_seeds"
+    },
+    "lpsm_morefood:stone_knife": {
+      "textures": "textures/lpsm/morefood/items/stone_knife"
+    },
+    "lpsm_morefood:wart_pie": {
+      "textures": "textures/lpsm/morefood/items/wart_pie"
+    },
+    "lpsm_morefood:banana_smoothie": {
+      "textures": "textures/lpsm/morefood/items/banana_smoothie"
+    },
+    "lpsm_morefood:berry_smoothie": {
+      "textures": "textures/lpsm/morefood/items/berry_smoothie"
+    },
+    "lpsm_morefood:grape_smoothie": {
+      "textures": "textures/lpsm/morefood/items/grape_smoothie"
+    },
+    "lpsm_morefood:mixed_fruit_smoothie": {
+      "textures": "textures/lpsm/morefood/items/mixed_fruit_smoothie"
+    },
+    "lpsm_morefood:raspberry_smoothie": {
+      "textures": "textures/lpsm/morefood/items/raspberry_smoothie"
+    },
+    "lpsm_morefood:strawberry_smoothie": {
+      "textures": "textures/lpsm/morefood/items/strawberry_smoothie"
+    },
+    "lpsm_morefood:tropical_punch_beverage": {
+      "textures": "textures/lpsm/morefood/items/tropical_punch_beverage"
+    },
+    "lpsm_morefood:tropical_punch_beverage_powder": {
+      "textures": "textures/lpsm/morefood/items/tropical_punch_beverage_powder"
+    },
+    "lpsm_morefood:toffee_latte": {
+      "textures": "textures/lpsm/morefood/items/toffee_latte"
+    },
+    "lpsm_morefood:vanilla_latte": {
+      "textures": "textures/lpsm/morefood/items/vanilla_latte"
+    },
+    "lpsm_morefood:sparkling_water_bucket": {
+      "textures": "textures/lpsm/morefood/items/sparkling_water_bucket"
+    },
+    "lpsm_morefood:strawberry_syrup": {
+      "textures": "textures/lpsm/morefood/items/strawberry_syrup"
+    },
+    "lpsm_morefood:milk_chocolate_covered_apple": {
+      "textures": "textures/lpsm/morefood/items/milk_chocolate_covered_apple"
+    },
+    "lpsm_morefood:dark_chocolate_covered_apple": {
+      "textures": "textures/lpsm/morefood/items/dark_chocolate_covered_apple"
+    },
+    "lpsm_morefood:white_chocolate_covered_apple": {
+      "textures": "textures/lpsm/morefood/items/white_chocolate_covered_apple"
+    },
+    "lpsm_morefood:tortilla": {
+      "textures": "textures/lpsm/morefood/items/tortilla"
+    },
+    "lpsm_morefood:tortilla_with_cheese": {
+      "textures": "textures/lpsm/morefood/items/tortilla_with_cheese"
+    },
+    "lpsm_morefood:tortilla_with_jalapeno_cheese": {
+      "textures": "textures/lpsm/morefood/items/tortilla_with_jalapeno_cheese"
+    },
+    "lpsm_morefood:spaghetti": {
+      "textures": "textures/lpsm/morefood/items/spaghetti"
+    },
+    "lpsm_morefood:spaghetti_with_meatballs": {
+      "textures": "textures/lpsm/morefood/items/spaghetti_with_meatballs"
+    },
+    "lpsm_morefood:sugar_cookie": {
+      "textures": "textures/lpsm/morefood/items/sugar_cookie"
+    },
+    "lpsm_morefood:almonds": {
+      "textures": "textures/lpsm/morefood/items/almonds"
+    },
+    "lpsm_morefood:vanilla_pudding": {
+      "textures": "textures/lpsm/morefood/items/vanilla_pudding"
+    },
+    "lpsm_morefood:smoked_almonds": {
+      "textures": "textures/lpsm/morefood/items/smoked_almonds"
+    },
+    "lpsm_morefood:spinach_fettuccine": {
+      "textures": "textures/lpsm/morefood/items/spinach_fettuccine"
+    },
+    "lpsm_morefood:trail_mix": {
+      "textures": "textures/lpsm/morefood/items/trail_mix"
+    },
+    "lpsm_morefood:tuna_sandwich": {
+      "textures": "textures/lpsm/morefood/items/tuna_sandwich"
+    },
+    "lpsm_morefood:avocado": {
+      "textures": "textures/lpsm/morefood/items/avocado"
+    },
+    "lpsm_morefood:cabbage": {
+      "textures": "textures/lpsm/morefood/items/cabbage"
+    },
+    "lpsm_morefood:peanut": {
+      "textures": "textures/lpsm/morefood/items/peanut"
+    },
+    "lpsm_morefood:spinach": {
+      "textures": "textures/lpsm/morefood/items/spinach"
+    },
+    "lpsm_morefood:blueberries": {
+      "textures": "textures/lpsm/morefood/items/blueberries"
+    },
+    "lpsm_morefood:eggplant": {
+      "textures": "textures/lpsm/morefood/items/eggplant"
+    },
+    "lpsm_morefood:oats": {
+      "textures": "textures/lpsm/morefood/items/oats"
+    },
+    "lpsm_morefood:poison_berries": {
+      "textures": "textures/lpsm/morefood/items/poison_berries"
+    },
+    "lpsm_morefood:poisonous_sweet_potato": {
+      "textures": "textures/lpsm/morefood/items/poisonous_sweet_potato"
+    },
+    "lpsm_morefood:soybeans": {
+      "textures": "textures/lpsm/morefood/items/soybeans"
+    },
+    "lpsm_morefood:sweet_mashed_potatoes": {
+      "textures": "textures/lpsm/morefood/items/sweet_mashed_potatoes"
+    },
+    "lpsm_morefood:sweet_potato_french_fry_pot": {
+      "textures": "textures/lpsm/morefood/items/sweet_potato_french_fry_pot"
+    },
+    "lpsm_morefood:tortilla_chips": {
+      "textures": "textures/lpsm/morefood/items/tortilla_chips"
+    },
+    "lpsm_morefood:corncob": {
+      "textures": "textures/lpsm/morefood/items/corncob"
+    },
+    "lpsm_morefood:cooked_potato_wedges": {
+      "textures": "textures/lpsm/morefood/items/cooked_potato_wedges"
+    },
+    "lpsm_morefood:pepper": {
+      "textures": "textures/lpsm/morefood/items/pepper"
+    },
+    "lpsm_morefood:cooked_chicken_nugget": {
+      "textures": "textures/lpsm/morefood/items/cooked_chicken_nugget"
+    },
+    "lpsm_morefood:cooked_hoglin_meat": {
+      "textures": "textures/lpsm/morefood/items/cooked_hoglin_meat"
+    },
+    "lpsm_morefood:hoglin_meat": {
+      "textures": "textures/lpsm/morefood/items/hoglin_meat"
+    },
+    "lpsm_morefood:shroomlight_slice": {
+      "textures": "textures/lpsm/morefood/items/shroomlight_slice"
+    },
+    "lpsm_morefood:sashimi": {
+      "textures": "textures/lpsm/morefood/items/sashimi"
+    },
+    "lpsm_morefood:bacon": {
+      "textures": "textures/lpsm/morefood/items/bacon"
+    },
+    "lpsm_morefood:bat_meat": {
+      "textures": "textures/lpsm/morefood/items/bat_meat"
+    },
+    "lpsm_morefood:cooked_bacon": {
+      "textures": "textures/lpsm/morefood/items/cooked_bacon"
+    },
+    "lpsm_morefood:cooked_bat_meat": {
+      "textures": "textures/lpsm/morefood/items/cooked_bat_meat"
+    },
+    "lpsm_morefood:cooked_frankfurter_sausage": {
+      "textures": "textures/lpsm/morefood/items/cooked_frankfurter_sausage"
+    },
+    "lpsm_morefood:cooked_breakfast_sausage": {
+      "textures": "textures/lpsm/morefood/items/cooked_breakfast_sausage"
+    },
+    "lpsm_morefood:fried_egg": {
+      "textures": "textures/lpsm/morefood/items/fried_egg"
+    },
+    "lpsm_morefood:fried_squid": {
+      "textures": "textures/lpsm/morefood/items/fried_squid"
+    },
+    "lpsm_morefood:cooked_hamburger_patty": {
+      "textures": "textures/lpsm/morefood/items/cooked_hamburger_patty"
+    },
+    "lpsm_morefood:hops": {
+      "textures": "textures/lpsm/morefood/items/hops"
+    },
+    "lpsm_morefood:frankfurter_sausage": {
+      "textures": "textures/lpsm/morefood/items/frankfurter_sausage"
+    },
+    "lpsm_morefood:hamburger_patty": {
+      "textures": "textures/lpsm/morefood/items/hamburger_patty"
+    },
+    "lpsm_morefood:breakfast_sausage": {
+      "textures": "textures/lpsm/morefood/items/breakfast_sausage"
+    },
+    "lpsm_morefood:squid": {
+      "textures": "textures/lpsm/morefood/items/squid"
+    },
+    "lpsm_morefood:veggie_burger_patty": {
+      "textures": "textures/lpsm/morefood/items/veggie_burger_patty"
+    },
+    "lpsm_morefood:potato_wedges": {
+      "textures": "textures/lpsm/morefood/items/potato_wedges"
+    },
+    "lpsm_morefood:rice": {
+      "textures": "textures/lpsm/morefood/items/rice"
+    },
+    "lpsm_morefood:salt": {
+      "textures": "textures/lpsm/morefood/items/salt"
+    },
+    "lpsm_morefood:sausage_egg_muffin": {
+      "textures": "textures/lpsm/morefood/items/sausage_egg_muffin"
+    },
+    "lpsm_morefood:sausage_egg_sandwich": {
+      "textures": "textures/lpsm/morefood/items/sausage_egg_sandwich"
+    },
+    "lpsm_morefood:strawberry_jelly": {
+      "textures": "textures/lpsm/morefood/items/strawberry_jelly"
+    },
+    "lpsm_morefood:submarine_sandwich_bun": {
+      "textures": "textures/lpsm/morefood/items/submarine_sandwich_bun"
+    },
+    "lpsm_morefood:sushi": {
+      "textures": "textures/lpsm/morefood/items/sushi"
+    },
+    "lpsm_morefood:taco": {
+      "textures": "textures/lpsm/morefood/items/taco"
+    },
+    "lpsm_morefood:tea_leaves": {
+      "textures": "textures/lpsm/morefood/items/tea_leaves"
+    },
+    "lpsm_morefood:toast": {
+      "textures": "textures/lpsm/morefood/items/toast"
+    },
+    "lpsm_morefood:toffee": {
+      "textures": "textures/lpsm/morefood/items/toffee"
+    },
+    "lpsm_morefood:tomato_puree": {
+      "textures": "textures/lpsm/morefood/items/tomato_puree"
+    },
+    "lpsm_morefood:turkish_delight": {
+      "textures": "textures/lpsm/morefood/items/turkish_delight"
+    },
+    "lpsm_morefood:vanilla_extract": {
+      "textures": "textures/lpsm/morefood/items/vanilla_extract"
+    },
+    "lpsm_morefood:vanilla_pod": {
+      "textures": "textures/lpsm/morefood/items/vanilla_pod"
+    },
+    "lpsm_morefood:veggie_burger": {
+      "textures": "textures/lpsm/morefood/items/veggie_burger"
+    },
+    "lpsm_morefood:cooked_veggie_burger_patty": {
+      "textures": "textures/lpsm/morefood/items/cooked_veggie_burger_patty"
+    },
+    "lpsm_morefood:waffle": {
+      "textures": "textures/lpsm/morefood/items/waffle"
+    },
+    "lpsm_morefood:potato_wedges_pot": {
+      "textures": "textures/lpsm/morefood/items/potato_wedges_pot"
+    },
+    "lpsm_morefood:white_chocolate": {
+      "textures": "textures/lpsm/morefood/items/white_chocolate"
+    },
+    "lpsm_morefood:yeast": {
+      "textures": "textures/lpsm/morefood/items/yeast"
+    },
+    "lpsm_morefood:bottled_white_wine": {
+      "textures": "textures/lpsm/morefood/items/bottled_white_wine"
+    },
+    "lpsm_morefood:banana": {
+      "textures": "textures/lpsm/morefood/items/banana"
+    },
+    "lpsm_morefood:grape": {
+      "textures": "textures/lpsm/morefood/items/grape"
+    },
+    "lpsm_morefood:lemon": {
+      "textures": "textures/lpsm/morefood/items/lemon"
+    },
+    "lpsm_morefood:olives": {
+      "textures": "textures/lpsm/morefood/items/olives"
+    },
+    "lpsm_morefood:orange": {
+      "textures": "textures/lpsm/morefood/items/orange"
+    },
+    "lpsm_morefood:plum": {
+      "textures": "textures/lpsm/morefood/items/plum"
+    },
+    "lpsm_morefood:raspberry": {
+      "textures": "textures/lpsm/morefood/items/raspberry"
+    },
+    "lpsm_morefood:strawberry": {
+      "textures": "textures/lpsm/morefood/items/strawberry"
+    },
+    "lpsm_morefood:tomato": {
+      "textures": "textures/lpsm/morefood/items/tomato"
+    },
+    "lpsm_morefood:gherkin": {
+      "textures": "textures/lpsm/morefood/items/gherkin"
+    },
+    "lpsm_morefood:lettuce": {
+      "textures": "textures/lpsm/morefood/items/lettuce"
+    },
+    "lpsm_morefood:onion": {
+      "textures": "textures/lpsm/morefood/items/onion"
+    },
+    "lpsm_morefood:starch": {
+      "textures": "textures/lpsm/morefood/items/starch"
+    },
+    "lpsm_morefood:wine_glass": {
+      "textures": "textures/lpsm/morefood/items/wine_glass"
+    },
+    "lpsm_morefood:wooden_spoon": {
+      "textures": "textures/lpsm/morefood/items/wooden_spoon"
+    },
+    "lpsm_morefood:wooden_knife": {
+      "textures": "textures/lpsm/morefood/items/wooden_knife"
+    },
+    "lpsm_morefood:soda_can": {
+      "textures": "textures/lpsm/morefood/items/soda_can"
+    },
+    "lpsm_morefood:apple_soda": {
+      "textures": "textures/lpsm/morefood/items/apple_soda"
+    },
+    "lpsm_morefood:berry_soda": {
+      "textures": "textures/lpsm/morefood/items/berry_soda"
+    },
+    "lpsm_morefood:grape_soda": {
+      "textures": "textures/lpsm/morefood/items/grape_soda"
+    },
+    "lpsm_morefood:lemon_soda": {
+      "textures": "textures/lpsm/morefood/items/lemon_soda"
+    },
+    "lpsm_morefood:orange_soda": {
+      "textures": "textures/lpsm/morefood/items/orange_soda"
+    },
+    "lpsm_morefood:strawberry_soda": {
+      "textures": "textures/lpsm/morefood/items/strawberry_soda"
+    },
+    "lpsm_morefood:raspberry_seeds": {
+      "textures": "textures/lpsm/morefood/items/raspberry_seeds"
+    },
+    "lpsm_morefood:rice_seeds": {
+      "textures": "textures/lpsm/morefood/items/rice_seeds"
+    },
+    "lpsm_morefood:pork_pie": {
+      "textures": "textures/lpsm/morefood/items/pork_pie"
+    },
+    "lpsm_morefood:beef_pie": {
+      "textures": "textures/lpsm/morefood/items/beef_pie"
+    },
+    "lpsm_morefood:strawberry_pie": {
+      "textures": "textures/lpsm/morefood/items/strawberry_pie"
+    },
+    "lpsm_morefood:toffee_pie": {
+      "textures": "textures/lpsm/morefood/items/toffee_pie"
+    },
+    "lpsm_morefood:rainbow_cake": {
+      "textures": "textures/lpsm/morefood/items/rainbow_cake"
+    },
+    "lpsm_morefood:redwhiteblue_cake": {
+      "textures": "textures/lpsm/morefood/items/redwhiteblue_cake"
+    },
+    "lpsm_morefood:pound_cake": {
+      "textures": "textures/lpsm/morefood/items/pound_cake"
+    },
+    "lpsm_morefood:popcorn_bucket": {
+      "textures": "textures/lpsm/morefood/items/popcorn_bucket"
+    },
+    "lpsm_morefood:raspberry_syrup": {
+      "textures": "textures/lpsm/morefood/items/raspberry_syrup"
+    },
+    "lpsm_morefood:pork_sausage_burger": {
+      "textures": "textures/lpsm/morefood/items/pork_sausage_burger"
+    },
+    "lpsm_morefood:pretzel_nuggets": {
+      "textures": "textures/lpsm/morefood/items/pretzel_nuggets"
+    },
+    "lpsm_morefood:pretzel_sticks": {
+      "textures": "textures/lpsm/morefood/items/pretzel_sticks"
+    },
+    "lpsm_morefood:roasted_peanut": {
+      "textures": "textures/lpsm/morefood/items/roasted_peanut"
+    },
+    "lpsm_morefood:roasted_sunflower_seeds": {
+      "textures": "textures/lpsm/morefood/items/roasted_sunflower_seeds"
+    },
+    "lpsm_morefood:pulled_beef_burger": {
+      "textures": "textures/lpsm/morefood/items/pulled_beef_burger"
+    },
+    "lpsm_morefood:roasted_soybeans": {
+      "textures": "textures/lpsm/morefood/items/roasted_soybeans"
+    },
+    "lpsm_morefood:rotten_porkchop": {
+      "textures": "textures/lpsm/morefood/items/rotten_porkchop"
+    },
+    "lpsm_morefood:pink_cupcake": {
+      "textures": "textures/lpsm/morefood/items/pink_cupcake"
+    },
+    "lpsm_morefood:pitta_bread": {
+      "textures": "textures/lpsm/morefood/items/pitta_bread"
+    },
+    "lpsm_morefood:pizza": {
+      "textures": "textures/lpsm/morefood/items/pizza"
+    },
+    "lpsm_morefood:pizza_crust": {
+      "textures": "textures/lpsm/morefood/items/pizza_crust"
+    },
+    "lpsm_morefood:pizza_slice": {
+      "textures": "textures/lpsm/morefood/items/pizza_slice"
+    },
+    "lpsm_morefood:popcorn": {
+      "textures": "textures/lpsm/morefood/items/popcorn"
+    },
+    "lpsm_morefood:ramen_noodles": {
+      "textures": "textures/lpsm/morefood/items/ramen_noodles"
+    },
+    "lpsm_morefood:truckle_of_cheese": {
+      "textures": "textures/lpsm/morefood/items/truckle_of_cheese"
+    },
+    "lpsm_morefood:bottled_red_wine": {
+      "textures": "textures/lpsm/morefood/items/bottled_red_wine"
+    },
+    "lpsm_morefood:onion_seeds": {
+      "textures": "textures/lpsm/morefood/items/onion_seeds"
+    },
+    "lpsm_morefood:pepper_seeds": {
+      "textures": "textures/lpsm/morefood/items/pepper_seeds"
+    },
+    "lpsm_morefood:apple_pie": {
+      "textures": "textures/lpsm/morefood/items/apple_pie"
+    },
+    "lpsm_morefood:apple_raspberry_pie": {
+      "textures": "textures/lpsm/morefood/items/apple_raspberry_pie"
+    },
+    "lpsm_morefood:berry_pie": {
+      "textures": "textures/lpsm/morefood/items/berry_pie"
+    },
+    "lpsm_morefood:cheese_pie": {
+      "textures": "textures/lpsm/morefood/items/cheese_pie"
+    },
+    "lpsm_morefood:chicken_pie": {
+      "textures": "textures/lpsm/morefood/items/chicken_pie"
+    },
+    "lpsm_morefood:chocolate_pie": {
+      "textures": "textures/lpsm/morefood/items/chocolate_pie"
+    },
+    "lpsm_morefood:lemon_pie": {
+      "textures": "textures/lpsm/morefood/items/lemon_pie"
+    },
+    "lpsm_morefood:pie_crust": {
+      "textures": "textures/lpsm/morefood/items/pie_crust"
+    },
+    "lpsm_morefood:plum_pie": {
+      "textures": "textures/lpsm/morefood/items/plum_pie"
+    },
+    "lpsm_morefood:orange_beverage_powder": {
+      "textures": "textures/lpsm/morefood/items/orange_beverage_powder"
+    },
+    "lpsm_morefood:orange_beverage": {
+      "textures": "textures/lpsm/morefood/items/orange_beverage"
+    },
+    "lpsm_morefood:onion_rings": {
+      "textures": "textures/lpsm/morefood/items/onion_rings"
+    },
+    "lpsm_morefood:peanut_seeds": {
+      "textures": "textures/lpsm/morefood/items/peanut_seeds"
+    },
+    "lpsm_morefood:pancake_mix": {
+      "textures": "textures/lpsm/morefood/items/pancake_mix"
+    },
+    "lpsm_morefood:peanut_butter_jelly_sandwich": {
+      "textures": "textures/lpsm/morefood/items/peanut_butter_jelly_sandwich"
+    },
+    "lpsm_morefood:pancakes": {
+      "textures": "textures/lpsm/morefood/items/pancakes"
+    },
+    "lpsm_morefood:pasta": {
+      "textures": "textures/lpsm/morefood/items/pasta"
+    },
+    "lpsm_morefood:pickles": {
+      "textures": "textures/lpsm/morefood/items/pickles"
+    },
+    "lpsm_morefood:peppermint_ring": {
+      "textures": "textures/lpsm/morefood/items/peppermint_ring"
+    },
+    "lpsm_morefood:orange_jelly": {
+      "textures": "textures/lpsm/morefood/items/orange_jelly"
+    }
+  }
+}

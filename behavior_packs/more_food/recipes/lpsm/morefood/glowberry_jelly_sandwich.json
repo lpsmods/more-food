@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:glowberry_jelly_sandwich"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#p", " X", " P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:butter"
+      },
+      "P": {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      "X": {
+        "item": "lpsm_morefood:glowberry_jam"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:glowberry_jelly_sandwich"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      {
+        "item": "lpsm_morefood:glowberry_jam"
+      }
+    ]
+  }
+}

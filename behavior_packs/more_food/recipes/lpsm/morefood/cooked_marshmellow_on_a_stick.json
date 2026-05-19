@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "lpsm_morefood:cooked_marshmallow_on_a_stick"
+    },
+    "tags": ["campfire", "soul_campfire"],
+    "input": "lpsm_morefood:marshmallow_on_a_stick",
+    "output": "lpsm_morefood:cooked_marshmallow_on_a_stick"
+  }
+}

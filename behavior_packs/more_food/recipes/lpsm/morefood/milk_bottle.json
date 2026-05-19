@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:milk_bottle"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " M "],
+    "key": {
+      "#": {
+        "item": "minecraft:glass_bottle"
+      },
+      "M": {
+        "item": "minecraft:milk_bucket"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:milk_bottle",
+        "count": 3
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ]
+  }
+}

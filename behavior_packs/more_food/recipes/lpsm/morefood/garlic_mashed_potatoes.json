@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:garlic_mashed_potatoes"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " BG"],
+    "key": {
+      "#": {
+        "item": "minecraft:potato"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      },
+      "G": {
+        "item": "lpsm_morefood:garlic"
+      }
+    },
+    "result": "lpsm_morefood:garlic_mashed_potatoes",
+    "unlock": [
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      },
+      {
+        "item": "lpsm_morefood:garlic"
+      }
+    ]
+  }
+}

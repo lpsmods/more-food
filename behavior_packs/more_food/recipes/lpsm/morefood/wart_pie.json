@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:wart_pie"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:pie",
+    "pattern": ["###", " P "],
+    "key": {
+      "#": {
+        "item": "minecraft:nether_wart"
+      },
+      "P": {
+        "item": "lpsm_morefood:pie_crust"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:wart_pie"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:nether_wart"
+      },
+      {
+        "item": "lpsm_morefood:pie_crust"
+      }
+    ]
+  }
+}

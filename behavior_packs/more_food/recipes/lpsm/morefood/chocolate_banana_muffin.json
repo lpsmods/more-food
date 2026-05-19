@@ -1,0 +1,57 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chocolate_banana_muffin"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" # ", "PXY", "ABC"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:banana"
+      },
+      "P": {
+        "item": "lpsm_morefood:butter"
+      },
+      "X": {
+        "item": "minecraft:sugar"
+      },
+      "Y": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "A": {
+        "item": "lpsm_morefood:milk_chocolate"
+      },
+      "B": {
+        "item": "lpsm_morefood:flour"
+      },
+      "C": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": "lpsm_morefood:chocolate_banana_muffin",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:banana"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "lpsm_morefood:milk_chocolate"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:egg"
+      }
+    ]
+  }
+}

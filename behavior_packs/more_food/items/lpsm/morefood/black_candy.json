@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:black_candy",
+      "menu_category": {
+        "category": "equipment",
+        "group": "lpsm_morefood:itemGroup.name.candy"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:black_candy",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": 0.4
+      },
+      "minecraft:tags": {
+        "tags": ["lpsm_morefood:candy"]
+      }
+    }
+  }
+}

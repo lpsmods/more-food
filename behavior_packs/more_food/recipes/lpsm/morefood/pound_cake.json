@@ -1,0 +1,51 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pound_cake"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["MBF", "SEV"],
+    "key": {
+      "M": {
+        "item": "minecraft:milk_bucket"
+      },
+      "B": {
+        "item": "lpsm_morefood:butter"
+      },
+      "F": {
+        "item": "lpsm_morefood:flour"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      },
+      "V": {
+        "item": "lpsm_morefood:vanilla_extract"
+      }
+    },
+    "result": "lpsm_morefood:pound_cake",
+    "unlock": [
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      }
+    ]
+  }
+}

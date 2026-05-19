@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:bacon"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###"],
+    "key": {
+      "#": {
+        "item": "minecraft:porkchop"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:bacon",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:porkchop"
+      }
+    ]
+  }
+}

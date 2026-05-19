@@ -1,0 +1,20 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:wooden_spile",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "tile.lpsm_morefood:wooden_spile.name"
+      },
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:wooden_spile"
+      },
+      "minecraft:icon": "lpsm_morefood:wooden_spile"
+    }
+  }
+}

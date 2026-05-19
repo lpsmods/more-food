@@ -1,0 +1,58 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:hot_cocoa"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:hot_drink",
+    "pattern": ["# ", "PX", "YA"],
+    "key": {
+      "#": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "P": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "X": {
+        "item": "minecraft:sugar"
+      },
+      "Y": {
+        "item": "lpsm_morefood:hot_beverage_cup"
+      },
+      "A": {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:hot_cocoa"
+      },
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:hot_beverage_cup"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    ]
+  }
+}

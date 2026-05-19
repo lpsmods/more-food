@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pie_crust"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:pie",
+    "pattern": ["#PX"],
+    "key": {
+      "#": {
+        "item": "minecraft:sugar"
+      },
+      "P": {
+        "item": "minecraft:water_bucket"
+      },
+      "X": {
+        "item": "lpsm_morefood:flour"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:pie_crust"
+      },
+      {
+        "item": "minecraft:bucket",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      }
+    ]
+  }
+}

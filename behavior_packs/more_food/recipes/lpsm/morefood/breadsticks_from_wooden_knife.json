@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:breadsticks_from_wooden_knife"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["B", "K"],
+    "key": {
+      "B": {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      "K": {
+        "item": "lpsm_morefood:wooden_knife"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:breadsticks",
+        "count": 4
+      },
+      {
+        "item": "lpsm_morefood:wooden_knife"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      {
+        "item": "lpsm_morefood:wooden_knife"
+      }
+    ]
+  }
+}

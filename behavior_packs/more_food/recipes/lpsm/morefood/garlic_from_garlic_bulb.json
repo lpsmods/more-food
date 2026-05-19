@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:garlic_from_garlic_bulb"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:garlic_bulb"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:garlic",
+      "count": 6
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:garlic_bulb"
+      }
+    ]
+  }
+}

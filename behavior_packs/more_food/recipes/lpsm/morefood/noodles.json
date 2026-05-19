@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:noodles"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#", "P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:flour"
+      },
+      "P": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:noodles"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:egg"
+      }
+    ]
+  }
+}

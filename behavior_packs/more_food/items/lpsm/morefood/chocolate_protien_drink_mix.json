@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:chocolate_protein_drink_mix",
+      "menu_category": {
+        "category": "equipment",
+        "group": "lpsm_morefood:itemGroup.name.drink_mix"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:chocolate_protein_drink_mix"
+    }
+  }
+}

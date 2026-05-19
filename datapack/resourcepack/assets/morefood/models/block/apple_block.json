@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "morefood:blocks/apple_block_bottom",
-    "top": "morefood:blocks/apple_block_top",
-    "side": "morefood:blocks/apple_block"
-  }
-}

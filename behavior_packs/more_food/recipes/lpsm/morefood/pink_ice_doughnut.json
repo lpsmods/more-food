@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pink_ice_doughnut"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:doughnut",
+    "pattern": ["P", "#", "X"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:plain_doughnut"
+      },
+      "P": {
+        "item": "lpsm_morefood:icing"
+      },
+      "X": {
+        "item": "minecraft:pink_dye"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:pink_ice_doughnut"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:plain_doughnut"
+      },
+      {
+        "item": "lpsm_morefood:icing"
+      },
+      {
+        "item": "minecraft:pink_dye"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "lpsm_morefood:netherite_knife"
+    },
+    "tags": ["smithing_table"],
+    "template": "minecraft:netherite_upgrade_smithing_template",
+    "base": "lpsm_morefood:diamond_knife",
+    "addition": "minecraft:netherite_ingot",
+    "result": "lpsm_morefood:netherite_knife"
+  }
+}

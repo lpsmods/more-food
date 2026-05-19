@@ -1,9 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/rotten_flesh"
-	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 50}, "model": "morefood:item/rotten_porkchop"}
-	]
-}

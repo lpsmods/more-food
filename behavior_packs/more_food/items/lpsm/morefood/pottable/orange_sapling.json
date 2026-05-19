@@ -1,0 +1,22 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:orange_sapling",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.sapling",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "lpsm_morefood:sapling": {},
+      "minecraft:icon": "lpsm_morefood:orange_sapling",
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:orange_sapling_block"
+      },
+      "minecraft:compostable": {
+        "composting_chance": 30
+      }
+    }
+  }
+}

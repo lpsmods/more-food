@@ -1,0 +1,7 @@
+[
+  {
+    "flipbook_texture": "textures/lpsm/morefood/blocks/cauldron_sap",
+    "atlas_tile": "cauldron_sap",
+    "ticks_per_frame": 2
+  }
+]

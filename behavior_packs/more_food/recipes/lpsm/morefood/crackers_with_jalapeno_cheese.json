@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:crackers_with_jalapeno_cheese"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "lpsm_morefood:crackers"
+      },
+      {
+        "item": "lpsm_morefood:jalapeno_cheese_spread"
+      }
+    ],
+    "result": "lpsm_morefood:crackers_with_jalapeno_cheese",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:crackers"
+      },
+      {
+        "item": "lpsm_morefood:jalapeno_cheese_spread"
+      }
+    ]
+  }
+}

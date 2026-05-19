@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:netherite_apple"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["# X"],
+    "key": {
+      "#": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "X": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:netherite_apple",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:golden_apple"
+      }
+    ]
+  }
+}

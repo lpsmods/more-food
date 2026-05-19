@@ -1,0 +1,51 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:spaghetti_with_meatballs"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["SSS", "SPU", "TLO"],
+    "key": {
+      "S": {
+        "item": "minecraft:cooked_beef"
+      },
+      "P": {
+        "item": "lpsm_morefood:pasta"
+      },
+      "U": {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      "T": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "L": {
+        "item": "lpsm_morefood:lettuce"
+      },
+      "O": {
+        "item": "lpsm_morefood:onion"
+      }
+    },
+    "result": "lpsm_morefood:spaghetti_with_meatballs",
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "lpsm_morefood:pasta"
+      },
+      {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      }
+    ]
+  }
+}

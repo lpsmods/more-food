@@ -1,3 +1,0 @@
-display:{Name:"{\"translate\":\"item.morefood:\"}",Lore:["{\"translate\":\"lore.lps:food\"}"]}} 1
-
-"text" is replaced with "translate" then the old name is replaced with "item.morefood:<the item>"

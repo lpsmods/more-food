@@ -1,6 +1,0 @@
-{
-	"parent": "morefood:block/template_tree_tap",
-	"textures": {
-		"texture": "minecraft:block/oak_planks"
-	}
-}

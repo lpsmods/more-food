@@ -1,0 +1,37 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:fungus_stew"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P", "B "],
+    "key": {
+      "#": {
+        "item": "minecraft:crimson_fungus"
+      },
+      "P": {
+        "item": "minecraft:warped_fungus"
+      },
+      "B": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:fungus_stew"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:crimson_fungus"
+      },
+      {
+        "item": "minecraft:warped_fungus"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ]
+  }
+}

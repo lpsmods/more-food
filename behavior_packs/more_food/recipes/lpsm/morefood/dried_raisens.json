@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "lpsm_morefood:dried_raisens"
+    },
+    "tags": ["smoker", "furnace", "campfire", "soul_campfire"],
+    "input": "lpsm_morefood:grape",
+    "output": "lpsm_morefood:dried_raisens"
+  }
+}

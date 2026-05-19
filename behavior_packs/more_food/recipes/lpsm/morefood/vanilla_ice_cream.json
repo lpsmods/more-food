@@ -1,0 +1,50 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:vanilla_ice_cream"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:ice_cream",
+    "pattern": ["C#I", " V "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "C": {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      "I": {
+        "item": "minecraft:ice"
+      },
+      "V": {
+        "item": "lpsm_morefood:ice_cream_cone"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:vanilla_ice_cream"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "lpsm_morefood:ice_cream_cone"
+      }
+    ]
+  }
+}

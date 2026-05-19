@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:peanut_butter"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["POP", " J "],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:peanut"
+      },
+      "O": {
+        "item": "lpsm_morefood:oil"
+      },
+      "J": {
+        "item": "lpsm_morefood:jar"
+      }
+    },
+    "result": "lpsm_morefood:peanut_butter",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:peanut"
+      },
+      {
+        "item": "lpsm_morefood:oil"
+      },
+      {
+        "item": "lpsm_morefood:jar"
+      }
+    ]
+  }
+}

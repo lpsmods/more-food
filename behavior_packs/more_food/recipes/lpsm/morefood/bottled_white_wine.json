@@ -1,0 +1,49 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:bottled_white_wine"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["AAA", "SBY", "GGG"],
+    "key": {
+      "A": {
+        "item": "minecraft:apple"
+      },
+      "G": {
+        "item": "lpsm_morefood:grape"
+      },
+      "B": {
+        "item": "lpsm_morefood:bottle"
+      },
+      "Y": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:bottled_white_wine"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:grape"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

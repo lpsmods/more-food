@@ -1,9 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/cooked_salmon"
-	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 50}, "model": "morefood:item/cheese_wedge"}
-	]
-}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:coconut_milk",
+      "menu_category": {
+        "group": "lpsm_morefood:itemGroup.name.drink",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:coconut_milk",
+      "minecraft:use_animation": "drink",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:max_stack_size": 16,
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation_modifier": 6.0
+      }
+    }
+  }
+}

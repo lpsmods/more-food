@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:apple_pie"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:pie",
+    "pattern": ["###", " P "],
+    "key": {
+      "#": {
+        "item": "minecraft:apple"
+      },
+      "P": {
+        "item": "lpsm_morefood:pie_crust"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:apple_pie"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:pie_crust"
+      }
+    ]
+  }
+}

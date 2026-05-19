@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:jam"
+    },
+    "tags": ["crafting_table"],
+    "group": "morefood",
+    "pattern": ["LSB", " J "],
+    "key": {
+      "L": {
+        "item": "lpsm_morefood:lemon"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      },
+      "J": {
+        "item": "lpsm_morefood:jar"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:jam"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:lemon"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "lpsm_morefood:jar"
+      }
+    ]
+  }
+}

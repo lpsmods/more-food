@@ -1,0 +1,49 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:marshmallow"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["SGV", " W "],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "G": {
+        "item": "lpsm_morefood:gelatin"
+      },
+      "V": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "W": {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:marshmallow",
+        "count": 4
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:gelatin"
+      },
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    ]
+  }
+}

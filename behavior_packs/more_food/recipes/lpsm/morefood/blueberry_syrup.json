@@ -1,0 +1,47 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:blueberry_syrup"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["OMS", " L "],
+    "key": {
+      "O": {
+        "item": "lpsm_morefood:blueberries"
+      },
+      "M": {
+        "item": "lpsm_morefood:maple_syrup_bucket"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "L": {
+        "item": "minecraft:lava_bucket"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:blueberry_syrup"
+      },
+      {
+        "item": "minecraft:bucket",
+        "count": 2
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:blueberries"
+      },
+      {
+        "item": "lpsm_morefood:maple_syrup_bucket"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:lava_bucket"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pork_sausage_burger"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["BT", "SS", "L "],
+    "key": {
+      "B": {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      "T": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "S": {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      "L": {
+        "item": "lpsm_morefood:lettuce"
+      }
+    },
+    "result": "lpsm_morefood:pork_sausage_burger",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      }
+    ]
+  }
+}

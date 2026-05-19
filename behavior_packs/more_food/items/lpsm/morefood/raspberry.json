@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:raspberry",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.crop",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:raspberry",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 4,
+        "saturation_modifier": 2.4
+      },
+      "minecraft:compostable": {
+        "composting_chance": 65
+      }
+    }
+  }
+}

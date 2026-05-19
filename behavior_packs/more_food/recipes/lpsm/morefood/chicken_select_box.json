@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chicken_select_box"
+    },
+    "tags": ["crafting_table"],
+    "group": "morefood",
+    "pattern": ["###"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:fry_wrapper"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:chicken_select_box"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:fry_wrapper"
+      }
+    ]
+  }
+}

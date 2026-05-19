@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:gelatin"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", " B "],
+    "key": {
+      "#": {
+        "item": "minecraft:bone_meal"
+      },
+      "B": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:gelatin"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ]
+  }
+}

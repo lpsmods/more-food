@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:mutton_bushel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:mutton"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:mutton_bushel",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:mutton"
+      }
+    ]
+  }
+}

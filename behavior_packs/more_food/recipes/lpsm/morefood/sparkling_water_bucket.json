@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:sparkling_water_bucket"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:soda",
+    "pattern": ["#", "P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "P": {
+        "item": "minecraft:water_bucket"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:sparkling_water_bucket"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:water_bucket"
+      }
+    ]
+  }
+}

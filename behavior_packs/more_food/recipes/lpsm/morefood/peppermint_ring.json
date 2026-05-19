@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:peppermint_ring"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" S ", "SPS", " S "],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "P": {
+        "item": "lpsm_morefood:peppermint_extract"
+      }
+    },
+    "result": "lpsm_morefood:peppermint_ring",
+    "unlock": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:peppermint_extract"
+      }
+    ]
+  }
+}

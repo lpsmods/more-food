@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "lpsm_morefood:cooked_frankfurter_sausage_from_cooking"
+    },
+    "tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+    "input": "lpsm_morefood:frankfurter_sausage",
+    "output": "lpsm_morefood:cooked_frankfurter_sausage"
+  }
+}

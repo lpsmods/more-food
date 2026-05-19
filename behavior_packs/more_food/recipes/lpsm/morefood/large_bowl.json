@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:large_bowl"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "count": 2,
+        "item": "minecraft:bowl"
+      }
+    ],
+    "result": {
+      "item": "lpsm_morefood:large_bowl"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:bowl"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:submarine_sandwich_bun"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" # ", "#P#"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:dough"
+      },
+      "P": {
+        "item": "lpsm_morefood:flour"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:submarine_sandwich_bun"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:dough"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      }
+    ]
+  }
+}

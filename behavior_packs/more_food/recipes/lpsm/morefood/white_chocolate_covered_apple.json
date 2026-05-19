@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:white_chocolate_covered_apple"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:white_chocolate"
+      }
+    ],
+    "result": "lpsm_morefood:white_chocolate_covered_apple",
+    "unlock": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:white_chocolate"
+      }
+    ]
+  }
+}

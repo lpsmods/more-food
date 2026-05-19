@@ -1,0 +1,48 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:orange_jelly"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#PZ", " X "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:orange"
+      },
+      "P": {
+        "item": "lpsm_morefood:gelatin"
+      },
+      "X": {
+        "item": "minecraft:ice"
+      },
+      "Z": {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:orange_jelly"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:orange"
+      },
+      {
+        "item": "lpsm_morefood:gelatin"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    ]
+  }
+}

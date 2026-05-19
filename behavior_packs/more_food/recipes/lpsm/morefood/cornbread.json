@@ -1,0 +1,37 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:cornbread"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "#C#", " P "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:dough"
+      },
+      "C": {
+        "item": "lpsm_morefood:corncob"
+      },
+      "P": {
+        "item": "lpsm_morefood:flour"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:cornbread"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:dough"
+      },
+      {
+        "item": "lpsm_morefood:corncob"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      }
+    ]
+  }
+}

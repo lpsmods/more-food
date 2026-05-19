@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "lpsm_morefood:corn_starch_bushel",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

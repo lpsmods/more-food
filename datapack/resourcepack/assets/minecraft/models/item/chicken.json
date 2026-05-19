@@ -1,9 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/chicken"
-	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 50}, "model": "morefood:item/bat_meat"}
-	]
-}

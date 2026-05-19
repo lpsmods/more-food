@@ -1,0 +1,59 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:hamburger"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" #P", " AB", "CXY"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      "P": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "A": {
+        "item": "lpsm_morefood:lettuce"
+      },
+      "B": {
+        "item": "lpsm_morefood:onion"
+      },
+      "C": {
+        "item": "lpsm_morefood:pickles"
+      },
+      "X": {
+        "item": "lpsm_morefood:hamburger_patty"
+      },
+      "Y": {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:hamburger"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:pickles"
+      },
+      {
+        "item": "lpsm_morefood:hamburger_patty"
+      },
+      {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    ]
+  }
+}

@@ -4,7 +4,30 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [bedrock-1.7.0-rc2] - unreleased
+## [2.0.0] (1.21.81) - unreleased
+
+> NOTE: This update is NOT backwards compatible and will break old installations.
+
+### General
+
+- Now uses Assets+ v2.0.0
+- Add-on now meets all Cooperative Add-On Requirements (CADDONIREQ)
+- Seeds, Saplings and Crops are now compostable.
+- Renamed toastie to grilled cheese.
+- Renamed dried raisins to raisins.
+- Renamed dried cranberries to craisins
+- Renamed sacks to bushels
+- Changed #morefood to @morefood
+- Bushels are now grouped in the creative inventory.
+- Removed fertile soil (use farmland instead)
+- Renamed pale to pail.
+- Crops are now compatible with the Essentials Add-On.
+
+### Fixes
+
+- #93 Unknown Block
+
+## [1.7.0-rc2] () - 8/21/2024
 
 ### General
 
@@ -18,7 +41,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
   - Will send a message when you don't place it on a tree
 - Bottled beer, cider, red wine and white wine now use durability to show how many uses are left.
 
-## [bedrock-1.7.0-rc1] (1.6.8) - 1/29/2024
+## [1.7.0-rc1] (1.6.8) - 1/29/2024
 
 If no issues arise this will be 1.7.0
 
@@ -47,7 +70,7 @@ If no issues arise this will be 1.7.0
 - Changed knife recipes to match the new textures. Uses one stick instead of 2 black concrete.
 - You can now craft stone knifes using blackstone and cobbled deepslate
 
-## [bedrock-1.7.0-pre7] (1.6.7) - 12/22/2023
+## [1.7.0-pre7] (1.6.7) - 12/22/2023
 
 Hello, Hope you all have a great Christmas and New Year! This is the last preview for 1.7.0 which will be released in early 2024 🎆🎆🎆.
 
@@ -141,7 +164,7 @@ Tweaked recipes: See Wiki for new recipes
 - Yeast
 - Soda
 
-## [bedrock-1.7.0-pre6] (1.6.6) - 10/31/2023
+## [1.7.0-pre6] (1.6.6) - 10/31/2023
 
 ### Before Updating
 
@@ -175,7 +198,7 @@ Tweaked recipes: See Wiki for new recipes
 
 - Sub Wrapper
 
-## [bedrock-1.7.0-pre5] (1.6.5) - 7-21-2023
+## [1.7.0-pre5] (1.6.5) - 7-21-2023
 
 ### Known Issues
 
@@ -216,7 +239,7 @@ The following are issues with Minecraft that cannot be fixed.
 - Cherries
 - Cake with Cherry
 
-## [bedrock-1.7.0-pre4] (1.6.4) - 4-11-2023
+## [1.7.0-pre4] (1.6.4) - 4-11-2023
 
 - Updated for 1.19.73
 - Requires Experimental Molang
@@ -265,7 +288,7 @@ The following are issues with Minecraft that cannot be fixed.
 - Empty Wedges Pot (uses Flower Pot)
 - Empty Popcorn Bucket (uses Bucket)
 
-## [bedrock-1.7.0-pre3] (1.6.3) - 5-17-2022
+## [1.7.0-pre3] (1.6.3) - 5-17-2022
 
 Lot's More Food 1.7.0 for 1.18.3 is just around the corner! This update introduces a handful of new items, blocks, structures, recipes, and more for the final few changes before this update is finally released.
 
@@ -389,7 +412,7 @@ This preview version introduces a world generation that is subject to change. It
 
 ---
 
-## [bedrock-1.7.0-pre2] (1.6.2) - 2-10-2022
+## [1.7.0-pre2] (1.6.2) - 2-10-2022
 
 ### General
 
@@ -411,7 +434,7 @@ This preview version introduces a world generation that is subject to change. It
 
 ---
 
-## [bedrock-1.7.0-pre1] (1.6.1) - 5-17-2021
+## [1.7.0-pre1] (1.6.1) - 5-17-2021
 
 ### General
 
@@ -649,638 +672,3 @@ This preview version introduces a world generation that is subject to change. It
 - fixed spamming of invalid var "varable.worldx" in console.
 
 If you find any bugs with this update or any future updates please properly fill out a bug report. [Github Bug Tracker](https://github.com/legopitstop/Lots-More-Food-Mods/issues)
-
-## [fabric-0.0.5] - unreleased
-
-### General
-
-- Updated for 1.21
-- Now uses Java 21
-
-## [fabric-0.0.4] - 2/7/2024
-
-### General
-
-- Updated for 1.20.4
-- Short and Tall grass loot tables now inject LMF seeds instead of overriding them.
-- Made "c:knives" item tag which contains all LMF knives.
-- Changed knife recipe to match the new textures.
-
-### Bug Fixes
-
-- #90 Berry Bushes Do Not Affect Mob Pathfinding
-- Knife recipes should now work.
-- #76 Peanut crop doesn't drop Peanuts
-- #75 Peanut crop uses the wrong model
-- #74 Some crops don't look fully grown
-- #73 Spearmint and Watermint have black backgrounds
-- #82 Coffee beans give nothing upon harvest
-- #84 Both Raw hamburger and Vegan burger patties are not cooked
-
-### New/Changes
-
-- Corn is now 2 blocks tall
-- Added shroomlight recipe from shroomlight slices.
-
-## [fabric-0.0.3] - 9-21-2023
-
-### General
-
-- Updated for 1.20.2
-- Fixed a crash that would occor when attempting to bone meal hanging fruits.
-
-## [fabric-0.0.2] - 8-9-2023
-
-### General
-
-- Saplings, Crops, and Seeds are now compostable.
-
-### Bug Fixes
-
-- #69 Plants have black & white backgrounds
-- #70 Issues with Candle Cakes
-
-### New
-
-Added holiday themed items.
-
-- Candy (all 16 colors)
-- Candy Corn
-- Candy Corn Bowl
-- Cooked Pumpkin Seeds
-- Cooked Salted Pumpkin Seeds
-- Small Pumpkin Pale
-- Large Pumpkin Pale
-- Ghast Cookie
-
-## [fabric-0.0.1] - 7-26-2023
-
-### Known Issues
-
-- Plants are not transparent. (They have white & black backgrounds)
-- Holiday features (candy, ghast cookies, etc) are not added yet.
-- Candle Cakes cannot be lit using Flint and Steel.
-
-### General
-
-- Initial Release
-
-## [forge-1.3.0-beta1] - nov/25/2021
-
-### Known Issues
-
-- Compressed blocks have not been added.
-- Chocolate, Rainbow, and red white blue candle cakes have issues.
-
-### General
-
-- Updated for 1.17.1 and uses Java 16
-- Added Copper Knife
-- Removed Emerald Knife
-- Updated some item id's
-- Added new textures by SuperSonic
-- Removed Stove Block
-
-### Fixes
-
-- Items should now have their proper max stack size.
-- #22 Hamburger and veganburger cooked patties use the wrong texture.
-
-## [forge-1.2.0] - nov/10/2020
-
-### New
-
-- Recipes!!! all recipes are added!!
-- Sub Wrapper Item for sub recipes
-- Temp coconut item for recipes
-- Added pepper bush texture Fixes
-- Fixed all data and asset errors
-- Changed mod banner in mod description.
-
-### Other
-
-- Updated for 1.16.4 Minecraft and 35 Forge.
-- Removed exotic trader, no longer needed.
-
-## [forge-1.0.0-pre1] - sep/5/2020
-
-### General
-
-- New Fluids; cheese & sparkling water (WIP)
-- New Sounds for consuming certain foods/drinks
-- New Crops & bushes! (world generation not added yet)
-- New Items!
-  - Sparkling Water Bottle
-  - Pepper
-  - Cooked Chicken Piece
-  - Cooked Wedges
-  - Creative Hunger item (will give you hunger, can be useful when testing foods)
-
-### Fixes
-
-- stove flame has black around it.
-
-### Other
-
-- Updated for 1.16.2 Forge
-- Added issue tracker URL
-- The stove model uses/has a parent file (in case if it is needed or other variants are added)
-
-## [forge-1.0.1] - aug/11/2020
-
-### New Blocks
-
-- Added stove (no functions rn)
-- Tons of compressed food blocks
-
-### New Items
-
-- Added all food items
-
-### Loot Tables
-
-- some entities drop food (bats=batmeat, hoglin=hoglin meat)
-
-### Other
-
-- Updated to forge 1.16.1 - 32.0.108
-- Added update JSON
-
-(NOT all recipes are added, but are coming soon!)
-
-## [forge-1.0.0] - jul/27/2020
-
-Initial release, Not all food items are added.
-
-## [datapack-3.1] - aug/12/2020
-
-### General
-
-- lang.json has been moved to morefood asset folder.
-- Alcohol bottles now have a percentage Lore.
-- Added alcohol lore option to config.
-- Recipe folders have been moved around.
-- Added 0% alcohol bottles.
-- Bottled beer to glass recipes work, check recipe doc
-- changed up resourcepack texture & model locations
-- knifes use parent model in template folder, same for the spoon
-- Updated pack format to 6 for 1.16.2
-- New Chicken Nugget (cooked & raw) Place one cooked/raw chicken in the middle of the custom crafting table.
-
-## [datapack-3.0] - jun/22/2020
-
-### General
-
-- Updated for 1.16 Snapshots
-- random number name for rcore_recipe: tick, pages, and recipe tick
-- items that drop from entities (bat & squid) now have lore and stack with other items
-- changed bat and squid loot tables, both will drop between 0-2 of the item or 1-3 with looting
-
-and don't need to be killed by a player to drop (can be farmable)
-
-- Fixed - squid not dropping ink sac
-- New Nether Foods! Scary!
-- zoglin and zombified piglin drop Rotten Porkchop, not rotten flesh
-- Warped Berries drop from warped wart block, and Shroomlight Slices drop from shroomlight
-- added eaten scoreboard for all eatable items (can be used to add/remove effects)
-- removed some unneeded function files
-- added Desc: and Called By: in each function file for better understanding for me and others.
-- changed resourcepack assets around, models and textures now use morefood: instead of Minecraft:
-- Updated to work with LPS_Recipe_API v2.5-pre2+
-- Changed up some item names (ex: Icecream (chocolate) = Chocolate Icecream)
-- Resourcepack: fixed some errors that came up in-game output log.
-- fixed: Villager spawn egg texture
-- Items that have give effects have Lore underneath the name.
-
-### Get new foods?
-
-- Shroomlight Slices - shroomlight now acts like melons, break to get slices. use silk touch to get the block
-- Warped Berries - sometimes drops instead of Warped Wart block
-- Hoglin Meat - Drops from Hollins. replaces porkchop drop
-- Rotten Porkchop - Drops from Zoglin & Zombified Piglin. replaces rotten flesh drop
-
-All the rest are made by recipes. Find a text-based doc here and image-based doc here
-
-## [datapack-2.9] - apr/25/2020
-
-### General
-
-- updated for v2.4+ LPS Rcore category system
-- removed Recipe Book (item)
-
-## [datapack-2.8] - apr/19/2020
-
-### General
-
-- added moreplants textures.
-- Fixed & Tested all recipes! Make sure to install LPS Rcore API and use the custom crafting table.
-
-## [datapack-2.7] - apr/11/2020
-
-### General
-
-Today (April 11) is morefood’s birthday! The morefood pack is now one year old. The pack was uploaded to PMC on April 11th, 2019 and since then it has gone through a bunch of updates and even a port to bedrock edition. Thanks for coming on this journey with us bugs and all!
-
-- 🎂🎂Added cakes🎂🎂!
-- Added plant cross/crop models for the latest moreplants version.
-- Added more recipes to recipe table book (yes, recipes are buggy rn)
-
-You can find a video of the cake recipes on my twitter: https://twitter.com/i/status/1249000328827199488
-
-## [datapack-2.6] - feb/28/2020
-
-- Added Onigiri and Sashimi (thanks to Contributors#Raihan-Art27 for suggestion & textures)
-- Added "Lots More Food" text on MoJang loading screen and under Minecraft menu screen
-- New display name system (support for more lang)
-- Support for "LPS RCore API" recipe book table.
-- Hopefully fixed recipes, Report any recipes that are'nt working.
-- added netherite Knife for 1.16 (untested, but should work)
-
-## [datapack-2.5] - nov/12/2019
-
-### New Textures
-
-- icecream cone(s)
-- Hotdog
-
-## [datapack-2.4] - nov/8/2019
-
-### General
-
-- fixed textures
-- fixed bookshelf texture
-- Make sure to Download LPS Core API (MAKE SURE TO INSTALL RECENT VERSION V1.8)
-- new table model
-
-## [datapack-2.3] - nov/2/2019
-
-### General
-
-- fixed textures
-- fixed bookshelf texture
-
-## [datapack-2.2] - oct/14/2019
-
-### General
-
-- Recipes should now work, download the latest version of 'Legopitstop's Recipe Core'
-- Make sure to also install the newest version of More Food texture pack (In download)
-- all textures in resource pack are in one folder named 'morefood' useful for combining other packs.
-
-## [datapack-2.1] - oct/8/2019
-
-### General
-
-NOW SURVIVAL COMPATIBLE!!! Recipes are added. thanks to Sir_Craftypants
-
-## [datapack-2.0] - sep/16/2019
-
-This adds soo many items and food items I don't know how to add all of it here, soo... Just download and check it out! Many many thanks to Sir_craftypants for helping, (I have recently started school.)
-
-## [datapack-1.9] - aug/5/2019
-
-### General
-
-- added recipes for all the coffees, hot cocoa, and hot tea.
-- fixed smoothie recipe.
-- added mixed fruit recipes.
-
-## [datapack-1.8] - jul/29/2019
-
-### General
-
-- Trees and plants have been moved to their own pack make sure to download if you want the plants
-- trader spawn egg
-- trader now will except five emeralds instead of one.
-- Fixed cold drinks recipes
-- Trader is now called exotic_trader
-- Trader will now lock out after 16 trades
-- Fruit trees will drop golden fruit after 2 Mc days (48000 ticks/40 min)
-- added more 'function debug:' commands
-- Cleaned up tree files (deleted 4 lines of code for each plant file. reduced file size)
-- Trees will give you their items if they don't place. unless you are in creative then you will not recive the item.
-- Added Credit pages with links apon reload.
-- You can rename a crafting table to "Morefood Crafting Table" to get the custom crafting table via (LPS_Rcore)
-- Cleared recipe book for new recipes coming in the future.
-- added tools and item recipes.
-
-## [datapack-1.7] - jul/22/2019
-
-### General
-
-- If you rename a wandering trader it will change all the trades (do this by renaming a name tag using a anvil or renaming the spawn egg)
-- took out Cold Table, Hot Table, and Alcohol Table.
-- bats drop their Raw Bat Meat
-- squid drop their Raw Squid
-
-### Added
-
-- Sushi
-- Cream Carton
-- Toffee Donut
-- Toffee Icecream
-- Vanilla Icecream
-
-## [datapack-1.6] - jul/16/2019
-
-This update adds 3 new crafting benches. That are used for crafting. these tables include new blocks and block models, new sounds, new timer and more!
-
-### Cold Table
-
-- cold table for the cold drinks
-- custom sound
-- particle emitting
-- custom recipes
-
-### Hot Table
-
-- hot table for the hot drinks
-- custom sound
-- particle emitting
-- custom recipes
-
-### Alcohol Table
-
-- alcohol table for the alcohol
-- custom sound
-- particle emitting
-- custom recipes
-
-### New Items/Foods
-
-- Americano
-- Cappuccino
-- Toffee Latte
-- Vanilla Latte
-- Macchiato
-- Hops
-- Breakfast Sub
-- Pitta Bread
-- Pizza Base
-- Sausage Egg Muffin
-- Sausage Egg Sandwich
-
-### Changed/Fixed
-
-- removed Brown Sugar
-- removed Beer Barrel and gave Bottled Beer durability
-- changed some item names and spelling errors
-- fixed Cut Fries now have their texture
-- removed Blender on and off
-- removed Pizza Box only have Pizza Box Opened
-
-## [datapack-1.5-fix] - jul/11/2019
-
-- Forgot to add the hotbar.nbt file now added.
-
-## [datapack-1.5] - jul/8/2019
-
-### Food
-
-- lots of Juices
-- lots of Smoothies
-- lots of Icecrushes
-- Hot Cocoa
-- Hot Coffee
-- Hot Tea
-- golden fruit
-- golden donut
-- Berry Pie
-- Brown Sugar
-- Coconut Milk
-- Coconut Meat
-- Milk Carton
-
-### Items
-
-- Hot Beverage Cup
-- Tumbler Glass
-- Icecrush Glass
-
-### Plants
-
-- cocoanut tree
-- Tomato Bush
-- Corn
-- Lettuce
-- Coffee Beans
-- Strawberry Seeds
-
-### Functions
-
-- new creative tool/functions (function debug:)
-
-## [datapack-1.4] - jul/1/2019
-
-### Sir_Craftypants
-
-#### Food
-
-- Raw Hamburger Patty
-- Raw patty
-- Hotdog Sausage
-- Cooked Hotdog Sausage
-- Hotdog Bun
-- Muffin Bun
-- Bacon Egg Muffin
-- Cheese Toastie
-- Pot of wedges
-- Kebab
-- Tortilla
-- Taco
-- Chicken Fajita
-- Burrito
-- Bowl of Cereal
-- Tomato Ketchup bottle
-- Blue Cupcake
-- Pink Cupcake
-- White wine bottle
-- Bottle of beer
-- Beer
-- Hot Beverage Cup
-- New soda can
-- 6 flavors of soda can
-- Chocolate, Strawberry, Banana Milkshakes
-
-#### Texture Fixes
-
-- Pizza
-- Lettuce
-- Sliced Lettuce
-- Round Cheese
-
-### legopitstop
-
-#### Food
-
-- Bat Meat
-- Cooked Bat Meat
-- Jam
-- Toffee
-- Waffle
-- Butter
-- Chicken Sub
-- Fried Squid
-- Raw Squid
-- Raw Wedges
-- Wedges Pot
-
-#### Items
-
-- Beer Barrel (Durability:0,100,25,50,75)
-- Beer Glass
-- Cider Glass
-- Icing pink and white
-- Starch
-- Wine Glass
-- Pizza Box
-- Pizza Box Opened
-
-#### Other
-
-- Grapes now grow on bushes
-- grape sapling is now Grape Seeds (texture by legopitstop)
-- trees and bushes will now drop fruit less often
-- give functions are now organized
-
-#### Changed
-
-- some alcohol have durability (Durability:0,100,25,50,75) now are called ITEMS
-
-## [datapack-1.3-fix] - jun/25/2019
-
-### General
-
-This version adds one more item Bottled White Wine and also fixed some textures.
-
-## [datapack-1.3] - jun/24/2019
-
-### New Items
-
-#### Tools
-
-- Emerald Knife
-
-#### Items
-
-- Blender
-- blender on
-
-#### Food
-
-- Icecream Cone
-- Chocolate Icecream
-- Banana Icecream
-- Strawberry Icecream
-- Chocolate Donut
-- Coffee Donut
-- Plain Donut
-- Pink Ice Donut
-- Iced Donut
-- Strawberry Donut
-- Apple Pie
-- Cheese Pie
-- Chicken Pie
-- Golden Apple Pie
-- Lemon Pie
-- Pie Base
-- Pork Pie
-- Steak Pie
-- Strawberry Pie
-- Grape Pie
-- Toffee Pie
-- Chicken Select
-- Lemon
-- Strawberry
-- Sliced Tomato
-- Sliced Lettuce
-- Red Wine
-- White Wine
-- Bottled Red Wine
-- Bottled Cider
-- Cider
-
-### New Textures
-
-- Jelly Sandwich
-- Jello
-- Sliced Bread
-- Toast
-- Hamburger
-- Veganburger
-- White Chocolate
-- Milk Chocolate
-- Dark Chocolate
-- sub
-- Pizza Slice
-- Hotdog With Bun
-
-## [datapack-1.2] - may/29/2019
-
-### General
-
-Shhh... secret Wendsday update.
-
-No new items - Just added new Creative Tab (saved toolbars)
-
-## [datapack-1.1] - may/27/2019
-
-### General
-
-- Popcorn
-- Popcorn Bucket
-- Ramen Noodles
-- Sparkling Water Bucket (animated texture)
-- Apple
-- Apple Slice
-- Orange Slice
-- Dough
-- Jelly Sandwich
-- Jello
-- Loukoum
-- Cut Fries
-- Sliced Bread
-- Corn On The Cob
-- Recipe Book (added recipes: items, tools, and plants. Need Legopitstop's Recipe Core)
-- Soda Can (empty)
-
-## [datapack-update-2] - may/20/2019
-
-### Added
-
-- Apple Sapling and tree [plant]
-- Banana Sapling and tree [plant]
-- grape sapling and tree [plant]
-- Orange Sapling and tree [plant]
-- Banana
-- Grape
-- Orange
-- Tomato
-- Icecream Cone
-- Ice Cream Bowl
-- Pizza Slice
-- Pizza
-- Hotdog
-- Dark Chocolate
-- Spaghetti
-- Sliced Lettuce
-
-### Edited/Changed
-
-- Sliced Pickles, new texture
-- Sub Wrapper, new texture
-- Sub Bun, new texture
-- sub, new texture
-
-All "Tools" items are craftable via LPS recipe core (recipe screenshots coming soon!)
-
-## [datapack-beta] - unknown
-
-### New
-
-- all types of Knifes
-- Mixing Spoon
-- subs
-- Sub Bun
-- Pickles
-- Sub Wrapper

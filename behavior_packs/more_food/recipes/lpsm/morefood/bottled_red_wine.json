@@ -1,0 +1,58 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:bottled_red_wine"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["H H", "UBY", "W#W"],
+    "key": {
+      "#": {
+        "item": "minecraft:water_bucket"
+      },
+      "H": {
+        "item": "lpsm_morefood:raspberry"
+      },
+      "W": {
+        "item": "lpsm_morefood:strawberry"
+      },
+      "B": {
+        "item": "lpsm_morefood:bottle"
+      },
+      "Y": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "U": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:bottled_red_wine"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "lpsm_morefood:raspberry"
+      },
+      {
+        "item": "lpsm_morefood:strawberry"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

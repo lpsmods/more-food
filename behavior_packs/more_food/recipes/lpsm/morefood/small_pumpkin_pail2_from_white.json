@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:small_pumpkin_pail2_from_white_candy"
+    },
+    "tags": ["crafting_table"],
+    "group": "halloween",
+    "pattern": ["###", " X "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:white_candy"
+      },
+      "X": {
+        "item": "lpsm_morefood:small_pumpkin_pail1"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:small_pumpkin_pail2",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:white_candy"
+      },
+      {
+        "item": "lpsm_morefood:small_pumpkin_pail1"
+      }
+    ]
+  }
+}

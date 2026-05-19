@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:beef_stew"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["EPE", "OBF"],
+    "key": {
+      "E": {
+        "item": "minecraft:cooked_beef"
+      },
+      "P": {
+        "item": "minecraft:baked_potato"
+      },
+      "O": {
+        "item": "lpsm_morefood:onion"
+      },
+      "F": {
+        "item": "lpsm_morefood:flour"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:beef_stew",
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "minecraft:baked_potato"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

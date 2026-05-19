@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "morefood:item/burnt_marshmallow_on_a_stick"
-    }
-}

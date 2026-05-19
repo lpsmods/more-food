@@ -1,0 +1,35 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:grilled_cheese"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P", " X", " P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:butter"
+      },
+      "P": {
+        "item": "lpsm_morefood:toast"
+      },
+      "X": {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:grilled_cheese"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:toast"
+      },
+      {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    ]
+  }
+}

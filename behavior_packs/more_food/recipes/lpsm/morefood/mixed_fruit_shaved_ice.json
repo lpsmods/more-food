@@ -1,0 +1,50 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:mixed_fruit_shaved_ice"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:shaved_ice",
+    "pattern": ["Y#A", "IGI"],
+    "key": {
+      "#": {
+        "item": "minecraft:melon_slice"
+      },
+      "G": {
+        "item": "lpsm_morefood:shaved_ice_glass"
+      },
+      "Y": {
+        "item": "lpsm_morefood:strawberry"
+      },
+      "A": {
+        "item": "minecraft:sweet_berries"
+      },
+      "I": {
+        "item": "minecraft:ice"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:mixed_fruit_shaved_ice"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:melon_slice"
+      },
+      {
+        "item": "lpsm_morefood:shaved_ice_glass"
+      },
+      {
+        "item": "lpsm_morefood:strawberry"
+      },
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "minecraft:ice"
+      }
+    ]
+  }
+}

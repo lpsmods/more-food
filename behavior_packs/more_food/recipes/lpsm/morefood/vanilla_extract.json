@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:vanilla_extract"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " P "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:vanilla_pod"
+      },
+      "P": {
+        "item": "lpsm_morefood:bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:vanilla_pod"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      }
+    ]
+  }
+}

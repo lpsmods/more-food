@@ -1,0 +1,46 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:sap_cauldron",
+      "menu_category": {
+        "category": "none"
+      }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:lpsm_morefood:sap_cauldron": {},
+      "minecraft:loot": "loot_tables/lpsm/morefood/blocks/sap_cauldron.json",
+      "minecraft:geometry": "geometry.lpsm_assetsplus_cauldron_full",
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 2
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 2
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "minecraft:cauldron_side",
+          "render_method": "alpha_test"
+        },
+        "content": {
+          "texture": "minecraft:cauldron_water",
+          "render_method": "alpha_test"
+        },
+        "side": {
+          "texture": "minecraft:cauldron_side",
+          "render_method": "alpha_test"
+        },
+        "top": {
+          "texture": "minecraft:cauldron_top",
+          "render_method": "alpha_test"
+        },
+        "bottom": {
+          "texture": "minecraft:cauldron_bottom",
+          "render_method": "alpha_test"
+        }
+      },
+      "lpsm_morefood:layered_cauldron": {}
+    }
+  }
+}

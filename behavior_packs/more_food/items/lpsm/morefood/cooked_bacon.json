@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:cooked_bacon",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.cookedFood",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:cooked_bacon",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": 12.8
+      }
+    }
+  }
+}

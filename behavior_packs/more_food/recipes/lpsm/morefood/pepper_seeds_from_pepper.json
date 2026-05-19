@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pepper_seeds_from_pepper"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["C"],
+    "key": {
+      "C": {
+        "item": "lpsm_morefood:pepper"
+      }
+    },
+    "result": "lpsm_morefood:pepper_seeds",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:pepper"
+      }
+    ]
+  }
+}

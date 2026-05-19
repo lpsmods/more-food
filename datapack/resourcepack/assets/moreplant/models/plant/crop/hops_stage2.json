@@ -1,6 +1,0 @@
-{
-    "parent": "moreplant:block/mp_crop",
-    "textures": {
-        "crop": "moreplant:plant/crop/hops_crop/hops_stage2"
-    }
-}

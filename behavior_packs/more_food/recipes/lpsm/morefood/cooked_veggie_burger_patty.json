@@ -1,0 +1,11 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "lpsm_morefood:veggie_burger_patty_from_cooking"
+    },
+    "tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+    "input": "lpsm_morefood:veggie_burger_patty",
+    "output": "lpsm_morefood:veggie_burger_patty"
+  }
+}

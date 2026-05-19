@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pretzel_sticks"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP"],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:pretzel"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:pretzel_sticks",
+      "count": 9
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:pretzel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:cabbage_seeds",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.seed",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:cabbage_seeds",
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:cabbage_crop"
+      },
+      "minecraft:compostable": {
+        "composting_chance": 30
+      }
+    }
+  }
+}

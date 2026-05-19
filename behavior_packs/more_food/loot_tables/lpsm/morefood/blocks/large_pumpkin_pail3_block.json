@@ -1,0 +1,110 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "lpsm_morefood:large_pumpkin_pail3",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance",
+          "chance": 0.2
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "name": "lpsm_morefood:ghast_cookie",
+          "weight": 5
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:black_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:blue_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:brown_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:cyan_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:gray_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:green_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:light_blue_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:light_gray_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:lime_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:magenta_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:orange_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:pink_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:purple_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:red_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:white_candy",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "lpsm_morefood:yellow_candy",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

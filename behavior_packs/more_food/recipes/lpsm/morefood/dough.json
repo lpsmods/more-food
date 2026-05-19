@@ -1,0 +1,54 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:dough"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["# ", "PX", "YA"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:flour"
+      },
+      "P": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "X": {
+        "item": "minecraft:sugar"
+      },
+      "Y": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "A": {
+        "item": "lpsm_morefood:salt"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:dough"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      {
+        "item": "lpsm_morefood:salt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:peppermint_extract"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP", " B "],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:peppermint"
+      },
+      "B": {
+        "item": "lpsm_morefood:bottle"
+      }
+    },
+    "result": "lpsm_morefood:peppermint_extract",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:peppermint"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      }
+    ]
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "morefood:marshmallow_on_a_stick"
-  },
-  "result": "morefood:cooked_marshmallow_on_a_stick"
-}

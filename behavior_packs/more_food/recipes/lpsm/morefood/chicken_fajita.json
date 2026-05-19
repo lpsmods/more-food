@@ -1,0 +1,53 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chicken_fajita"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["C#R", "POW"],
+    "key": {
+      "C": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "#": {
+        "item": "lpsm_morefood:tortilla"
+      },
+      "R": {
+        "item": "lpsm_morefood:rice"
+      },
+      "P": {
+        "item": "lpsm_morefood:pepper"
+      },
+      "O": {
+        "item": "lpsm_morefood:onion"
+      },
+      "W": {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:chicken_fajita"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cooked_chicken"
+      },
+      {
+        "item": "lpsm_morefood:tortilla"
+      },
+      {
+        "item": "lpsm_morefood:rice"
+      },
+      {
+        "item": "lpsm_morefood:pepper"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:cheese_wedge"
+      }
+    ]
+  }
+}

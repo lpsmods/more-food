@@ -1,0 +1,61 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:vanilla_pudding"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["CMG", "SBI"],
+    "key": {
+      "C": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      "G": {
+        "item": "lpsm_morefood:gelatin"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "I": {
+        "item": "minecraft:ice"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:vanilla_pudding"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      {
+        "item": "lpsm_morefood:gelatin"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

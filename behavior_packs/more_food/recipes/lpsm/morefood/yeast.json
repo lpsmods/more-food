@@ -1,0 +1,42 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:yeast"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["WOS"],
+    "key": {
+      "W": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "P": {
+        "item": "minecraft:potato"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

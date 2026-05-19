@@ -1,0 +1,63 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:almond_sapling_block",
+      "states": {
+        "lpsm_morefood:age_bit": [0, 1]
+      },
+      "menu_category": {
+        "category": "none"
+      }
+    },
+    "components": {
+      "tag:ulkd_ess:tree_sapling_lpsm_morefood:almond_tree": {},
+      "tag:non_full": {},
+      "tag:plant": {},
+      "minecraft:loot": "loot_tables/lpsm/morefood/blocks/almond_sapling.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0
+      },
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:collision_box": false,
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:grass_block",
+              "minecraft:dirt",
+              "minecraft:podzol",
+              "minecraft:dirt_with_roots",
+              {
+                "tags": "q.any_tag('dirt','grass') && !q.any_tag('non_full')"
+              }
+            ],
+            "allowed_faces": ["up"]
+          }
+        ]
+      },
+      "minecraft:selection_box": {
+        "origin": [-7, 0, -7],
+        "size": [14, 16, 14]
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:almond_sapling",
+          "render_method": "alpha_test"
+        }
+      },
+      "lpsm_morefood:sapling": {
+        "feature": "minecraft:oak_tree_feature"
+      },
+      "lpsm_morefood:fertilizable": {
+        "growth_state": "lpsm_morefood:age_bit",
+        "max_stage": 1
+      }
+    }
+  }
+}

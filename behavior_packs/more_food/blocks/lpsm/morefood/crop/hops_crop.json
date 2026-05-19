@@ -1,0 +1,178 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:hops_crop",
+      "states": {
+        "lpsm_morefood:growth": [0, 1, 2, 3, 4, 5, 6, 7]
+      },
+      "menu_category": {
+        "category": "none"
+      }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "tag:minecraft:crop": {},
+      "tag:ulkd_ess:crop_block_lpsm_morefood:hops_crop": {},
+      "tag:ulkd_ess:crop_seed_lpsm_morefood:hops_seeds": {},
+      "tag:ulkd_ess:crop_state_name_lpsm_morefood:growth": {},
+      "tag:ulkd_ess:crop_state_value_7": {},
+      "minecraft:loot": "loot_tables/lpsm/morefood/blocks/hops.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0
+      },
+      "minecraft:geometry": "geometry.lpsm_assetsplus_crop",
+      "minecraft:collision_box": false,
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:farmland",
+              {
+                "tags": "q.any_tag('farmland') && !q.any_tag('non_full')"
+              }
+            ],
+            "allowed_faces": ["up"]
+          }
+        ]
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:hops_stage_0",
+          "render_method": "alpha_test"
+        }
+      },
+      "lpsm_morefood:crop": {
+        "growth_state": "lpsm_morefood:growth",
+        "max_stage": 7
+      },
+      "lpsm_morefood:fertilizable": {
+        "growth_state": "lpsm_morefood:growth",
+        "max_stage": 7
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 0",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 2, 16]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 1",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 2, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_1",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 2",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 2, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_2",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 3",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 2, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_3",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 4",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 6, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_4",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 5",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 6, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_5",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 6",
+        "components": {
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 6, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_6",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:growth') == 7",
+        "components": {
+          "minecraft:loot": "loot_tables/lpsm/morefood/blocks/mature_hops.json",
+          "minecraft:selection_box": {
+            "origin": [-8, 0, -8],
+            "size": [16, 11, 16]
+          },
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hops_stage_7",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

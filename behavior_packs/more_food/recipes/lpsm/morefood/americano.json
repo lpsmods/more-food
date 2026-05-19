@@ -1,0 +1,49 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:americano"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:hot_drink",
+    "pattern": ["# ", "PX", "Y "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:coffee_beans"
+      },
+      "P": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "X": {
+        "item": "minecraft:sugar"
+      },
+      "Y": {
+        "item": "lpsm_morefood:hot_beverage_cup"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:americano"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:coffee_beans"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:hot_beverage_cup"
+      }
+    ]
+  }
+}

@@ -1,9 +1,0 @@
-{
-    "parent": "morefood:template/template_cake_slice4",
-    "textures": {
-        "bottom": "morefood:block/pound_cake_bottom",
-        "top": "morefood:block/pound_cake_top",
-        "side": "morefood:block/pound_cake_side",
-        "inside": "morefood:block/pound_cake_inner"
-    }
-}

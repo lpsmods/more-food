@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "all": "supersonic:item/wooden_spoon"
-    }
-}

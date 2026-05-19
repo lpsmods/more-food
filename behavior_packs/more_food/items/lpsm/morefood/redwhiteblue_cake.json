@@ -1,0 +1,18 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:redwhiteblue_cake",
+      "menu_category": {
+        "group": "lpsm_morefood:itemGroup.name.cake",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:redwhiteblue_cake",
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:redwhiteblue_cake"
+      }
+    }
+  }
+}

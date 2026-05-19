@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pickles"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:bottled_white_wine"
+      },
+      "P": {
+        "item": "lpsm_morefood:gherkin"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:pickles",
+        "count": 6
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:bottled_white_wine"
+      },
+      {
+        "item": "lpsm_morefood:gherkin"
+      }
+    ]
+  }
+}

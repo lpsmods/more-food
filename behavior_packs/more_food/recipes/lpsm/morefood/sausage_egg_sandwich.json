@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:sausage_egg_sandwich"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" P", "XY#", " P"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:butter"
+      },
+      "P": {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      "X": {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      "Y": {
+        "item": "lpsm_morefood:fried_egg"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:sausage_egg_sandwich"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      {
+        "item": "lpsm_morefood:cooked_breakfast_sausage"
+      },
+      {
+        "item": "lpsm_morefood:fried_egg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:buckwheat",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.crop",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:buckwheat",
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:buckwheat_crop"
+      },
+      "minecraft:compostable": {
+        "composting_chance": 65
+      }
+    }
+  }
+}

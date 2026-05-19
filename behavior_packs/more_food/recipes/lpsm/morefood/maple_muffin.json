@@ -1,0 +1,51 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:maple_muffin"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["FUS", "MBY"],
+    "key": {
+      "F": {
+        "item": "lpsm_morefood:flour"
+      },
+      "U": {
+        "item": "minecraft:sugar"
+      },
+      "S": {
+        "item": "lpsm_morefood:salt"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      "B": {
+        "item": "lpsm_morefood:butter"
+      },
+      "Y": {
+        "item": "lpsm_morefood:maple_syrup"
+      }
+    },
+    "result": "lpsm_morefood:maple_muffin",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:salt"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:maple_syrup"
+      }
+    ]
+  }
+}

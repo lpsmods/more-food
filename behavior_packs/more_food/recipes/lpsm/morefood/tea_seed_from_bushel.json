@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:tea_seed_from_bushel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:tea_seed_bushel"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:tea_seeds",
+        "count": 9
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:tea_seed_bushel"
+      }
+    ]
+  }
+}

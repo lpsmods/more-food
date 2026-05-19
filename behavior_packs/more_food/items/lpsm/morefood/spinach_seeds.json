@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:spinach_seeds",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.seed",
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:spinach_seeds",
+      "minecraft:block_placer": {
+        "block": "lpsm_morefood:spinach_crop"
+      },
+      "minecraft:compostable": {
+        "composting_chance": 30
+      }
+    }
+  }
+}

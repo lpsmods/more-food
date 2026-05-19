@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:trail_mix"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "lpsm_morefood:smoked_almonds"
+      },
+      {
+        "item": "lpsm_morefood:roasted_peanut"
+      },
+      {
+        "item": "lpsm_morefood:crasins"
+      },
+      {
+        "item": "lpsm_morefood:raisens"
+      }
+    ],
+    "result": {
+      "item": "lpsm_morefood:trail_mix"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:smoked_almonds"
+      },
+      {
+        "item": "lpsm_morefood:roasted_peanut"
+      },
+      {
+        "item": "lpsm_morefood:crasins"
+      },
+      {
+        "item": "lpsm_morefood:raisens"
+      }
+    ]
+  }
+}

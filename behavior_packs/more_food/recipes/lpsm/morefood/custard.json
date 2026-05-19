@@ -1,0 +1,68 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:custard"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#", "PXY", "ABC"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "P": {
+        "item": "minecraft:egg"
+      },
+      "X": {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      "Y": {
+        "item": "lpsm_morefood:corn_starch"
+      },
+      "A": {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      "B": {
+        "item": "minecraft:bowl"
+      },
+      "C": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:custard"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 2
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      {
+        "item": "lpsm_morefood:corn_starch"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      {
+        "item": "minecraft:bowl"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

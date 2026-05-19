@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:hash_browns"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP", "PPP", "OB "],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:french_fries"
+      },
+      "O": {
+        "item": "lpsm_morefood:oil"
+      },
+      "B": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:hash_browns",
+      "count": 1
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:french_fries"
+      },
+      {
+        "item": "lpsm_morefood:oil"
+      },
+      {
+        "item": "minecraft:bowl"
+      }
+    ]
+  }
+}

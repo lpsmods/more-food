@@ -1,0 +1,58 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:lemon_leaves",
+      "menu_category": {
+        "category": "nature",
+        "group": "minecraft:itemGroup.name.leaves"
+      },
+      "states": {
+        "lpsm_morefood:distance": [1, 2, 3, 4, 5, 6, 7],
+        "lpsm_morefood:persistent": [false, true]
+      },
+      "traits": {
+        "minecraft:placement_position": {
+          "enabled_states": ["minecraft:vertical_half"]
+        }
+      }
+    },
+    "components": {
+      "tag:ulkd_ess:tree_leaves_lpsm_morefood:lemon_tree": {},
+      "tag:minecraft:is_hoe_item_destructible": {},
+      "tag:minecraft:is_shears_item_destructible": {},
+      "tag:plant": {},
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0.2
+      },
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.2
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:lemon_leaves",
+          "tint_method": "default_foliage",
+          "render_method": "alpha_test"
+        }
+      },
+      "minecraft:tick": {
+        "interval_range": [0, 0],
+        "looping": true
+      },
+      "minecraft:liquid_detection": {
+        "detection_rules": [
+          {
+            "can_contain_liquid": true,
+            "liquid_type": "water"
+          }
+        ]
+      },
+      "lpsm_morefood:leaves": {
+        "distance_state": "lpsm_morefood:distance",
+        "persistent_state": "lpsm_morefood:persistent",
+        "delay": 60
+      }
+    }
+  }
+}

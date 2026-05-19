@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:melon_juice"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:juice",
+    "pattern": ["###", " G "],
+    "key": {
+      "#": {
+        "item": "minecraft:melon"
+      },
+      "G": {
+        "item": "lpsm_morefood:tumbler_glass"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:melon_juice"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:melon"
+      },
+      {
+        "item": "lpsm_morefood:tumbler_glass"
+      }
+    ]
+  }
+}

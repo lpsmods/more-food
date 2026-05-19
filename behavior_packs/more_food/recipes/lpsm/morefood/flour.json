@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:flour"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["# #", " # "],
+    "key": {
+      "#": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:flour"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:wheat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:jalapeno_grilled_cheese",
+      "menu_category": {
+        "group": "lpsm_morefood:itemGroup.name.sandwich",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:jalapeno_grilled_cheese",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 2,
+        "saturation_modifier": 0.2
+      },
+      "lpsm_morefood:advanced_food": {
+        "scoville": 4000
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:jalapeno_cheese_bucket"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", " P "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:jalapeno_cheese_wedge"
+      },
+      "P": {
+        "item": "minecraft:bucket"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:jalapeno_cheese_bucket"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:jalapeno_cheese_wedge"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ]
+  }
+}

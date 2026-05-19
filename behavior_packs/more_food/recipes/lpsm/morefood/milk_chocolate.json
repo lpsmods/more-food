@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:milk_chocolate"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:chocolate_bar",
+    "pattern": ["##", "SM"],
+    "key": {
+      "#": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:milk_chocolate"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    ]
+  }
+}

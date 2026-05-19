@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:large_pumpkin_pail1_from_light_gray_candy"
+    },
+    "tags": ["crafting_table"],
+    "group": "halloween",
+    "pattern": ["###", "#X#", "###"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:light_gray_candy"
+      },
+      "X": {
+        "item": "lpsm_morefood:large_pumpkin_pail"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:large_pumpkin_pail1",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:light_gray_candy"
+      },
+      {
+        "item": "lpsm_morefood:large_pumpkin_pail"
+      }
+    ]
+  }
+}

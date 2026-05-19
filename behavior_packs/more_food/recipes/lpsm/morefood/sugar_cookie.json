@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:sugar_cookie"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["VMS", "FES"],
+    "key": {
+      "V": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "F": {
+        "item": "lpsm_morefood:flour"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": "lpsm_morefood:sugar_cookie",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "minecraft:egg"
+      }
+    ]
+  }
+}

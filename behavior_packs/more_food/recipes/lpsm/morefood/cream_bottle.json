@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:cream_bottle"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    ],
+    "result": [
+      {
+        "item": "lpsm_morefood:cream_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    ]
+  }
+}

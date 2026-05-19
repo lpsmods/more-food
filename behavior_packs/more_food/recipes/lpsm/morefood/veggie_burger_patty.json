@@ -1,0 +1,48 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:veggie_burger_patty"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" P ", "X#Y", " A "],
+    "key": {
+      "P": {
+        "item": "minecraft:potato"
+      },
+      "X": {
+        "item": "lpsm_morefood:corn_starch"
+      },
+      "#": {
+        "item": "minecraft:red_mushroom"
+      },
+      "Y": {
+        "item": "lpsm_morefood:onion"
+      },
+      "A": {
+        "item": "minecraft:carrot"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:veggie_burger_patty",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:potato"
+      },
+      {
+        "item": "lpsm_morefood:corn_starch"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "minecraft:carrot"
+      }
+    ]
+  }
+}

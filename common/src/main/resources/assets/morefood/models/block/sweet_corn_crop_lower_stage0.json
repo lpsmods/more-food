@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/crop",
-    "textures": {
-        "crop": "morefood:block/sweet_corn_lower_stage0"
-    }
-}

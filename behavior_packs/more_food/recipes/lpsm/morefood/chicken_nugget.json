@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chicken_nugget"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#"],
+    "key": {
+      "#": {
+        "item": "minecraft:chicken"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:chicken_nugget",
+      "count": 9
+    },
+    "unlock": [
+      {
+        "item": "minecraft:chicken"
+      }
+    ]
+  }
+}

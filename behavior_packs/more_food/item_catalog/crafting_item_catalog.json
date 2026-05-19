@@ -1,0 +1,391 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "nature",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:almond_bushel",
+              "name": "lpsm_morefood:itemGroup.name.bushel"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:wooden_knife",
+              "name": "lpsm_morefood:itemGroup.name.knife"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:wooden_spoon",
+              "name": "lpsm_morefood:itemGroup.name.spoon"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:apple_shaved_ice",
+              "name": "lpsm_morefood:itemGroup.name.shaved_ice"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:apple_juice",
+              "name": "lpsm_morefood:itemGroup.name.juice"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:apple_pie",
+              "name": "lpsm_morefood:itemGroup.name.pie"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:banana_smoothie",
+              "name": "lpsm_morefood:itemGroup.name.smoothie"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:banana_milkshake",
+              "name": "lpsm_morefood:itemGroup.name.milkshake"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:vanilla_ice_cream",
+              "name": "lpsm_morefood:itemGroup.name.ice_cream"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:grape_soda",
+              "name": "lpsm_morefood:itemGroup.name.soda"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:white_candy",
+              "name": "lpsm_morefood:itemGroup.name.candy"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:chocolate_doughnut",
+              "name": "lpsm_morefood:itemGroup.name.doughnut"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:chocolate_cake",
+              "name": "lpsm_morefood:itemGroup.name.cake"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:breadsticks",
+              "name": "lpsm_morefood:itemGroup.name.breadsticks"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:crackers",
+              "name": "lpsm_morefood:itemGroup.name.crackers"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:bread_slice",
+              "name": "lpsm_morefood:itemGroup.name.bread"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:peanut_butter_jelly_sandwich",
+              "name": "lpsm_morefood:itemGroup.name.sandwich"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:marshmallow",
+              "name": "lpsm_morefood:itemGroup.name.marshmallow"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:peanut_butter_jelly_sandwich",
+              "name": "lpsm_morefood:itemGroup.name.sandwich"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:orange_jelly",
+              "name": "lpsm_morefood:itemGroup.name.jelly"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:maple_syrup",
+              "name": "lpsm_morefood:itemGroup.name.syrup"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:orange_beverage_powder",
+              "name": "lpsm_morefood:itemGroup.name.drink_mix"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:orange_beverage",
+              "name": "lpsm_morefood:itemGroup.name.drink"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:sugar_cookie",
+              "name": "lpsm_morefood:itemGroup.name.cookie"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:milk_chocolate",
+              "name": "lpsm_morefood:itemGroup.name.chocolate_bar"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:milk_chocolate_covered_apple",
+              "name": "lpsm_morefood:itemGroup.name.chocolate_covered"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:chocolate_pudding",
+              "name": "lpsm_morefood:itemGroup.name.pudding"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:pink_cupcake",
+              "name": "lpsm_morefood:itemGroup.name.cupcake"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:large_pumpkin_pail",
+              "name": "lpsm_morefood:itemGroup.name.large_candy_pail"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:small_pumpkin_pail",
+              "name": "lpsm_morefood:itemGroup.name.small_candy_pail"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:tortilla",
+              "name": "lpsm_morefood:itemGroup.name.tortilla"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_morefood:pretzel",
+              "name": "lpsm_morefood:itemGroup.name.pretzel"
+            },
+            "items": []
+          }
+        ]
+      }
+    ]
+  }
+}

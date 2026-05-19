@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:beef_pie",
+      "menu_category": {
+        "group": "lpsm_morefood:itemGroup.name.pie",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:beef_pie",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": 2.4
+      }
+    }
+  }
+}

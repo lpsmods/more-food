@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:peanut_butter_jelly_sandwich"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [" C ", "JBP", " C "],
+    "key": {
+      "C": {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      "J": {
+        "item": "lpsm_morefood:jam"
+      },
+      "B": {
+        "item": "lpsm_morefood:butter"
+      },
+      "P": {
+        "item": "lpsm_morefood:peanut_butter"
+      }
+    },
+    "result": "lpsm_morefood:peanut_butter_jelly_sandwich",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:bread_slice"
+      },
+      {
+        "item": "lpsm_morefood:jam"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      },
+      {
+        "item": "lpsm_morefood:peanut_butter"
+      }
+    ]
+  }
+}

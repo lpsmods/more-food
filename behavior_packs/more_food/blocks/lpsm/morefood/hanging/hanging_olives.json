@@ -1,0 +1,151 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_morefood:hanging_olives",
+      "states": {
+        "lpsm_morefood:stage": [0, 1, 2, 3, 4, 5, 6, 7]
+      },
+      "menu_category": {
+        "category": "none"
+      }
+    },
+    "components": {
+      "tag:non_full": {},
+      "tag:plant": {},
+      "minecraft:loot": "loot_tables/empty.json",
+      "minecraft:light_dampening": 0,
+      "minecraft:light_emission": 0,
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 0
+      },
+      "minecraft:geometry": "minecraft:geometry.cross",
+      "minecraft:collision_box": false,
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.3
+      },
+      "minecraft:placement_filter": {
+        "conditions": [
+          {
+            "block_filter": [
+              "minecraft:oak_leaves",
+              "minecraft:spruce_leaves",
+              "minecraft:birch_leaves",
+              "minecraft:jungle_leaves",
+              "minecraft:acacia_leaves",
+              "minecraft:dark_oak_leaves",
+              "minecraft:mangrove_leaves",
+              "minecraft:cherry_leaves",
+              "minecraft:pale_oak_leaves",
+              "minecraft:azalea_leaves",
+              "minecraft:azalea_leaves_flowered",
+              "minecraft:cherry_leaves",
+              "minecraft:mangrove_leaves",
+              {
+                "tags": "q.any_tag('leaves') && !q.any_tag('non_full')"
+              }
+            ],
+            "allowed_faces": ["down"]
+          }
+        ]
+      },
+      "minecraft:selection_box": {
+        "origin": [-6.2, 8, -6.2],
+        "size": [12.4, 8, 12.4]
+      },
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_morefood:hanging_olives_stage_0",
+          "render_method": "alpha_test"
+        }
+      },
+      "lpsm_morefood:hanging_crop": {
+        "growth_state": "lpsm_morefood:growth",
+        "loot_tables": ["7,lpsm/morefood/harvest/olives"]
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 0",
+        "components": {}
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 1",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_1",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 2",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_2",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 3",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_3",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 4",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_4",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 5",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_5",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 6",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_6",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('lpsm_morefood:stage') == 7",
+        "components": {
+          "minecraft:material_instances": {
+            "*": {
+              "texture": "lpsm_morefood:hanging_olives_stage_7",
+              "render_method": "alpha_test"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

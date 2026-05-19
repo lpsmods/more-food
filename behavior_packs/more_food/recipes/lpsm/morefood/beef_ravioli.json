@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:beef_ravioli"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["CTC", "OPG"],
+    "key": {
+      "C": {
+        "item": "minecraft:cooked_beef"
+      },
+      "P": {
+        "item": "lpsm_morefood:pasta"
+      },
+      "T": {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      "O": {
+        "item": "lpsm_morefood:onion"
+      },
+      "G": {
+        "item": "lpsm_morefood:garlic"
+      }
+    },
+    "result": "lpsm_morefood:beef_ravioli",
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "lpsm_morefood:pasta"
+      },
+      {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "lpsm_morefood:garlic"
+      }
+    ]
+  }
+}

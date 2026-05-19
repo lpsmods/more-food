@@ -1,0 +1,30 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:iron_knife"
+    },
+    "tags": ["crafting_table"],
+    "group": "morefood",
+    "pattern": ["#", "S"],
+    "key": {
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:iron_knife"
+    },
+    "unlock": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  }
+}

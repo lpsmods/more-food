@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:truckle_of_cheese"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#PX"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:salt"
+      },
+      "P": {
+        "item": "minecraft:milk_bucket"
+      },
+      "X": {
+        "item": "lpsm_morefood:lemon"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:truckle_of_cheese"
+      },
+      {
+        "item": "minecraft:bucket",
+        "count": 2
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:salt"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      },
+      {
+        "item": "lpsm_morefood:lemon"
+      }
+    ]
+  }
+}

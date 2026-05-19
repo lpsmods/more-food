@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chorus_fruit_bushel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:chorus_fruit"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:chorus_fruit_bushel",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:chorus_fruit"
+      }
+    ]
+  }
+}

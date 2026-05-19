@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:meal_ready_to_eat",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.miscFood",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:icon": "lpsm_morefood:meal_ready_to_eat",
+      "lpsm_morefood:meal_ready_to_eat": {}
+    }
+  }
+}

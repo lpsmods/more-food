@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:popcorn_bucket"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["PPP", "PPP", " B "],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:popcorn"
+      },
+      "B": {
+        "item": "minecraft:bucket"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:popcorn_bucket"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:popcorn"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ]
+  }
+}

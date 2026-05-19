@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "experience": 0.35,
-  "cookingtime": 200,
-  "ingredient": {
-    "item": "morefood:bat_meat"
-  },
-  "result": "morefood:cooked_bat_meat"
-}

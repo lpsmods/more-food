@@ -1,0 +1,39 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chocolate_peanut_butter"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["POP", "CJC"],
+    "key": {
+      "P": {
+        "item": "lpsm_morefood:peanut"
+      },
+      "O": {
+        "item": "lpsm_morefood:oil"
+      },
+      "C": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "J": {
+        "item": "lpsm_morefood:jar"
+      }
+    },
+    "result": "lpsm_morefood:chocolate_peanut_butter",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:peanut"
+      },
+      {
+        "item": "lpsm_morefood:oil"
+      },
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "lpsm_morefood:jar"
+      }
+    ]
+  }
+}

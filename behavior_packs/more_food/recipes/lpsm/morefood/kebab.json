@@ -1,0 +1,53 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:kebab"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P", "XY", "ZA"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:pitta_bread"
+      },
+      "P": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "X": {
+        "item": "lpsm_morefood:lettuce"
+      },
+      "Y": {
+        "item": "lpsm_morefood:onion"
+      },
+      "Z": {
+        "item": "minecraft:muttoncooked"
+      },
+      "A": {
+        "item": "minecraft:cooked_chicken"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:kebab"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:pitta_bread"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "minecraft:muttoncooked"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      }
+    ]
+  }
+}

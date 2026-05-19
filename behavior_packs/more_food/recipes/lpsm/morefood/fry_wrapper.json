@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:fry_wrapper"
+    },
+    "tags": ["crafting_table"],
+    "group": "morefood",
+    "pattern": ["#X#", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:paper"
+      },
+      "X": {
+        "item": "minecraft:red_dye"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:fry_wrapper",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:red_dye"
+      }
+    ]
+  }
+}

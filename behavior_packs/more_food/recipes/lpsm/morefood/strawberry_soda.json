@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:strawberry_soda"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:soda",
+    "pattern": ["#CS"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:strawberry"
+      },
+      "C": {
+        "item": "lpsm_morefood:soda_can"
+      },
+      "S": {
+        "item": "lpsm_morefood:sparkling_water_bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:strawberry_soda"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:strawberry"
+      },
+      {
+        "item": "lpsm_morefood:soda_can"
+      },
+      {
+        "item": "lpsm_morefood:sparkling_water_bottle"
+      }
+    ]
+  }
+}

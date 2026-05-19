@@ -1,0 +1,45 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pulled_beef_burger"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["BC", "LO", "S"],
+    "key": {
+      "B": {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      "C": {
+        "item": "lpsm_morefood:cheese_wedge"
+      },
+      "L": {
+        "item": "lpsm_morefood:lettuce"
+      },
+      "O": {
+        "item": "lpsm_morefood:onion"
+      },
+      "S": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "result": "lpsm_morefood:pulled_beef_burger",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:burger_bun"
+      },
+      {
+        "item": "lpsm_morefood:cheese_wedge"
+      },
+      {
+        "item": "lpsm_morefood:lettuce"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      },
+      {
+        "item": "minecraft:cooked_beef"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:chocolate_chunk_oatmeal_cookie"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["SEF", "VMO", " B "],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      },
+      "F": {
+        "item": "lpsm_morefood:flour"
+      },
+      "V": {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      "M": {
+        "item": "lpsm_morefood:milk_chocolate"
+      },
+      "O": {
+        "item": "lpsm_morefood:oats"
+      },
+      "B": {
+        "item": "lpsm_morefood:butter"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:chocolate_chunk_oatmeal_cookie",
+      "count": 4
+    },
+    "unlock": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "lpsm_morefood:vanilla_extract"
+      },
+      {
+        "item": "lpsm_morefood:milk_chocolate"
+      },
+      {
+        "item": "lpsm_morefood:oats"
+      },
+      {
+        "item": "lpsm_morefood:butter"
+      }
+    ]
+  }
+}

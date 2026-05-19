@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "experience": 0.35,
-  "cookingtime": 200,
-  "ingredient": {
-    "item": "morefood:sweet_potato"
-  },
-  "result": "morefood:baked_sweet_potato"
-}

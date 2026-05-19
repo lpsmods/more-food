@@ -1,0 +1,49 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:bottled_beer"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["HHH", "SBY", "WWW"],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "H": {
+        "item": "lpsm_morefood:hops"
+      },
+      "W": {
+        "item": "minecraft:wheat"
+      },
+      "B": {
+        "item": "lpsm_morefood:bottle"
+      },
+      "Y": {
+        "item": "lpsm_morefood:yeast"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:bottled_beer"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "lpsm_morefood:hops"
+      },
+      {
+        "item": "minecraft:wheat"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      }
+    ]
+  }
+}

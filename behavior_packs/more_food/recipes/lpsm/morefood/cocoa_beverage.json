@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "lpsm_morefood:cocoa_beverage"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "lpsm_morefood:cocoa_beverage_powder"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    ],
+    "result": "lpsm_morefood:cocoa_beverage",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:cocoa_beverage_powder"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+    ]
+  }
+}

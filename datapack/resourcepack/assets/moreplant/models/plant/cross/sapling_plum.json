@@ -1,6 +1,0 @@
-{
-    "parent": "moreplant:block/mp_cross",
-    "textures": {
-        "cross": "moreplant:plant/plum_tree_sapling"
-    }
-}

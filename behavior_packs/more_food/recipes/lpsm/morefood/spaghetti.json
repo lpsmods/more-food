@@ -1,0 +1,52 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:spaghetti"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#PX", "Y A"],
+    "key": {
+      "#": {
+        "item": "minecraft:cooked_beef"
+      },
+      "P": {
+        "item": "lpsm_morefood:pasta"
+      },
+      "X": {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      "Y": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "A": {
+        "item": "lpsm_morefood:onion"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:spaghetti"
+      },
+      {
+        "item": "lpsm_morefood:jar"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "lpsm_morefood:pasta"
+      },
+      {
+        "item": "lpsm_morefood:tomato_puree"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:onion"
+      }
+    ]
+  }
+}

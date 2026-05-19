@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:bottled_cider"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["AAA", "SBY", "AAA"],
+    "key": {
+      "A": {
+        "item": "minecraft:apple"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "B": {
+        "item": "lpsm_morefood:bottle"
+      },
+      "Y": {
+        "item": "lpsm_morefood:yeast"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:bottled_cider"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:apple"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

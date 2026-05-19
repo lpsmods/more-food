@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "morefood:sweet_potato"
-  },
-  "result": "morefood:baked_sweet_potato"
-}

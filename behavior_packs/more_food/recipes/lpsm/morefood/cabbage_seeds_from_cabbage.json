@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:cabbage_seeds_from_cabbage"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["C"],
+    "key": {
+      "C": {
+        "item": "lpsm_morefood:cabbage"
+      }
+    },
+    "result": "lpsm_morefood:cabbage_seeds",
+    "unlock": [
+      {
+        "item": "lpsm_morefood:cabbage"
+      }
+    ]
+  }
+}

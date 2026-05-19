@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:beverage_cup"
+    },
+    "tags": ["crafting_table"],
+    "group": "morefood",
+    "pattern": ["XX", "##", "##"],
+    "key": {
+      "#": {
+        "item": "minecraft:paper"
+      },
+      "X": {
+        "item": "minecraft:white_dye"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:beverage_cup",
+      "count": 2
+    },
+    "unlock": [
+      {
+        "item": "minecraft:paper"
+      },
+      {
+        "item": "minecraft:white_dye"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:dark_chocolate"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:chocolate_bar",
+    "pattern": ["##", "S "],
+    "key": {
+      "#": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "S": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:dark_chocolate"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:cocoa_beans"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ]
+  }
+}

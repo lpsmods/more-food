@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:banana_milkshake"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:milkshake",
+    "pattern": ["#X#", " P "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:banana"
+      },
+      "P": {
+        "item": "lpsm_morefood:beverage_cup"
+      },
+      "X": {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:banana_milkshake"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:banana"
+      },
+      {
+        "item": "lpsm_morefood:beverage_cup"
+      },
+      {
+        "item": "lpsm_morefood:milk_bottle"
+      }
+    ]
+  }
+}

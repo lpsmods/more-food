@@ -1,0 +1,50 @@
+{
+  "format_version": "1.20.60",
+  "minecraft:block_culling_rules": {
+    "description": {
+      "identifier": "lpsm_morefood:large_pumpkin_pail_block"
+    },
+    "rules": [
+      {
+        "geometry_part": {
+          "bone": "pale",
+          "face": "down",
+          "cube": 7
+        },
+        "direction": "down"
+      },
+      {
+        "geometry_part": {
+          "bone": "pale",
+          "face": "north",
+          "cube": 6
+        },
+        "direction": "north"
+      },
+      {
+        "geometry_part": {
+          "bone": "pale",
+          "face": "south",
+          "cube": 5
+        },
+        "direction": "south"
+      },
+      {
+        "geometry_part": {
+          "bone": "pale",
+          "face": "east",
+          "cube": 8
+        },
+        "direction": "east"
+      },
+      {
+        "geometry_part": {
+          "bone": "pale",
+          "face": "west",
+          "cube": 9
+        },
+        "direction": "west"
+      }
+    ]
+  }
+}

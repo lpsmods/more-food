@@ -1,0 +1,60 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:pitta_bread"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#P", "XY", "ZA"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:flour"
+      },
+      "P": {
+        "item": "lpsm_morefood:oil"
+      },
+      "X": {
+        "item": "lpsm_morefood:yeast"
+      },
+      "Y": {
+        "item": "minecraft:sugar"
+      },
+      "Z": {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      "A": {
+        "item": "lpsm_morefood:salt"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:pitta_bread"
+      },
+      {
+        "item": "minecraft:bucket"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:flour"
+      },
+      {
+        "item": "lpsm_morefood:oil"
+      },
+      {
+        "item": "lpsm_morefood:yeast"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      },
+      {
+        "item": "lpsm_morefood:salt"
+      }
+    ]
+  }
+}

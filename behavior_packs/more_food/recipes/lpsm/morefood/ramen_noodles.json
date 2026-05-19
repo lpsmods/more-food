@@ -1,0 +1,41 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:ramen_noodles"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#EC", "N"],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:sweet_corn"
+      },
+      "N": {
+        "item": "lpsm_morefood:noodles"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      },
+      "C": {
+        "item": "minecraft:cooked_chicken"
+      }
+    },
+    "result": {
+      "item": "lpsm_morefood:ramen_noodles"
+    },
+    "unlock": [
+      {
+        "item": "lpsm_morefood:sweet_corn"
+      },
+      {
+        "item": "lpsm_morefood:noodles"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      }
+    ]
+  }
+}

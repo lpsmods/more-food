@@ -1,0 +1,47 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:banana_ice_cream"
+    },
+    "tags": ["crafting_table"],
+    "group": "lpsm_morefood:ice_cream",
+    "pattern": ["C#I", " V "],
+    "key": {
+      "#": {
+        "item": "lpsm_morefood:banana"
+      },
+      "C": {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      "I": {
+        "item": "minecraft:ice"
+      },
+      "V": {
+        "item": "lpsm_morefood:ice_cream_cone"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:banana_ice_cream"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "lpsm_morefood:banana"
+      },
+      {
+        "item": "lpsm_morefood:cream_bottle"
+      },
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "lpsm_morefood:ice_cream_cone"
+      }
+    ]
+  }
+}

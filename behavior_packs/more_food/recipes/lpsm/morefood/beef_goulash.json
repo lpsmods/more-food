@@ -1,0 +1,51 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:beef_goulash"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["ERE", "SCT", " B "],
+    "key": {
+      "E": {
+        "item": "minecraft:cooked_beef"
+      },
+      "R": {
+        "item": "lpsm_morefood:rice"
+      },
+      "S": {
+        "item": "lpsm_morefood:spinach"
+      },
+      "C": {
+        "item": "minecraft:carrot"
+      },
+      "T": {
+        "item": "lpsm_morefood:tomato"
+      },
+      "B": {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    },
+    "result": "lpsm_morefood:beef_goulash",
+    "unlock": [
+      {
+        "item": "minecraft:cooked_beef"
+      },
+      {
+        "item": "lpsm_morefood:rice"
+      },
+      {
+        "item": "lpsm_morefood:spinach"
+      },
+      {
+        "item": "minecraft:carrot"
+      },
+      {
+        "item": "lpsm_morefood:tomato"
+      },
+      {
+        "item": "lpsm_morefood:large_bowl"
+      }
+    ]
+  }
+}

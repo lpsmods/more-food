@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_morefood:pasta",
+      "menu_category": {
+        "group": "minecraft:itemGroup.name.miscFood",
+        "category": "equipment"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_morefood:pasta",
+      "minecraft:use_animation": "eat",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.61
+      },
+      "minecraft:food": {
+        "nutrition": 4,
+        "saturation_modifier": 2.4,
+        "using_converts_to": "minecraft:bowl"
+      }
+    }
+  }
+}

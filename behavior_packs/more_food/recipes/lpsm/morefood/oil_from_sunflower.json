@@ -1,0 +1,31 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:oil_from_sunflower"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", " P "],
+    "key": {
+      "#": {
+        "item": "minecraft:double_plant"
+      },
+      "P": {
+        "item": "lpsm_morefood:bottle"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:oil"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:double_plant"
+      },
+      {
+        "item": "lpsm_morefood:bottle"
+      }
+    ]
+  }
+}

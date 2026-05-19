@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.130",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "lpsm_morefood:enchanted_apple_bushel"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["###", "###", "###"],
+    "key": {
+      "#": {
+        "item": "minecraft:enchanted_apple"
+      }
+    },
+    "result": [
+      {
+        "item": "lpsm_morefood:enchanted_apple_bushel",
+        "count": 1
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:enchanted_apple"
+      }
+    ]
+  }
+}
