@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:wooden_tree_tap"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"morefood:wooden_tree_tap"},"unlock":[{"item":"minecraft:stick"},{"item":"minecraft:stick"}]}}

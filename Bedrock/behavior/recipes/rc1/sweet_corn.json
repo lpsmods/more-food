@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:sweet_corn"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:corncob"}},"result":[{"item":"morefood:sweet_corn","count":20}],"unlock":[{"item":"morefood:corncob"}]}}

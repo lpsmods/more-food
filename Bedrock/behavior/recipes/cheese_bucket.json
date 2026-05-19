@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cheese_bucket"},"tags":["crafting_table"],"pattern":["###"," P "],"key":{"#":{"item":"morefood:cheese_wedge"},"P":{"item":"minecraft:bucket"}},"result":{"item":"morefood:cheese_bucket"},"unlock":[{"item":"morefood:cheese_wedge"},{"item":"minecraft:bucket"}]}}

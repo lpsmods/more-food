@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:crackers"},"tags":["crafting_table"],"pattern":["DDF"],"key":{"D":{"item":"morefood:dough"},"F":{"item":"morefood:flour"}},"result":{"item":"morefood:crackers","count":4},"unlock":[{"item":"morefood:dough"},{"item":"morefood:flour"}]}}

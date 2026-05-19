@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:cooked_potato_wedges","menu_category":{"group":"itemGroup.name.cookedFood","category":"equipment"}},"components":{"minecraft:icon":{"texture":"morefood:cooked_potato_wedges"},"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:food":{"nutrition":6,"saturation_modifier":6.0}}}}

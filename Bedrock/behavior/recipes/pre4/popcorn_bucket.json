@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:popcorn_bucket"},"tags":["crafting_table"],"pattern":["PPP","PPP"," B "],"key":{"P":{"item":"morefood:popcorn"},"B":{"item":"minecraft:bucket"}},"result":{"item":"morefood:popcorn_bucket"},"unlock":[{"item":"morefood:popcorn"},{"item":"minecraft:bucket"}]}}

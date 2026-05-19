@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:cooked_bacon","menu_category":{"group":"itemGroup.name.cookedFood","category":"equipment"}},"components":{"minecraft:icon":{"texture":"morefood:cooked_bacon"},"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:food":{"is_meat":true,"nutrition":8,"saturation_modifier":12.8}}}}

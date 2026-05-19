@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:coconut_meat","menu_category":{"group":"itemGroup.name.miscFood","category":"equipment"}},"components":{"minecraft:icon":{"texture":"morefood:coconut_meat"},"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:food":{"nutrition":1,"saturation_modifier":2.4}}}}

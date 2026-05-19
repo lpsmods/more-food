@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:poison_berry_sack"},"tags":["crafting_table"],"pattern":["###","###","###"],"key":{"#":{"item":"morefood:poison_berries"}},"result":[{"item":"morefood:poison_berry_sack","count":1}],"unlock":[{"item":"morefood:poison_berries"}]}}

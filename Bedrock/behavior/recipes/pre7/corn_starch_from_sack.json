@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:corn_starch_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:corn_starch_sack"}},"result":[{"item":"morefood:corn_starch","count":9}],"unlock":[{"item":"morefood:corn_starch_sack"}]}}

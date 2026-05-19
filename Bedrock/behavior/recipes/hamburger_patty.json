@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:hamburger_patty"},"tags":["crafting_table"],"pattern":["###"],"key":{"#":{"item":"minecraft:beef"}},"result":{"item":"morefood:hamburger_patty","count":4},"unlock":[{"item":"minecraft:beef"}]}}

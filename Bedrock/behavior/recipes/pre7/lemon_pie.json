@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:lemon_pie"},"tags":["crafting_table"],"group":"morefood:pie","pattern":["###"," P "],"key":{"#":{"item":"morefood:lemon"},"P":{"item":"morefood:pie_crust"}},"result":{"item":"morefood:lemon_pie"},"unlock":[{"item":"morefood:lemon"},{"item":"morefood:pie_crust"}]}}

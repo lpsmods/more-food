@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:raspberry_seeds_from_raspberry"},"tags":["crafting_table"],"pattern":["C"],"key":{"C":{"item":"morefood:raspberry"}},"result":"morefood:raspberry_seeds","unlock":[{"item":"morefood:raspberry"}]}}

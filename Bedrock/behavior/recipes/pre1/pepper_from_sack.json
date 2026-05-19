@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:pepper_from_sack"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:pepper_sack"}},"result":[{"item":"morefood:pepper","count":9}],"unlock":[{"item":"morefood:pepper_sack"}]}}

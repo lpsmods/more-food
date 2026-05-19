@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:redwhiteblue_cake","menu_category":{"group":"itemGroup.name.miscFood","category":"equipment"}},"components":{"minecraft:icon":{"texture":"morefood:redwhiteblue_cake"},"minecraft:block_placer":{"block":"morefood:redwhiteblue_cake_block"}}}}

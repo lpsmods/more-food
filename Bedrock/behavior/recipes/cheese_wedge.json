@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cheese_wedge"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:truckle_of_cheese"}},"result":[{"item":"morefood:cheese_wedge","count":6}],"unlock":[{"item":"morefood:truckle_of_cheese"}]}}

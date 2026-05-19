@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:red_dye_from_apple"},"tags":["crafting_table"],"ingredients":[{"item":"minecraft:apple"},{"item":"minecraft:apple"}],"result":{"item":"minecraft:red_dye","count":2},"unlock":[{"item":"minecraft:apple"},{"item":"minecraft:apple"}]}}

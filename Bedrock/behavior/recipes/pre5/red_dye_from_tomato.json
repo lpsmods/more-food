@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:red_dye_from_tomato"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:tomato"},{"item":"morefood:tomato"}],"result":{"item":"minecraft:red_dye","count":2},"unlock":[{"item":"morefood:tomato"},{"item":"morefood:tomato"}]}}

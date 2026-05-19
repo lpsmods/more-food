@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:dark_chocolate_from_block"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:dark_chocolate_block"}},"result":[{"item":"morefood:dark_chocolate","count":9}],"unlock":[{"item":"morefood:dark_chocolate_block"}]}}

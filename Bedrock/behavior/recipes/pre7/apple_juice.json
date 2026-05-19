@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:apple_juice"},"tags":["crafting_table"],"group":"morefood:juice","pattern":["###"," G "],"key":{"#":{"item":"minecraft:apple"},"G":{"item":"morefood:tumbler_glass"}},"result":[{"item":"morefood:apple_juice"}],"unlock":[{"item":"minecraft:apple"},{"item":"morefood:tumbler_glass"}]}}

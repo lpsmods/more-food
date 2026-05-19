@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:item":{"description":{"identifier":"morefood:yellow_candy","menu_category":{"category":"equipment","group":"itemGroup.name.miscFood"}},"components":{"minecraft:icon":{"texture":"morefood:yellow_candy"},"minecraft:use_animation":"eat","minecraft:use_duration":1.61,"minecraft:food":{"nutrition":2,"saturation_modifier":0.4}}}}

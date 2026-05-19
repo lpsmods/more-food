@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:garlic_from_garlic_bulb"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:garlic_bulb"}},"result":{"item":"morefood:garlic","count":6},"unlock":[{"item":"morefood:garlic_bulb"}]}}

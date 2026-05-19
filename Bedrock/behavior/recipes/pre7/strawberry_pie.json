@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:strawberry_pie"},"tags":["crafting_table"],"group":"morefood:pie","pattern":["###"," P "],"key":{"#":{"item":"morefood:strawberry"},"P":{"item":"morefood:pie_crust"}},"result":{"item":"morefood:strawberry_pie"},"unlock":[{"item":"morefood:strawberry"},{"item":"morefood:pie_crust"}]}}

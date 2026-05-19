@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:ketchup"},"tags":["crafting_table"],"pattern":["#","P"],"key":{"#":{"item":"morefood:tomato"},"P":{"item":"morefood:bottle"}},"result":[{"item":"morefood:ketchup"}],"unlock":[{"item":"morefood:tomato"},{"item":"morefood:bottle"}]}}

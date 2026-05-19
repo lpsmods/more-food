@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:turkish_delight"},"tags":["crafting_table"],"pattern":["#","P"],"key":{"#":{"item":"morefood:flour"},"P":{"item":"morefood:gelatin"}},"result":[{"item":"morefood:turkish_delight"}],"unlock":[{"item":"morefood:flour"},{"item":"morefood:gelatin"}]}}

@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:cookie_from_block"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:cookie_block"}},"result":[{"item":"minecraft:cookie","count":9}],"unlock":[{"item":"morefood:cookie_block"}]}}

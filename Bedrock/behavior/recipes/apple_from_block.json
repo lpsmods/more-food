@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shaped":{"description":{"identifier":"morefood:apple_from_block"},"tags":["crafting_table"],"pattern":["#"],"key":{"#":{"item":"morefood:apple_block"}},"result":[{"item":"minecraft:apple","count":9}],"unlock":[{"item":"morefood:apple_block"}]}}

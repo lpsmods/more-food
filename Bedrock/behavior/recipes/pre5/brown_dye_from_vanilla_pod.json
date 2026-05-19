@@ -1,1 +1,0 @@
-{"format_version":"1.20.30","minecraft:recipe_shapeless":{"description":{"identifier":"morefood:brown_dye_from_vanilla_pod"},"tags":["crafting_table"],"ingredients":[{"item":"morefood:vanilla_pod"},{"item":"morefood:vanilla_pod"}],"result":{"item":"minecraft:brown_dye","count":2},"unlock":[{"item":"morefood:vanilla_pod"},{"item":"morefood:vanilla_pod"}]}}
