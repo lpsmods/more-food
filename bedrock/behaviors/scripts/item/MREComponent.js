@@ -1,1 +1,0 @@
-import{EquipmentSlot}from"@minecraft/server";export class MREComponent{static typeId="morefood:meal_ready_to_eat";constructor(t="mre"){this.table=t,this.onUse=this.onUse.bind(this)}onUse(t){const e=t.source.getComponent("equippable");e&&(e.setEquipment(EquipmentSlot.Mainhand),t.source.runCommand("loot give @s loot "+this.table))}}
